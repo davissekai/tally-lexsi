@@ -1,0 +1,29 @@
+You are extracting facts from part of a carbon project document (Verra VCS).
+Read the text below and fill in the 7 fields.
+FIELDS:
+- baseline: The counterfactual/business-as-usual scenario that plays out if the project does not happen (usually a deforestation rate or baseline emissions in tCO2e)
+- additionality: Proof that the project only happens because of carbon finance, and doesn't happen anyway (the test used, e.g. VT0001, investment or barrier analysis, common practice, and its conclusion)
+- leakage: Emissions generated from emission-causing activities that would've been merely moved from the project site to another site (a percentage or tCO2e)
+- permanence_buffer: A percentage of carbon credits reserved for insurance against project risks
+- crediting_period: The period in which the project earns carbon credits, with a start and end date, often measured in years
+- area: The geographical scope of the project measured in hectares
+- estimated_reductions: The tCO2e avoided, per year or in total, after leakage and the buffer are deducted
+RULES:
+- Only use facts written in the text below. Never guess or use outside knowledge.
+- Copy numbers, units and dates exactly as written (e.g. "<number> hectares", "<start year>–<end year>"). Never copy placeholder examples from these instructions.
+- "quote" is the exact sentence the value came from, copied word for word, max 40 words.
+- The quote must contain the value itself (the numbers and units). If no sentence supports it, the field is "not stated".
+- If a field is not in the text, write only "not stated" for it: no value, page or quote.
+- Keep each value short: a number with its unit, a date range, or one sentence.
+- additionality is only about whether the project needs carbon finance (e.g. an additionality tool, investment or barrier analysis). Community or biodiversity co-benefits are NOT additionality.
+Reply with JSON only, in exactly this shape:
+{
+ "baseline": {"value": "...", "page": 0, "quote": "..."},
+ "additionality": {"value": "...", "page": 0, "quote": "..."},
+ "leakage": {"value": "...", "page": 0, "quote": "..."},
+ "permanence_buffer": {"value": "...", "page": 0, "quote": "..."},
+ "crediting_period": {"value": "...", "page": 0, "quote": "..."},
+ "area": {"value": "<number> hectares", "page": 0, "quote": "..."},
+ "estimated_reductions": {"value": "<number> tCO2e", "page": 0, "quote": "..."}
+}
+If a field is not in the text, write "not stated" instead of the object, e.g. "leakage": "not stated"

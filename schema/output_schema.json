@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Tally per-chunk extraction",
+  "description": "One JSON object per document chunk. Each of the 7 Verra VCS fields is either the string \"not stated\" or an object with a short value, the page it came from, and a verbatim quote (max 40 words) that contains the value.",
+  "type": "object",
+  "$defs": {
+    "field": {
+      "oneOf": [
+        {"type": "string", "const": "not stated"},
+        {
+          "type": "object",
+          "required": ["value", "quote"],
+          "properties": {
+            "value": {"type": "string", "description": "Number with unit, date range, or one short sentence, copied as written."},
+            "page": {"type": "integer", "minimum": 0},
+            "quote": {"type": "string", "description": "Exact sentence from the chunk that contains the value."}
+          }
+        }
+      ]
+    }
+  },
+  "required": ["baseline", "additionality", "leakage", "permanence_buffer", "crediting_period", "area", "estimated_reductions"],
+  "properties": {
+    "baseline": {"$ref": "#/$defs/field", "description": "Business-as-usual scenario as a quantity (baseline emissions in tCO2e, or a deforestation rate)."},
+    "additionality": {"$ref": "#/$defs/field", "description": "Additionality tool/test used and its conclusion."},
+    "leakage": {"$ref": "#/$defs/field", "description": "Displaced emissions in tCO2e."},
+    "permanence_buffer": {"$ref": "#/$defs/field", "description": "Share of credits placed in the AFOLU non-permanence buffer, in %."},
+    "crediting_period": {"$ref": "#/$defs/field", "description": "Full crediting-period date range."},
+    "area": {"$ref": "#/$defs/field", "description": "Credited project area in hectares."},
+    "estimated_reductions": {"$ref": "#/$defs/field", "description": "Net GHG emission reductions/removals after leakage and buffer, in tCO2e."}
+  },
+  "x-merged-document-record": "After merging chunks, each field is \"not stated\", {value, page, quote}, or {value: \"conflict\", conflicts: [candidate, ...]} when chunks disagree. scorer/score_extractions.py reads this merged form."
+}

@@ -1,0 +1,513 @@
+{
+  "description": "Tally held-out benchmark: aggregate scores only. 3 unseen Verra project descriptions (126 chunks, 21 field-pairs, 20 with a stated gold value). Gold values and per-pair model outputs are withheld so the test set stays clean.",
+  "scorer": "scorer/score_extractions.py (rule-based, no LLM judge)",
+  "heldout": {
+    "tiny-aya-global (base, fp16)": {
+      "overall": {
+        "correct": 3,
+        "wrong": 8,
+        "conflict-unresolved": 10,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.1429,
+        "stated_n": 20,
+        "stated_correct": 3,
+        "stated_accuracy": 0.15
+      },
+      "per_field": {
+        "baseline": {
+          "n": 3,
+          "correct": 0,
+          "wrong": 0,
+          "conflict-unresolved": 3,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 2,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "additionality": {
+          "n": 3,
+          "correct": 0,
+          "wrong": 2,
+          "conflict-unresolved": 1,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 3,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "leakage": {
+          "n": 3,
+          "correct": 0,
+          "wrong": 3,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 3,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "permanence_buffer": {
+          "n": 3,
+          "correct": 2,
+          "wrong": 1,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.6667,
+          "stated_n": 3,
+          "stated_correct": 2,
+          "stated_accuracy": 0.6667
+        },
+        "crediting_period": {
+          "n": 3,
+          "correct": 0,
+          "wrong": 0,
+          "conflict-unresolved": 3,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 3,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "area": {
+          "n": 3,
+          "correct": 0,
+          "wrong": 0,
+          "conflict-unresolved": 3,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 3,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "estimated_reductions": {
+          "n": 3,
+          "correct": 1,
+          "wrong": 2,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.3333,
+          "stated_n": 3,
+          "stated_correct": 1,
+          "stated_accuracy": 0.3333
+        }
+      }
+    },
+    "tally-v7 (tiny-aya-global fp16 + LoRA)": {
+      "overall": {
+        "correct": 4,
+        "wrong": 7,
+        "conflict-unresolved": 9,
+        "correctly-abstained": 1,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.2381,
+        "stated_n": 20,
+        "stated_correct": 4,
+        "stated_accuracy": 0.2
+      },
+      "per_field": {
+        "baseline": {
+          "n": 3,
+          "correct": 0,
+          "wrong": 2,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 1,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.3333,
+          "stated_n": 2,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "additionality": {
+          "n": 3,
+          "correct": 0,
+          "wrong": 1,
+          "conflict-unresolved": 2,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 3,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "leakage": {
+          "n": 3,
+          "correct": 0,
+          "wrong": 3,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 3,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "permanence_buffer": {
+          "n": 3,
+          "correct": 3,
+          "wrong": 0,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 1.0,
+          "stated_n": 3,
+          "stated_correct": 3,
+          "stated_accuracy": 1.0
+        },
+        "crediting_period": {
+          "n": 3,
+          "correct": 0,
+          "wrong": 0,
+          "conflict-unresolved": 3,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 3,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "area": {
+          "n": 3,
+          "correct": 0,
+          "wrong": 0,
+          "conflict-unresolved": 3,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 3,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "estimated_reductions": {
+          "n": 3,
+          "correct": 1,
+          "wrong": 1,
+          "conflict-unresolved": 1,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.3333,
+          "stated_n": 3,
+          "stated_correct": 1,
+          "stated_accuracy": 0.3333
+        }
+      }
+    },
+    "Qwen/Qwen3-8B (4-bit NF4, thinking off)": {
+      "overall": {
+        "correct": 3,
+        "wrong": 5,
+        "conflict-unresolved": 13,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.1429,
+        "stated_n": 20,
+        "stated_correct": 3,
+        "stated_accuracy": 0.15
+      },
+      "per_field": {
+        "baseline": {
+          "n": 3,
+          "correct": 0,
+          "wrong": 0,
+          "conflict-unresolved": 3,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 2,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "additionality": {
+          "n": 3,
+          "correct": 0,
+          "wrong": 0,
+          "conflict-unresolved": 3,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 3,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "leakage": {
+          "n": 3,
+          "correct": 1,
+          "wrong": 2,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.3333,
+          "stated_n": 3,
+          "stated_correct": 1,
+          "stated_accuracy": 0.3333
+        },
+        "permanence_buffer": {
+          "n": 3,
+          "correct": 1,
+          "wrong": 2,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.3333,
+          "stated_n": 3,
+          "stated_correct": 1,
+          "stated_accuracy": 0.3333
+        },
+        "crediting_period": {
+          "n": 3,
+          "correct": 0,
+          "wrong": 0,
+          "conflict-unresolved": 3,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 3,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "area": {
+          "n": 3,
+          "correct": 0,
+          "wrong": 0,
+          "conflict-unresolved": 3,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 3,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "estimated_reductions": {
+          "n": 3,
+          "correct": 1,
+          "wrong": 1,
+          "conflict-unresolved": 1,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.3333,
+          "stated_n": 3,
+          "stated_correct": 1,
+          "stated_accuracy": 0.3333
+        }
+      },
+      "runtime_sec": 5105.983825445175,
+      "load_and_run_sec": 5230.178250789642
+    },
+    "google/gemma-3-12b-it (4-bit NF4)": "pending",
+    "tally-v8": "pending"
+  },
+  "validation_docs_miro_bandai": {
+    "description": "Two reserved validation documents (Miro 2410, Bandai Hills 2929), 14 pairs, 13 stated; same run.",
+    "tiny-aya-global (base)": {
+      "overall": {
+        "correct": 3,
+        "wrong": 6,
+        "conflict-unresolved": 4,
+        "correctly-abstained": 1,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.2857,
+        "stated_n": 13,
+        "stated_correct": 3,
+        "stated_accuracy": 0.2308
+      },
+      "per_field": {
+        "baseline": {
+          "n": 2,
+          "correct": 0,
+          "wrong": 2,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 2,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "additionality": {
+          "n": 2,
+          "correct": 0,
+          "wrong": 0,
+          "conflict-unresolved": 1,
+          "correctly-abstained": 1,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.5,
+          "stated_n": 1,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "leakage": {
+          "n": 2,
+          "correct": 1,
+          "wrong": 1,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.5,
+          "stated_n": 2,
+          "stated_correct": 1,
+          "stated_accuracy": 0.5
+        },
+        "permanence_buffer": {
+          "n": 2,
+          "correct": 2,
+          "wrong": 0,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 1.0,
+          "stated_n": 2,
+          "stated_correct": 2,
+          "stated_accuracy": 1.0
+        },
+        "crediting_period": {
+          "n": 2,
+          "correct": 0,
+          "wrong": 1,
+          "conflict-unresolved": 1,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 2,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "area": {
+          "n": 2,
+          "correct": 0,
+          "wrong": 0,
+          "conflict-unresolved": 2,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 2,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "estimated_reductions": {
+          "n": 2,
+          "correct": 0,
+          "wrong": 2,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 2,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        }
+      }
+    },
+    "tally-v7": {
+      "overall": {
+        "correct": 5,
+        "wrong": 5,
+        "conflict-unresolved": 3,
+        "correctly-abstained": 1,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.4286,
+        "stated_n": 13,
+        "stated_correct": 5,
+        "stated_accuracy": 0.3846
+      },
+      "per_field": {
+        "baseline": {
+          "n": 2,
+          "correct": 0,
+          "wrong": 2,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 2,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "additionality": {
+          "n": 2,
+          "correct": 0,
+          "wrong": 1,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 1,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.5,
+          "stated_n": 1,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "leakage": {
+          "n": 2,
+          "correct": 1,
+          "wrong": 1,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.5,
+          "stated_n": 2,
+          "stated_correct": 1,
+          "stated_accuracy": 0.5
+        },
+        "permanence_buffer": {
+          "n": 2,
+          "correct": 2,
+          "wrong": 0,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 1.0,
+          "stated_n": 2,
+          "stated_correct": 2,
+          "stated_accuracy": 1.0
+        },
+        "crediting_period": {
+          "n": 2,
+          "correct": 1,
+          "wrong": 0,
+          "conflict-unresolved": 1,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.5,
+          "stated_n": 2,
+          "stated_correct": 1,
+          "stated_accuracy": 0.5
+        },
+        "area": {
+          "n": 2,
+          "correct": 0,
+          "wrong": 0,
+          "conflict-unresolved": 2,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.0,
+          "stated_n": 2,
+          "stated_correct": 0,
+          "stated_accuracy": 0.0
+        },
+        "estimated_reductions": {
+          "n": 2,
+          "correct": 1,
+          "wrong": 1,
+          "conflict-unresolved": 0,
+          "correctly-abstained": 0,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.5,
+          "stated_n": 2,
+          "stated_correct": 1,
+          "stated_accuracy": 0.5
+        }
+      }
+    }
+  },
+  "decoding": {
+    "do_sample": false,
+    "max_new_tokens": 900,
+    "prompt": "inference/prompt.txt"
+  }
+}
