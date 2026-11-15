@@ -1,4 +1,4 @@
-# Paste this into the Antigravity agent (model: Gemini 3.8 Flash)
+# Paste this into the labelling agent (model: Gemini 3.8 Flash)
 
 Open this folder as the workspace first (the folder that contains TASK.md).
 

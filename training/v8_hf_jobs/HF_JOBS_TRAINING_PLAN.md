@@ -8,7 +8,7 @@ Status: draft only. Nothing has been uploaded, launched or spent. Every step mar
 - HF Jobs has no 2x A100 flavor (1x, 4x at $10/hr, 8x at $20/hr). For a set of about 5k examples, 4x A100 would finish about 3x faster for about the same total cost, and needs multi-GPU (DDP) code. **One A100 is the right choice.**
 - Default Job timeout is 30 minutes, so always pass `--timeout`.
 
-## Expected data (after a full Antigravity run)
+## Expected data (after a full labelling run)
 
 Estimated from the dry run on 1,200 chunks: about 4,500 to 5,500 train examples, about 600 to 800 val examples. Mean of about 1,560 tokens per example (prompt plus chunk plus answer), max about 3,300 (`ingest_v8.py` drops anything over 4,096). That is about 7 to 8.5M tokens per epoch.
 
@@ -40,7 +40,7 @@ Best-val-checkpoint selection, in plain terms: the val set is a project-group sp
 
 ## Steps (none done yet)
 
-1. Antigravity run, then `python3 /workspace/tally/antigravity_v8/ingest_v8.py <tally_v8_return.zip>`, giving `/workspace/tally/curated_v8/` (box only).
+1. Labelling run, then `python3 /workspace/tally/antigravity_v8/ingest_v8.py <tally_v8_return.zip>`, giving `/workspace/tally/curated_v8/` (box only).
 2. **[needs Renhuang's yes]** Check the credit balance on the billing page.
 3. **[needs Renhuang's yes]** Upload `curated_v8/` as a **private** HF dataset (for example `renhuang001/tally-sft-v8-data`). This does not include held-out data.
 4. Adapt `sft_push_v7/tally-sft.ipynb` into a `uv` script `train_v8.py` (PEP 723 header: torch, transformers>=5, trl, peft, datasets, accelerate). It keeps the v7 loading, scoring and merge code unchanged. The only changes are the config table above, reading the dataset from the Hub, and pushing the adapter to a private model repo at the end. HF_TOKEN comes from `--secrets HF_TOKEN` and is never printed.

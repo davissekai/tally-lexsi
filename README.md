@@ -46,7 +46,7 @@ Verra documents → text → chunks → verified, quote-grounded labels
 ## Models and licenses
 - **Base:** `CohereLabs/tiny-aya-global`, CC-BY-NC-4.0 (gated). The adapter inherits the non-commercial terms.
 - **Adapter:** [`renhuang001/tally-v7-lora`](https://huggingface.co/renhuang001/tally-v7-lora). ⟦V8⟧ `tally-v8-lora`.
-- **Training labels:** v5–v7 labels came from **Claude Opus** (Anthropic) as the teacher; v8 labels came from a **teacher LLM run through Antigravity** with the `labelling/tally_v8` package. Every label was machine-verified against the source text (exact-substring quotes, unit/type and schema checks); anything that failed verification was dropped, never guessed. All labels are in [`labels/`](labels/).
+- **Training labels:** v5–v7 labels came from **Claude Opus** (Anthropic) as the teacher; v8 labels came from **Gemini 3.8 Flash** (Google) as the teacher, with the `labelling/tally_v8` package. Every label was machine-verified against the source text (exact-substring quotes, unit/type and schema checks); anything that failed verification was dropped, never guessed. All labels are in [`labels/`](labels/).
 - **Comparison models (same prompt, decoding and scorer, 4-bit NF4):** Qwen3-8B (Apache-2.0); Gemma 3 12B IT (Gemma terms; result pending). No closed-model baseline.
 
 ## Data
@@ -131,7 +131,7 @@ labelling/tally_v8/           v8 package: RULES_V8.md, KICKOFF_PROMPT.md, TASK.m
                               tools/chunk_v8.py (section-aware chunking), tools/validate_v8.py (validator),
                               tools/build_sets_v8.py (incl. conflict-pick builder), tools/v8lib.py
 labelling/tally_v8/host/      package builder, priority ranking, held-out overlap check, return ingest
-labels/                       v6 + v7 Claude labels, v8 Antigravity labels (160 batches, 1,280 chunks);
+labels/                       v6 + v7 Claude labels, v8 Gemini 3.8 Flash labels (160 batches, 1,280 chunks);
                               v5 Opus labels are in data/opus/v5_chunk_labels.json
 data/                         dev/validation answer keys, v5 curated set, source manifests, curation notes
 training/v7_aligntune_kaggle/ the v7 notebook (AlignTune TRLSFTTrainer, QLoRA, Kaggle T4) + run notes
