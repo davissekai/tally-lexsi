@@ -1,0 +1,500 @@
+{
+  "version": "v7",
+  "seed": 42,
+  "labels_file": "incoming_v7/out/opus_labels.jsonl",
+  "labels_chunks": 809,
+  "labels_missing_registry": [],
+  "held_out_dropped": [],
+  "held_out_projects": [
+    "2410",
+    "2928",
+    "2929",
+    "4329",
+    "5172",
+    "5432"
+  ],
+  "v5_overlap_replaced": 96,
+  "v5_leftover_unique": 58,
+  "v5_leftover_positive": 48,
+  "v5_leftover_empty_pool": 10,
+  "new_positive_full": 359,
+  "new_empty_pool": 450,
+  "full_positive": 407,
+  "full_empty_pool": 460,
+  "full_empty_sampled": 136,
+  "full_empty_share": 0.25,
+  "single_field_stated": 406,
+  "single_field_not_stated": 101,
+  "n_train": 893,
+  "n_val": 157,
+  "val_frac": 0.1495,
+  "train_counts": {
+    "full_positive": 341,
+    "full_empty": 117,
+    "full_total": 458,
+    "single_field_stated": 348,
+    "single_field_not_stated": 87,
+    "single_field_total": 435,
+    "total": 893
+  },
+  "val_counts": {
+    "full_positive": 66,
+    "full_empty": 19,
+    "full_total": 85,
+    "single_field_stated": 58,
+    "single_field_not_stated": 14,
+    "single_field_total": 72,
+    "total": 157
+  },
+  "overall_counts": {
+    "full_positive": 407,
+    "full_empty": 136,
+    "full_total": 543,
+    "single_field_stated": 406,
+    "single_field_not_stated": 101,
+    "single_field_total": 507,
+    "total": 1050
+  },
+  "train_projects": [
+    "1067",
+    "1141",
+    "1168",
+    "1201",
+    "1202",
+    "1215",
+    "1311",
+    "1382",
+    "1408",
+    "142",
+    "1463",
+    "1477",
+    "1566",
+    "1650",
+    "1748",
+    "1847_1855_1865_2070",
+    "1897",
+    "1899",
+    "1900",
+    "2250",
+    "2252",
+    "2278",
+    "2297",
+    "2404",
+    "2502",
+    "2510",
+    "2532",
+    "2551",
+    "2609",
+    "3350",
+    "607",
+    "612",
+    "673",
+    "674",
+    "832",
+    "844",
+    "868",
+    "875",
+    "902",
+    "934",
+    "944",
+    "959_960_961_962",
+    "985",
+    "987"
+  ],
+  "val_projects": [
+    "1055",
+    "1340",
+    "1622",
+    "1740",
+    "1775",
+    "562",
+    "737_899_993",
+    "977_981"
+  ],
+  "n_train_projects": 44,
+  "n_val_projects": 8,
+  "project_overlap_train_val": [],
+  "train_by_project": {
+    "1067": {
+      "single_field_stated": 6,
+      "full": 6,
+      "full_empty": 1,
+      "full_positive": 5,
+      "single_field_not_stated": 1
+    },
+    "1141": {
+      "full": 7,
+      "full_positive": 7,
+      "single_field_stated": 4,
+      "single_field_not_stated": 2
+    },
+    "1168": {
+      "full": 18,
+      "full_positive": 11,
+      "single_field_not_stated": 3,
+      "full_empty": 7,
+      "single_field_stated": 16
+    },
+    "1201": {
+      "full": 14,
+      "full_empty": 5,
+      "single_field_stated": 6,
+      "full_positive": 9,
+      "single_field_not_stated": 3
+    },
+    "1202": {
+      "full": 21,
+      "full_empty": 4,
+      "single_field_stated": 17,
+      "full_positive": 17,
+      "single_field_not_stated": 5
+    },
+    "1215": {
+      "full": 26,
+      "full_positive": 19,
+      "single_field_stated": 16,
+      "single_field_not_stated": 5,
+      "full_empty": 7
+    },
+    "1311": {
+      "full": 16,
+      "full_empty": 5,
+      "single_field_stated": 6,
+      "full_positive": 11,
+      "single_field_not_stated": 3
+    },
+    "1382": {
+      "full": 6,
+      "full_empty": 4,
+      "full_positive": 2,
+      "single_field_stated": 4
+    },
+    "1408": {
+      "single_field_stated": 9,
+      "full": 23,
+      "full_positive": 9,
+      "full_empty": 14,
+      "single_field_not_stated": 1
+    },
+    "142": {
+      "full": 5,
+      "full_positive": 4,
+      "single_field_stated": 2,
+      "full_empty": 1,
+      "single_field_not_stated": 2
+    },
+    "1463": {
+      "single_field_stated": 6,
+      "full": 4,
+      "full_positive": 3,
+      "full_empty": 1
+    },
+    "1477": {
+      "full": 6,
+      "full_positive": 4,
+      "single_field_stated": 1,
+      "single_field_not_stated": 1,
+      "full_empty": 2
+    },
+    "1566": {
+      "full": 7,
+      "full_positive": 6,
+      "single_field_not_stated": 3,
+      "single_field_stated": 6,
+      "full_empty": 1
+    },
+    "1650": {
+      "full": 7,
+      "full_empty": 3,
+      "single_field_not_stated": 1,
+      "full_positive": 4,
+      "single_field_stated": 2
+    },
+    "1748": {
+      "full": 6,
+      "full_positive": 6,
+      "single_field_stated": 6,
+      "single_field_not_stated": 2
+    },
+    "1847_1855_1865_2070": {
+      "single_field_stated": 10,
+      "full": 8,
+      "full_positive": 8,
+      "single_field_not_stated": 3
+    },
+    "1897": {
+      "single_field_stated": 13,
+      "full": 18,
+      "full_positive": 13,
+      "full_empty": 5,
+      "single_field_not_stated": 1
+    },
+    "1899": {
+      "full": 5,
+      "full_positive": 5,
+      "single_field_stated": 3,
+      "single_field_not_stated": 2
+    },
+    "1900": {
+      "full": 20,
+      "full_empty": 9,
+      "single_field_stated": 12,
+      "full_positive": 11,
+      "single_field_not_stated": 2
+    },
+    "2250": {
+      "full": 6,
+      "full_positive": 5,
+      "single_field_stated": 6,
+      "single_field_not_stated": 4,
+      "full_empty": 1
+    },
+    "2252": {
+      "full": 8,
+      "full_positive": 7,
+      "single_field_stated": 7,
+      "single_field_not_stated": 1,
+      "full_empty": 1
+    },
+    "2278": {
+      "full": 8,
+      "full_positive": 4,
+      "single_field_stated": 4,
+      "full_empty": 4
+    },
+    "2297": {
+      "single_field_stated": 5,
+      "single_field_not_stated": 1,
+      "full": 6,
+      "full_positive": 6
+    },
+    "2404": {
+      "full": 7,
+      "full_empty": 3,
+      "single_field_stated": 5,
+      "single_field_not_stated": 1,
+      "full_positive": 4
+    },
+    "2502": {
+      "full": 5,
+      "full_positive": 4,
+      "single_field_stated": 4,
+      "full_empty": 1,
+      "single_field_not_stated": 1
+    },
+    "2510": {
+      "single_field_stated": 14,
+      "full": 32,
+      "full_empty": 17,
+      "full_positive": 15,
+      "single_field_not_stated": 3
+    },
+    "2532": {
+      "single_field_not_stated": 1,
+      "single_field_stated": 9,
+      "full": 6,
+      "full_positive": 6
+    },
+    "2551": {
+      "full": 7,
+      "full_positive": 6,
+      "single_field_stated": 10,
+      "single_field_not_stated": 1,
+      "full_empty": 1
+    },
+    "2609": {
+      "single_field_not_stated": 1,
+      "full": 7,
+      "full_empty": 1,
+      "single_field_stated": 7,
+      "full_positive": 6
+    },
+    "3350": {
+      "full": 8,
+      "full_positive": 7,
+      "single_field_stated": 4,
+      "single_field_not_stated": 1,
+      "full_empty": 1
+    },
+    "607": {
+      "full": 7,
+      "full_positive": 5,
+      "single_field_stated": 5,
+      "full_empty": 2
+    },
+    "612": {
+      "single_field_stated": 17,
+      "full": 23,
+      "full_positive": 22,
+      "single_field_not_stated": 8,
+      "full_empty": 1
+    },
+    "673": {
+      "full": 16,
+      "full_positive": 14,
+      "single_field_not_stated": 5,
+      "full_empty": 2,
+      "single_field_stated": 11
+    },
+    "674": {
+      "full": 6,
+      "full_positive": 4,
+      "single_field_stated": 3,
+      "single_field_not_stated": 1,
+      "full_empty": 2
+    },
+    "832": {
+      "full": 7,
+      "full_positive": 7,
+      "single_field_not_stated": 3,
+      "single_field_stated": 8
+    },
+    "844": {
+      "single_field_not_stated": 1,
+      "single_field_stated": 14,
+      "full": 8,
+      "full_empty": 1,
+      "full_positive": 7
+    },
+    "868": {
+      "full": 7,
+      "full_positive": 6,
+      "full_empty": 1,
+      "single_field_stated": 5
+    },
+    "875": {
+      "single_field_stated": 8,
+      "full": 7,
+      "full_positive": 7,
+      "single_field_not_stated": 1
+    },
+    "902": {
+      "single_field_stated": 15,
+      "full": 7,
+      "full_positive": 7,
+      "single_field_not_stated": 3
+    },
+    "934": {
+      "full": 12,
+      "full_empty": 1,
+      "full_positive": 11,
+      "single_field_stated": 8,
+      "single_field_not_stated": 4
+    },
+    "944": {
+      "single_field_stated": 8,
+      "full": 7,
+      "full_empty": 3,
+      "full_positive": 4,
+      "single_field_not_stated": 2
+    },
+    "959_960_961_962": {
+      "single_field_not_stated": 3,
+      "single_field_stated": 7,
+      "full": 8,
+      "full_positive": 8
+    },
+    "985": {
+      "full": 6,
+      "full_positive": 5,
+      "single_field_stated": 8,
+      "full_empty": 1,
+      "single_field_not_stated": 1
+    },
+    "987": {
+      "single_field_stated": 11,
+      "full": 14,
+      "full_positive": 10,
+      "full_empty": 4
+    }
+  },
+  "val_by_project": {
+    "1055": {
+      "single_field_stated": 7,
+      "single_field_not_stated": 1,
+      "full": 6,
+      "full_positive": 6
+    },
+    "1340": {
+      "full": 11,
+      "full_positive": 8,
+      "single_field_stated": 7,
+      "full_empty": 3
+    },
+    "1622": {
+      "full": 6,
+      "full_empty": 2,
+      "full_positive": 4,
+      "single_field_stated": 1
+    },
+    "1740": {
+      "full": 6,
+      "full_positive": 4,
+      "full_empty": 2,
+      "single_field_stated": 2,
+      "single_field_not_stated": 1
+    },
+    "1775": {
+      "full": 22,
+      "full_positive": 16,
+      "single_field_stated": 17,
+      "single_field_not_stated": 5,
+      "full_empty": 6
+    },
+    "562": {
+      "single_field_stated": 7,
+      "single_field_not_stated": 4,
+      "full": 8,
+      "full_positive": 7,
+      "full_empty": 1
+    },
+    "737_899_993": {
+      "full": 19,
+      "full_positive": 15,
+      "single_field_stated": 12,
+      "full_empty": 4,
+      "single_field_not_stated": 2
+    },
+    "977_981": {
+      "single_field_stated": 5,
+      "full": 7,
+      "full_positive": 6,
+      "single_field_not_stated": 1,
+      "full_empty": 1
+    }
+  },
+  "field_positive_counts_full": {
+    "area": 139,
+    "crediting_period": 101,
+    "additionality": 95,
+    "baseline": 100,
+    "leakage": 85,
+    "estimated_reductions": 185,
+    "permanence_buffer": 96
+  },
+  "field_positive_counts_single_field": {
+    "baseline": 58,
+    "additionality": 58,
+    "leakage": 58,
+    "permanence_buffer": 58,
+    "crediting_period": 58,
+    "area": 58,
+    "estimated_reductions": 58
+  },
+  "quote_checks": {
+    "not_stated": 4947,
+    "quote_ok": 716,
+    "trimmed": 3
+  },
+  "max_content_tokens": 5297,
+  "tokenizer": "tokenizer.json",
+  "neg_share_cap": 0.25,
+  "not_stated_sf_ratio": 0.25,
+  "target_max_examples": 1050,
+  "single_field_capped": true,
+  "single_field_stated_before_cap": 801,
+  "single_field_not_stated_before_cap": 200,
+  "prompt": "v5 7-field extraction prompt",
+  "answer_shape": "value/page/quote or 'not stated'",
+  "miro_bandai_reserved_eval": 23
+}

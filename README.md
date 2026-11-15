@@ -46,12 +46,12 @@ Verra documents → text → chunks → verified, quote-grounded labels
 ## Models and licenses
 - **Base:** `CohereLabs/tiny-aya-global`, CC-BY-NC-4.0 (gated). The adapter inherits the non-commercial terms.
 - **Adapter:** [`renhuang001/tally-v7-lora`](https://huggingface.co/renhuang001/tally-v7-lora). ⟦V8⟧ `tally-v8-lora`.
-- **Training labels:** produced by a teacher LLM and then machine-verified against the source text; anything that failed verification was dropped, never guessed.
+- **Training labels:** v5–v7 labels came from **Claude Opus** (Anthropic) as the teacher; v8 labels came from a **teacher LLM run through Antigravity** with the `labelling/tally_v8` package. Every label was machine-verified against the source text (exact-substring quotes, unit/type and schema checks); anything that failed verification was dropped, never guessed. All labels are in [`labels/`](labels/).
 - **Comparison models (same prompt, decoding and scorer, 4-bit NF4):** Qwen3-8B (Apache-2.0); Gemma 3 12B IT (Gemma terms; result pending). No closed-model baseline.
 
 ## Data
-- **Source:** public Verra VCS registry documents for forest/AFOLU projects. The documents remain their authors' copyright and are not redistributed.
-- **v7 SFT set:** 1,050 examples (893 train from 44 projects / 157 validation from 8 projects); full-document-chunk extraction plus single-field questions, including "not stated" cases. ⟦V8⟧ v8: 3,206 train / 396 validation.
+- **Source:** public Verra VCS registry documents for forest/AFOLU projects (URLs and SHA-256 in `data/sources/MANIFEST*.csv`). Rights to the source text remain with the document owners. The chunk text used for training is published for reproducibility in [`renhuang001/tally-sft-data`](https://huggingface.co/datasets/renhuang001/tally-sft-data), with contact e-mails/phone numbers redacted; full PDFs are not re-hosted.
+- **v7 SFT set:** 1,050 examples (893 train from 44 projects / 157 validation from 8 projects); full-document-chunk extraction plus single-field questions, including "not stated" cases. ⟦V8⟧ v8: 3,206 train / 396 validation, adding section-aware chunks and conflict-pick examples. Both sets: [`renhuang001/tally-sft-data`](https://huggingface.co/datasets/renhuang001/tally-sft-data) (configs `v7`, `v8`).
 - **Splits:** by project group, not by chunk, so near-identical documents never cross train/validation. Validation documents and held-out projects are excluded from training and labelling.
 - **Held-out test:** 3 project descriptions never seen in training or labelling (Verra 5172, 5432, 4329): 126 chunks, 21 field-pairs, 20 with a stated gold value. The answer key was hand-built from Verra definitions.
 
@@ -111,17 +111,39 @@ v7 training: free Kaggle T4, ≈6.3 h. Held-out inference: base 51 min, v7 ≈21
 3. RL with a verifiable, quote-grounded reward through AlignTune's RL trainers.
 4. A larger held-out set (10+ projects); AuditKIT evaluation; cost-per-1k vs API.
 
-## What's in this repo (Stage 1 release)
+## What's in this repo
 ```
-inference/run_extraction.py   run base Tiny Aya or Tally (base + LoRA) on a document's text
+inference/run_extraction.py   run base Tiny Aya or Tally (base + LoRA) on a document; uses the grounded merge
 inference/prompt.txt          the extraction prompt used for every result above
 schema/output_schema.json     per-chunk output schema and merged-record shape
-scorer/score_extractions.py   rule-based scorer used for every result
-scorer/score_file.py          CLI: score merged outputs against your own answer key
-results/scores_aggregate.json aggregate held-out and validation scores
-provenance/lexsi_provenance.json  AlignTune provenance record from the v7 run
+scorer/                       rule-based scorer (score_extractions.py) + CLI (score_file.py)
+src/tally_merge.py            grounded merge: quote-in-document, value-in-quote and unit checks, conflicts
+src/chunk_merge.py            v4–v7 fixed-window chunker (3,500 tokens / 300 overlap) + merge
+src/chunk_new.py, src/build_v5.py, src/build_v7.py, src/rebalance.py, src/build_and_curate.py
+                              SFT data builders (project-group split, empty-chunk cap, single-field questions)
+                              and the CuratorKIT step (gates, dedup, clean, messages export, provenance)
+src/opus/                     v5 Claude Opus labelling pipeline: batch builders, reply ingest + quote checks
+src/key_draft.py, build_key.py dev-set answer-key builder (quotes verified against the text)
+src/verra_calc.py, calc_cell.py Verra consistency calculator
+scripts/download_docs.py      fetch source PDFs listed in data/sources/MANIFEST*.csv
+labelling/claude_kit/         v6–v7 labelling kit: RULES.md, TASK.md, check_quotes.py (quote-grounding validator)
+labelling/tally_v8/           v8 package: RULES_V8.md, KICKOFF_PROMPT.md, TASK.md, label schema,
+                              tools/chunk_v8.py (section-aware chunking), tools/validate_v8.py (validator),
+                              tools/build_sets_v8.py (incl. conflict-pick builder), tools/v8lib.py
+labelling/tally_v8/host/      package builder, priority ranking, held-out overlap check, return ingest
+labels/                       v6 + v7 Claude labels, v8 Antigravity labels (160 batches, 1,280 chunks);
+                              v5 Opus labels are in data/opus/v5_chunk_labels.json
+data/                         dev/validation answer keys, v5 curated set, source manifests, curation notes
+training/v7_aligntune_kaggle/ the v7 notebook (AlignTune TRLSFTTrainer, QLoRA, Kaggle T4) + run notes
+training/v8_hf_jobs/          the v8 HF Jobs script (AlignTune, bf16, A100) + plan
+benchmark/                    Kaggle notebooks: open-model benchmark (Qwen3, Gemma 3) and v8 held-out run
+notebooks/                    earlier extraction / SFT / held-out notebooks (outputs cleared)
+heldout_tools/build_chunks.py how held-out chunks were built (the documents' answer key is not included)
+results/                      aggregate held-out scores, dev-set extraction outputs, calculator results
+provenance/                   AlignTune provenance record from the v7 run
 ```
-Quick start:
+
+### Quick start (inference)
 ```bash
 pip install -r requirements.txt
 export HF_TOKEN=...            # Tiny Aya Global is gated
@@ -130,7 +152,14 @@ python inference/run_extraction.py project.txt
 python scorer/score_file.py --pred project.tally.json --key my_answer_key.json
 ```
 
-**Withheld for IP (available to the organisers on request):** training and validation data, labels and the labelling pipeline, the grounded-merge / quote-verification code, training scripts, data builders, and the held-out answer key and per-answer outputs (kept private so the test set stays clean). `run_extraction.py` ships a simple merge baseline, so its merged output will not exactly reproduce the grounded-merge numbers above; the adapter, prompt, decoding settings and scorer are the same.
+## Reproduce
+1. **Documents.** `python scripts/download_docs.py` (or fetch from the Verra registry pages listed in `data/sources/`), then `pdftotext -layout` each PDF.
+2. **Labels.** Either reuse ours (`labels/`, `data/opus/v5_chunk_labels.json`) or re-label: v5 with `src/opus/build_batches.py` → teacher → `src/opus/ingest.py`; v6–v7 with `labelling/claude_kit` (rules + `check_quotes.py`); v8 with `labelling/tally_v8` (`tools/chunk_v8.py` → label per `RULES_V8.md` → `tools/validate_v8.py` → `tools/build_sets_v8.py`). Any label whose quote is not an exact substring of its chunk is rejected.
+3. **SFT sets.** v7: `python src/build_v7.py` (project-group split, held-out projects 5172/5432/4329/2928 and eval docs 2410/2929 excluded), then the CuratorKIT step in `src/build_and_curate.py`. v8: `tools/build_sets_v8.py`. Or download the exact sets from [`renhuang001/tally-sft-data`](https://huggingface.co/datasets/renhuang001/tally-sft-data).
+4. **Train.** v7: run `training/v7_aligntune_kaggle/tally-sft.ipynb` on a Kaggle T4 (attach the v7 files as a dataset, add an `HF_TOKEN` secret). v8: `hf jobs uv run --flavor a100-large --secrets HF_TOKEN training/v8_hf_jobs/train_v8_hfjobs.py` (set `HUB_REPO` to your own repo; `MAX_STEPS=20` for a smoke test).
+5. **Evaluate.** `inference/run_extraction.py` (or the notebooks in `benchmark/`) → `src/tally_merge.py` → `scorer/`. Seed 42, greedy decoding, `max_new_tokens=900` everywhere.
+
+**Kept private:** the held-out answer key and per-answer held-out outputs for projects 5172, 5432 and 4329 (plus neighbour 2928), so the test set stays clean for later rounds; and credentials. Contact details in source text are redacted. The v8 adapter will be published with the v8 results.
 
 ## Declaration of work done outside the hackathon
 TODO (Renhuang to confirm): all Tally code, data, labels and models were created during the hackathon; public Verra documents and open-source libraries were used as permitted.

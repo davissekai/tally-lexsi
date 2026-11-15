@@ -1,0 +1,8 @@
+{"chunk_id": "1202_PD::chunk-012", "field": "estimated_reductions_pre_buffer", "verdict": "reject", "reason": "moved"}
+{"chunk_id": "1202_PD::chunk-012", "field": "estimated_reductions", "verdict": "fix", "value": "5,670,301", "quote": "Total 5,691,696 21,395 0 5,670,301", "unit": "tCO2e", "reason": "known fix"}
+{"chunk_id": "832_PD_n::chunk-000", "field": "estimated_reductions_pre_buffer", "verdict": "reject", "reason": "moved"}
+{"chunk_id": "832_PD_n::chunk-000", "field": "estimated_reductions", "verdict": "fix", "value": "9,432,299", "quote": "it is estimated that 9,432,299 tonnes of carbon dioxide emissions will be avoided which would have been emitted into the atmosphere in a period of 10 years in the absence of the project, not including the project’s non-permanence risk buffer contribution.", "unit": "tCO2e", "reason": "known fix"}
+{"chunk_id": "1408_PD::chunk-000", "field": "estimated_reductions", "verdict": "reject", "reason": "known fix"}
+{"chunk_id": "1408_PD::chunk-002", "field": "estimated_reductions", "verdict": "reject", "reason": "known fix"}
+{"chunk_id": "2510_PD::chunk-034", "field": "estimated_reductions", "verdict": "reject", "reason": "known fix"}
+{"chunk_id": "1408_VR_2022::chunk-006", "field": "leakage", "verdict": "fix", "value": "-744,376", "quote": "Total 4,342,754 9,003,718 -16,890 -24,408 -744,376 -434,275 3,139,694", "unit": "tCO2e", "reason": "known fix"}

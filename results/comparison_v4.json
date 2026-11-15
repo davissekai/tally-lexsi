@@ -1,0 +1,831 @@
+{
+  "backend": "aligntune-trl",
+  "train_errors": {},
+  "train_metrics": {
+    "aligntune_result": {
+      "training_time": 2701.7833766937256,
+      "final_loss": 0.2730212112267812,
+      "model_path": "/kaggle/working/tally/finetune_runs",
+      "steps": 24,
+      "epochs": 0,
+      "task_type": "chat_completion"
+    },
+    "final_eval": {
+      "eval_loss": 0.9835407137870789
+    },
+    "train_loss_log": [
+      [
+        0.12903225806451613,
+        0.5384461879730225
+      ],
+      [
+        0.25806451612903225,
+        0.5800636410713196
+      ],
+      [
+        0.3870967741935484,
+        0.5848041772842407
+      ],
+      [
+        0.5161290322580645,
+        0.5214148759841919
+      ],
+      [
+        0.6451612903225806,
+        0.37991470098495483
+      ],
+      [
+        0.7741935483870968,
+        0.3039602041244507
+      ],
+      [
+        0.9032258064516129,
+        0.28010833263397217
+      ],
+      [
+        1.0,
+        0.24851436913013458
+      ],
+      [
+        1.129032258064516,
+        0.21271276473999023
+      ],
+      [
+        1.2580645161290323,
+        0.25448235869407654
+      ],
+      [
+        1.3870967741935485,
+        0.23078829050064087
+      ],
+      [
+        1.5161290322580645,
+        0.1662025898694992
+      ],
+      [
+        1.6451612903225805,
+        0.20723478496074677
+      ],
+      [
+        1.7741935483870968,
+        0.2189585566520691
+      ],
+      [
+        1.903225806451613,
+        0.14851194620132446
+      ],
+      [
+        2.0,
+        0.2394794225692749
+      ],
+      [
+        2.129032258064516,
+        0.1297021508216858
+      ],
+      [
+        2.258064516129032,
+        0.18887127935886383
+      ],
+      [
+        2.3870967741935485,
+        0.209690123796463
+      ],
+      [
+        2.5161290322580645,
+        0.18698027729988098
+      ],
+      [
+        2.6451612903225805,
+        0.18715153634548187
+      ],
+      [
+        2.774193548387097,
+        0.13073565065860748
+      ],
+      [
+        2.903225806451613,
+        0.20654426515102386
+      ],
+      [
+        3.0,
+        0.1972365826368332
+      ]
+    ],
+    "eval_loss_by_epoch": [
+      [
+        1.0,
+        1.0058207511901855
+      ],
+      [
+        2.0,
+        0.9838123917579651
+      ],
+      [
+        3.0,
+        0.9835407137870789
+      ],
+      [
+        3.0,
+        0.9835407137870789
+      ]
+    ],
+    "train_summary": {
+      "train_runtime": 2700.9252,
+      "train_samples_per_second": 0.069,
+      "train_steps_per_second": 0.009,
+      "total_flos": 1.43065755804672e+16,
+      "train_loss": 0.2730212112267812,
+      "epoch": 3.0,
+      "step": 24
+    },
+    "best_model_checkpoint": "/kaggle/working/tally/finetune_runs/checkpoint-24",
+    "oom_skipped_microbatches": [
+      6022,
+      6022
+    ]
+  },
+  "base_this_run": {
+    "n_pairs": 14,
+    "overall": {
+      "correct": 3,
+      "wrong": 6,
+      "conflict-unresolved": 4,
+      "correctly-abstained": 1,
+      "hallucinated": 0,
+      "accuracy_incl_abstention": 0.2857,
+      "stated_n": 13,
+      "stated_correct": 3,
+      "stated_accuracy": 0.2308
+    },
+    "per_field": {
+      "baseline": {
+        "n": 2,
+        "correct": 0,
+        "wrong": 2,
+        "conflict-unresolved": 0,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.0,
+        "stated_n": 2,
+        "stated_correct": 0,
+        "stated_accuracy": 0.0
+      },
+      "additionality": {
+        "n": 2,
+        "correct": 0,
+        "wrong": 0,
+        "conflict-unresolved": 1,
+        "correctly-abstained": 1,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.5,
+        "stated_n": 1,
+        "stated_correct": 0,
+        "stated_accuracy": 0.0
+      },
+      "leakage": {
+        "n": 2,
+        "correct": 1,
+        "wrong": 1,
+        "conflict-unresolved": 0,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.5,
+        "stated_n": 2,
+        "stated_correct": 1,
+        "stated_accuracy": 0.5
+      },
+      "permanence_buffer": {
+        "n": 2,
+        "correct": 2,
+        "wrong": 0,
+        "conflict-unresolved": 0,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 1.0,
+        "stated_n": 2,
+        "stated_correct": 2,
+        "stated_accuracy": 1.0
+      },
+      "crediting_period": {
+        "n": 2,
+        "correct": 0,
+        "wrong": 1,
+        "conflict-unresolved": 1,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.0,
+        "stated_n": 2,
+        "stated_correct": 0,
+        "stated_accuracy": 0.0
+      },
+      "area": {
+        "n": 2,
+        "correct": 0,
+        "wrong": 0,
+        "conflict-unresolved": 2,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.0,
+        "stated_n": 2,
+        "stated_correct": 0,
+        "stated_accuracy": 0.0
+      },
+      "estimated_reductions": {
+        "n": 2,
+        "correct": 0,
+        "wrong": 2,
+        "conflict-unresolved": 0,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.0,
+        "stated_n": 2,
+        "stated_correct": 0,
+        "stated_accuracy": 0.0
+      }
+    },
+    "pairs": [
+      {
+        "field": "baseline",
+        "gold_value": "0 tCO2e",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2410_Miro-Ghana_Verification_2020-2022"
+      },
+      {
+        "field": "additionality",
+        "gold_value": "NOT_STATED",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "correctly-abstained",
+        "note": "",
+        "doc": "2410_Miro-Ghana_Verification_2020-2022"
+      },
+      {
+        "field": "leakage",
+        "gold_value": "0 tCO2e",
+        "extract_status": "clean",
+        "extract_value": "15758 tCO2e",
+        "category": "wrong",
+        "note": "extracted value does not match gold",
+        "doc": "2410_Miro-Ghana_Verification_2020-2022"
+      },
+      {
+        "field": "permanence_buffer",
+        "gold_value": "10%",
+        "extract_status": "clean",
+        "extract_value": "10%",
+        "category": "correct",
+        "note": "",
+        "doc": "2410_Miro-Ghana_Verification_2020-2022"
+      },
+      {
+        "field": "crediting_period",
+        "gold_value": "24 March 2016 – 30 June 2045",
+        "extract_status": "conflict",
+        "extract_value": "conflict",
+        "category": "conflict-unresolved",
+        "note": "gold is among conflict candidates",
+        "doc": "2410_Miro-Ghana_Verification_2020-2022"
+      },
+      {
+        "field": "area",
+        "gold_value": "3,871 ha",
+        "extract_status": "conflict",
+        "extract_value": "conflict",
+        "category": "conflict-unresolved",
+        "note": "gold is among conflict candidates",
+        "doc": "2410_Miro-Ghana_Verification_2020-2022"
+      },
+      {
+        "field": "estimated_reductions",
+        "gold_value": "221,205 tCO2e",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2410_Miro-Ghana_Verification_2020-2022"
+      },
+      {
+        "field": "baseline",
+        "gold_value": "0 tCO2e",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024"
+      },
+      {
+        "field": "additionality",
+        "gold_value": "Additional under the CDM Combined tool to identify the baseline scenario and demonstrate additionality in A/R CDM project activities v1",
+        "extract_status": "conflict",
+        "extract_value": "conflict",
+        "category": "conflict-unresolved",
+        "note": "gold is among conflict candidates",
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024"
+      },
+      {
+        "field": "leakage",
+        "gold_value": "0 tCO2e",
+        "extract_status": "clean",
+        "extract_value": "0 tCO2e",
+        "category": "correct",
+        "note": "",
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024"
+      },
+      {
+        "field": "permanence_buffer",
+        "gold_value": "10%",
+        "extract_status": "clean",
+        "extract_value": "10% of Net GHG Benefits",
+        "category": "correct",
+        "note": "",
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024"
+      },
+      {
+        "field": "crediting_period",
+        "gold_value": "1 June 2022 – 31 May 2042",
+        "extract_status": "clean",
+        "extract_value": "20 years",
+        "category": "wrong",
+        "note": "extracted value does not match gold",
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024"
+      },
+      {
+        "field": "area",
+        "gold_value": "7,372 ha",
+        "extract_status": "conflict",
+        "extract_value": "conflict",
+        "category": "conflict-unresolved",
+        "note": "gold not among conflict candidates",
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024"
+      },
+      {
+        "field": "estimated_reductions",
+        "gold_value": "3,400,660 tCO2e",
+        "extract_status": "clean",
+        "extract_value": "3,778,511 tCO2e",
+        "category": "wrong",
+        "note": "extracted value does not match gold",
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024"
+      }
+    ]
+  },
+  "finetuned_this_run": {
+    "n_pairs": 14,
+    "overall": {
+      "correct": 0,
+      "wrong": 13,
+      "conflict-unresolved": 0,
+      "correctly-abstained": 1,
+      "hallucinated": 0,
+      "accuracy_incl_abstention": 0.0714,
+      "stated_n": 13,
+      "stated_correct": 0,
+      "stated_accuracy": 0.0
+    },
+    "per_field": {
+      "baseline": {
+        "n": 2,
+        "correct": 0,
+        "wrong": 2,
+        "conflict-unresolved": 0,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.0,
+        "stated_n": 2,
+        "stated_correct": 0,
+        "stated_accuracy": 0.0
+      },
+      "additionality": {
+        "n": 2,
+        "correct": 0,
+        "wrong": 1,
+        "conflict-unresolved": 0,
+        "correctly-abstained": 1,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.5,
+        "stated_n": 1,
+        "stated_correct": 0,
+        "stated_accuracy": 0.0
+      },
+      "leakage": {
+        "n": 2,
+        "correct": 0,
+        "wrong": 2,
+        "conflict-unresolved": 0,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.0,
+        "stated_n": 2,
+        "stated_correct": 0,
+        "stated_accuracy": 0.0
+      },
+      "permanence_buffer": {
+        "n": 2,
+        "correct": 0,
+        "wrong": 2,
+        "conflict-unresolved": 0,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.0,
+        "stated_n": 2,
+        "stated_correct": 0,
+        "stated_accuracy": 0.0
+      },
+      "crediting_period": {
+        "n": 2,
+        "correct": 0,
+        "wrong": 2,
+        "conflict-unresolved": 0,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.0,
+        "stated_n": 2,
+        "stated_correct": 0,
+        "stated_accuracy": 0.0
+      },
+      "area": {
+        "n": 2,
+        "correct": 0,
+        "wrong": 2,
+        "conflict-unresolved": 0,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.0,
+        "stated_n": 2,
+        "stated_correct": 0,
+        "stated_accuracy": 0.0
+      },
+      "estimated_reductions": {
+        "n": 2,
+        "correct": 0,
+        "wrong": 2,
+        "conflict-unresolved": 0,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.0,
+        "stated_n": 2,
+        "stated_correct": 0,
+        "stated_accuracy": 0.0
+      }
+    },
+    "pairs": [
+      {
+        "field": "baseline",
+        "gold_value": "0 tCO2e",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2410_Miro-Ghana_Verification_2020-2022"
+      },
+      {
+        "field": "additionality",
+        "gold_value": "NOT_STATED",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "correctly-abstained",
+        "note": "",
+        "doc": "2410_Miro-Ghana_Verification_2020-2022"
+      },
+      {
+        "field": "leakage",
+        "gold_value": "0 tCO2e",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2410_Miro-Ghana_Verification_2020-2022"
+      },
+      {
+        "field": "permanence_buffer",
+        "gold_value": "10%",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2410_Miro-Ghana_Verification_2020-2022"
+      },
+      {
+        "field": "crediting_period",
+        "gold_value": "24 March 2016 – 30 June 2045",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2410_Miro-Ghana_Verification_2020-2022"
+      },
+      {
+        "field": "area",
+        "gold_value": "3,871 ha",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2410_Miro-Ghana_Verification_2020-2022"
+      },
+      {
+        "field": "estimated_reductions",
+        "gold_value": "221,205 tCO2e",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2410_Miro-Ghana_Verification_2020-2022"
+      },
+      {
+        "field": "baseline",
+        "gold_value": "0 tCO2e",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024"
+      },
+      {
+        "field": "additionality",
+        "gold_value": "Additional under the CDM Combined tool to identify the baseline scenario and demonstrate additionality in A/R CDM project activities v1",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024"
+      },
+      {
+        "field": "leakage",
+        "gold_value": "0 tCO2e",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024"
+      },
+      {
+        "field": "permanence_buffer",
+        "gold_value": "10%",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024"
+      },
+      {
+        "field": "crediting_period",
+        "gold_value": "1 June 2022 – 31 May 2042",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024"
+      },
+      {
+        "field": "area",
+        "gold_value": "7,372 ha",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024"
+      },
+      {
+        "field": "estimated_reductions",
+        "gold_value": "3,400,660 tCO2e",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document",
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024"
+      }
+    ]
+  },
+  "original_miro_bandai": {
+    "n_pairs": 14,
+    "overall": {
+      "correct": 4,
+      "wrong": 2,
+      "conflict-unresolved": 7,
+      "correctly-abstained": 1,
+      "hallucinated": 0,
+      "accuracy_incl_abstention": 0.3571,
+      "stated_n": 13,
+      "stated_correct": 4,
+      "stated_accuracy": 0.3077
+    },
+    "per_field": {
+      "baseline": {
+        "n": 2,
+        "correct": 1,
+        "wrong": 1,
+        "conflict-unresolved": 0,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.5,
+        "stated_n": 2,
+        "stated_correct": 1,
+        "stated_accuracy": 0.5
+      },
+      "additionality": {
+        "n": 2,
+        "correct": 1,
+        "wrong": 0,
+        "conflict-unresolved": 0,
+        "correctly-abstained": 1,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 1.0,
+        "stated_n": 1,
+        "stated_correct": 1,
+        "stated_accuracy": 1.0
+      },
+      "leakage": {
+        "n": 2,
+        "correct": 1,
+        "wrong": 0,
+        "conflict-unresolved": 1,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.5,
+        "stated_n": 2,
+        "stated_correct": 1,
+        "stated_accuracy": 0.5
+      },
+      "permanence_buffer": {
+        "n": 2,
+        "correct": 1,
+        "wrong": 1,
+        "conflict-unresolved": 0,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.5,
+        "stated_n": 2,
+        "stated_correct": 1,
+        "stated_accuracy": 0.5
+      },
+      "crediting_period": {
+        "n": 2,
+        "correct": 0,
+        "wrong": 0,
+        "conflict-unresolved": 2,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.0,
+        "stated_n": 2,
+        "stated_correct": 0,
+        "stated_accuracy": 0.0
+      },
+      "area": {
+        "n": 2,
+        "correct": 0,
+        "wrong": 0,
+        "conflict-unresolved": 2,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.0,
+        "stated_n": 2,
+        "stated_correct": 0,
+        "stated_accuracy": 0.0
+      },
+      "estimated_reductions": {
+        "n": 2,
+        "correct": 0,
+        "wrong": 0,
+        "conflict-unresolved": 2,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.0,
+        "stated_n": 2,
+        "stated_correct": 0,
+        "stated_accuracy": 0.0
+      }
+    },
+    "pairs": [
+      {
+        "doc": "2410_Miro-Ghana_Verification_2020-2022",
+        "field": "baseline",
+        "gold_value": "0 tCO2e",
+        "extract_status": "clean",
+        "extract_value": "0 tCO2e",
+        "category": "correct",
+        "note": ""
+      },
+      {
+        "doc": "2410_Miro-Ghana_Verification_2020-2022",
+        "field": "additionality",
+        "gold_value": "NOT_STATED",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "correctly-abstained",
+        "note": ""
+      },
+      {
+        "doc": "2410_Miro-Ghana_Verification_2020-2022",
+        "field": "leakage",
+        "gold_value": "0 tCO2e",
+        "extract_status": "conflict",
+        "extract_value": "conflict",
+        "category": "conflict-unresolved",
+        "note": "gold not among conflict candidates"
+      },
+      {
+        "doc": "2410_Miro-Ghana_Verification_2020-2022",
+        "field": "permanence_buffer",
+        "gold_value": "10%",
+        "extract_status": "clean",
+        "extract_value": "10%",
+        "category": "correct",
+        "note": ""
+      },
+      {
+        "doc": "2410_Miro-Ghana_Verification_2020-2022",
+        "field": "crediting_period",
+        "gold_value": "24 March 2016 – 30 June 2045",
+        "extract_status": "conflict",
+        "extract_value": "conflict",
+        "category": "conflict-unresolved",
+        "note": "gold is among conflict candidates"
+      },
+      {
+        "doc": "2410_Miro-Ghana_Verification_2020-2022",
+        "field": "area",
+        "gold_value": "3,871 ha",
+        "extract_status": "conflict",
+        "extract_value": "conflict",
+        "category": "conflict-unresolved",
+        "note": "gold is among conflict candidates"
+      },
+      {
+        "doc": "2410_Miro-Ghana_Verification_2020-2022",
+        "field": "estimated_reductions",
+        "gold_value": "221,205 tCO2e",
+        "extract_status": "conflict",
+        "extract_value": "conflict",
+        "category": "conflict-unresolved",
+        "note": "gold is among conflict candidates"
+      },
+      {
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024",
+        "field": "baseline",
+        "gold_value": "0 tCO2e",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document"
+      },
+      {
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024",
+        "field": "additionality",
+        "gold_value": "Additional under the CDM Combined tool to identify the baseline scenario and demonstrate additionality in A/R CDM project activities v1",
+        "extract_status": "clean",
+        "extract_value": "The project activity would not be a common practice in the geographical region of the assessment and is not the baseline scenario.",
+        "category": "correct",
+        "note": ""
+      },
+      {
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024",
+        "field": "leakage",
+        "gold_value": "0 tCO2e",
+        "extract_status": "clean",
+        "extract_value": "0 tCO2e",
+        "category": "correct",
+        "note": ""
+      },
+      {
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024",
+        "field": "permanence_buffer",
+        "gold_value": "10%",
+        "extract_status": "not_stated",
+        "extract_value": "not stated",
+        "category": "wrong",
+        "note": "missed a value that is in the document"
+      },
+      {
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024",
+        "field": "crediting_period",
+        "gold_value": "1 June 2022 – 31 May 2042",
+        "extract_status": "conflict",
+        "extract_value": "conflict",
+        "category": "conflict-unresolved",
+        "note": "gold is among conflict candidates"
+      },
+      {
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024",
+        "field": "area",
+        "gold_value": "7,372 ha",
+        "extract_status": "conflict",
+        "extract_value": "conflict",
+        "category": "conflict-unresolved",
+        "note": "gold is among conflict candidates"
+      },
+      {
+        "doc": "2929_Bandai-Hills-Ghana_Validation_2024",
+        "field": "estimated_reductions",
+        "gold_value": "3,400,660 tCO2e",
+        "extract_status": "conflict",
+        "extract_value": "conflict",
+        "category": "conflict-unresolved",
+        "note": "gold not among conflict candidates"
+      }
+    ]
+  }
+}

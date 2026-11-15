@@ -1,0 +1,1867 @@
+{
+  "doc": "1340_Bale-Mountains_MR_2020-2021.txt",
+  "n_chunks": 21,
+  "elapsed_s": 599.0,
+  "chunks": [
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The REDD+ project activity proves the positive climate change adaptations as its main aspects.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "January-2012 – 31-December-2031; 20 years total period",
+        "page": null,
+        "quote": "GHG Accounting/ Crediting Period\nJanuary-2012 – 31-December-2031; 20 years total period",
+        "quote_found": false
+      },
+      "area": {
+        "value": "261,053 ha",
+        "page": null,
+        "quote": "The size of the project area of 261,053 ha and its location on the slopes of the Bale mountain massif have undoubtedly a severe influence on the hydrological system and thus influence the life of approximately 10 – 12 Million people depending on the water resources.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "3,196,344 t CO2 e",
+        "page": null,
+        "quote": "Net estimated emission reductions in the project area, measured against the without-project scenario",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "38,321,332 tCO2e",
+        "page": null,
+        "quote": "The deforestation of this much forests in the eco-region will result in the baseline emission of 38,321,332 tCO2e. Deforestation monitored in both PA and leakage belt using the same methodology. If deforestation exceed beyond the perdition, it will be deducted from the avoided deforestation in the project area.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project offers significant ecological/biodiversity and climate benefit. It contributes to sustainable conservation of the Bale Mountains area as a global hotspot of endemism and high conservation values while improving the livelihoods of the local communities.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "398,532 hectares",
+        "page": 12,
+        "quote": "This has a total area of 398,532 hectares, consisting of 220,010 ha of non-forest, 30,418 ha of dry forest and 148,102 ha of moist forest.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "3,866,463 tCO2e",
+        "page": null,
+        "quote": "With the buffer for risk of 15%, equivalent of buffer credit of 3,866,463 tCO2e estimated for the project, the net ex-ante anthropogenic GHG emission reduction under the project scenario will be 21,909,958 tCO2e.",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "2012-2031",
+        "page": 14,
+        "quote": "The project is from 01January-2012 up to 31-December-2031 and GHG accounting period and project lifetime: 20 years from project start date.",
+        "quote_found": true
+      },
+      "area": {
+        "value": "333,924 hectares",
+        "page": 12,
+        "quote": "The Project Boundary of BMERP is 333,924 ha. This project boundary constitutes the Project Area (PA) equal to 261,053 ha of moist and dry forests (238,200 ha of moist and 22,853 ha of dry forests), and 72,924 ha of non-forested land that constitutes the Project’s Leakage Management Area (LMA).",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "3,196,344 tCO2e",
+        "page": null,
+        "quote": "In this reporting period the project managed to avoided 6336 ha of forest land and able to reduce 3,196,344 tCO2 equivalent emission (see appendix 2 project GHG emission calculation) with deducting 10% buffer credit 319,634 tCO2.",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "131 Mt CO2e",
+        "page": 17,
+        "quote": "The Oromia Forested Landscape Program (OFLP) also seeks to reduce deforestation by improving sustainable forest management throughout Ethiopia's Oromia Regional State, and lowering GHG emissions from land use, including from the livestock sector, by encouraging better herd management. OFLP developed to foster equitable and sustainable low carbon development through a series of: (i) on-the-ground activities that address deforestation, reduce land-use based emissions, and enhance forest carbon stocks; and (ii) state-wide and local enhancements to institutions, incentives, information, and safeguards management to upscale investment (enabling environment), including coordinating and leveraging multiple REDD relevant interventions across the regional state (see annex 31 OFLP PIM ).",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The Bale REDD+ project has already been integrated into the OFLP program and might not account GHG emission independently after 2021, see section 2.2.7.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 16,
+        "quote": "The project has confirmed this through satellite images-based analysis starting from the year 2000.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 17,
+        "quote": "CCB Program Rules, v3.1",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": 17,
+        "quote": "CCB Program Rules, v3.1",
+        "quote_found": true
+      },
+      "area": {
+        "value": "29,230 ha",
+        "page": null,
+        "quote": "The project managed to avoid deforestation of 29,230 ha of forest from which enabled to reduce 13,660,041 CO2 equivalent.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "13,660,041 CO2 equivalent",
+        "page": null,
+        "quote": "The project managed to avoid deforestation of 29,230 ha of forest from which enabled to reduce 13,660,041 CO2 equivalent.",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 20,
+        "quote": "No methodology deviations have been described by the project proponent in this implementation period.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project is remaining in compliance with the applied methodology of VCS.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "No leakage has been described in the implementation period.",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project has been managed through JFM modality with full engagement of organized community living in and around the forest with OFWE.",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project start date is January 01, 2012, and the project crediting start is December 2014.",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The project area is 169,741 hectares.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project has not been described as having any emission reductions.",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 23,
+        "quote": "In April 2023 the achievement of monitoring for the years 2020-2021 was communicated for stakeholders on the workshop held in Adama with all the stakeholders and REDD+ networks members.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 27,
+        "quote": "The success of the REDD+ project depends on ability of stakeholders to effectively and amicably resolve any problems and issues that arise during implementation of the project.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 27,
+        "quote": "In this monitoring period before the carbon money disbursed, the project shares the information about the amount of money received and how it will be shared vertically between OFWE and forest CBOs and horizontally among 64 forest CBOs (see annex 43) before sending the money. Then, all forest CBOs got chance to see not only their share but also other share too and was asked if they have any question about the proposed money shared (see sample carbon money disbursement letter). Hence, there was no grievance raised.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project shares the information about the amount of money received and how it will be shared vertically between OFWE and forest CBOs and horizontally among 64 forest CBOs (see annex 43) before sending the money.",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "2020-2021",
+        "page": 23,
+        "quote": "In April 2023 the achievement of monitoring for the years 2020-2021 was communicated for stakeholders on the workshop held in Adama with all the stakeholders and REDD+ networks members.",
+        "quote_found": true
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 23,
+        "quote": "In the forest management agreement OFWE and forest managing community agreed to have a regular meeting, so that the status of Bale REDD+ project updated using this meeting since February 14,2020.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": 27,
+        "quote": "In this monitoring period before the carbon money disbursed, the project shares the information about the amount of money received and how it will be shared vertically between OFWE and forest CBOs and horizontally among 64 forest CBOs (see annex 43) before sending the money.",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "10,738.9 hectares/year",
+        "page": 35,
+        "quote": "The annual area of Dry evergreen forest converted to non-forest vegetation.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "2000-2011",
+        "page": 35,
+        "quote": "The annual area of Dry evergreen forest converted to non-forest vegetation.",
+        "quote_found": true
+      },
+      "area": {
+        "value": "10,738.9 hectares",
+        "page": 35,
+        "quote": "The annual area of Dry evergreen forest converted to non-forest vegetation.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "289,083 hectares",
+        "page": 39,
+        "quote": "A total   289,083 ha of forest predicted to be deforested within 20 years.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "20 years",
+        "page": null,
+        "quote": "within 20 years project period (from 2012-2031)",
+        "quote_found": false
+      },
+      "area": {
+        "value": "289,083 hectares",
+        "page": 39,
+        "quote": "A total   289,083 ha of forest predicted to be deforested within 20 years.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The annual area of forest area expected to be converted into other non-forest land uses within the 20 years project period",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "15%",
+        "page": 43,
+        "quote": "Risk factors derived based on the guideline in the VCS-approved AFOLU Non-Permanence Tool",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "20 years",
+        "page": null,
+        "quote": "The annual area of forest area expected to be converted into other non-forest land uses within the 20 years project period",
+        "quote_found": false
+      },
+      "area": {
+        "value": "22,853 ha",
+        "page": null,
+        "quote": "The dry evergreen montane forest is a complex vegetation type occurring within an altitudinal range of 1500-2700 m, with average annual temperature and rainfall of 14-25o C and 700-1100 mm, respectively Lowland and highland dry forest are included in one class. These are located on the north side of the Bale Mountain.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "13,739,808 tC/ha",
+        "page": null,
+        "quote": "The average above ground carbon stock per ha calculated for each forest stratum (176.54 tC/ha for moist forest and 99.71 tc/ha for dry forest see annex 3 worksheet (Mean C stock per ha ) based on forest inventory was multiplied by the activity data per year and forest stratum and the resulting value summed up to the project life time above ground carbon stock change.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Comments No change to the baseline data",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Comments No change to the baseline data",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Comments No change to the baseline data",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "20 years",
+        "page": null,
+        "quote": "The average above ground carbon stock per ha calculated for each forest stratum (176.54 tC/ha for moist forest and 99.71 tc/ha for dry forest see annex 3 worksheet (Mean C stock per ha ) based on forest inventory was multiplied by the activity data per year and forest stratum and the resulting value summed up to the project life time above ground carbon stock change.",
+        "quote_found": false
+      },
+      "area": {
+        "value": "238,200 hectares",
+        "page": 49,
+        "quote": "238,200 ha",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Comments No change to the baseline data",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "1.1% to 6.6%",
+        "page": null,
+        "quote": "Historical deforestation rate 1.1% to 6.6%, average of 3.7%",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "10%",
+        "page": null,
+        "quote": "Risk factors derived based on the guideline in the VCS-approved AFOLU Non-Permanence Tool",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "3,196,344 tCO2e",
+        "page": null,
+        "quote": "Quantity of CO2e GHG emission avoided in the project area during project’s implementation period",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "3.7%",
+        "page": null,
+        "quote": "deforestation rate 1.1% to 6.6%, average of 3.7%",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "10%",
+        "page": null,
+        "quote": "Avoided cumulative emission data of 2020-2021 multiplied by non-permanence factor (10%)",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "2020-2021",
+        "page": 71,
+        "quote": "Avoided cumulative emission data of 2020-2021",
+        "quote_found": true
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "Deforested dry evergreen and moist forest in the project area",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "992,695 tCO2e",
+        "page": null,
+        "quote": "Dry ever green and moist forest converted to non-forest land uses and multiplied by emission factor per hectare of each stratum",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "319,635 tCO2e",
+        "page": 71,
+        "quote": "Avoided cumulative emission calculated for 2020-2021",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "1,275,566 tCO2e",
+        "page": null,
+        "quote": "The leakage belt emission was less than what was estimated as baseline data.",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "10%",
+        "page": null,
+        "quote": "10% deposited buffer credit over a period of 2020 to 2021",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "2020-2021",
+        "page": 71,
+        "quote": "2020-2021",
+        "quote_found": true
+      },
+      "area": {
+        "value": "2,352 ha",
+        "page": null,
+        "quote": "The project area fell in two branches, Bale and West Arsi branches.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "13,660,041 tCO2e",
+        "page": null,
+        "quote": "This implies the project contributes to the achievement of 9%of the country’s emission reduction plan from the forestry sector",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "2,086,604 tCO2e",
+        "page": null,
+        "quote": "2,086,604 tCO2e",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "0 tCO2e",
+        "page": null,
+        "quote": "emission in leakage belt was considered as zero because the project designed in a way not to claim the credit generated from the leakage belt area",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "319,634 tCO2e",
+        "page": 80,
+        "quote": "319,635 tCO2e will be reserved for buffer credit so that the bet vintage will be 2,876,709 tCO2e",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "2020-2021",
+        "page": null,
+        "quote": "2020-2021",
+        "quote_found": false
+      },
+      "area": {
+        "value": "26,811 hectares",
+        "page": 78,
+        "quote": "26,811",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "2,876,709 tCO2e",
+        "page": 80,
+        "quote": "2,876,709 tCO2e",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "unsustainable use of natural resources including non-timber forest products (NTFPs) such as coffee and honey could not meet the demands of the community due to low market prices.",
+        "page": 82,
+        "quote": "Without the project activities, expansion of agriculture and overgrazing by cattle is expected to continue since unsustainable use of natural resources including non-timber forest products (NTFPs) such as coffee and honey could not meet the demands of the community due to low market prices.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "The project introduced 3280 fuel efficient cookstoves focusing to reduce indoor pollution and reduce firewood collection of 19680 community members.",
+        "page": null,
+        "quote": "The project introduced 3280 fuel efficient cookstoves focusing to reduce indoor pollution and reduce firewood collection of 19680 community members.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 86,
+        "quote": "The overall project area includes the entire Bale massif except the National Park.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "The poor livelihoods situation of the Bale Mountains communities is a significant root cause of deforestation. The communities residing in and around the Bale Mountains forests are totally dependent on small-scale agriculture and livestock rearing. Therefore, they are forced to clear forestland to feed themselves and their families.",
+        "page": 87,
+        "quote": "Without project scenario: The poor livelihoods situation of the Bale Mountains communities is a significant root cause of deforestation. The communities residing in and around the Bale Mountains forests are totally dependent on small-scale agriculture and livestock rearing. Therefore, they are forced to clear forestland to feed themselves and their families.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "The project secures the protection of the natural forests and hence the natural resources within the Bale Mountains conserved. The forest management plans that are developed through the PFM process ensure that each forest compartment has a carefully designed plan that ensures a positive impact in the forest and hence the biodiversity.",
+        "page": 86,
+        "quote": "There are no anticipated negative environmental or biodiversity impacts from project implementation. The Bale Mountains Eco-region REDD+ Project is not expected to have negative offsite biodiversity impacts. It is actually expected to result in increased conservation value to an area that is globally significant.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 86,
+        "quote": "The overall project area includes the entire Bale massif except the National Park.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 90,
+        "quote": "The result of the monitoring is found in Annex 4.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 90,
+        "quote": "The project demonstrably qualifies for Gold Level for its exceptional community benefits, because the comprehensive set of community approaches are effectively bringing benefits to the poorer sections of the local community, in a country which is itself one of the poorest in the world.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project assessed the perception of the community toward the increment their income from NTFP, they were asked to rate the trend of income improvement and about (14%) of the participants indicated that income increase was found high and (53%) mentioned that the income increase was moderate and (33%) mentioned that the income increase was found low due to international buyers unavailability (Table 4 of annex 6).",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 92,
+        "quote": "The project has undertaken necessary preconditions for the disbursement of the money received, for instance, auditing conducted in all forest CBOs so as to ease the follow up of the use of carbon money.",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": 90,
+        "quote": "The project has engaged the local communities living in and surrounding the forest in design and implementation of REDD+ strategies.",
+        "quote_found": true
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The project zone is in a low human development area.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": 91,
+        "quote": "In this reporting period the project managed to generate 3,915,582.31 Euro from forest carbon sale, from this sale 60 % of it (2,349,349 Euro) was distributed to 64 forest managing CBOs as per the benefit sharing criteria they developed.",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Under this scenario, it is assumed that the forests in the project area can be conserved and promote great benefits in terms of biodiversity conservation when compared to the 'baseline' scenario.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 95,
+        "quote": "The goods were sold to both member and non-member communities at fair prices, while also extending credit to impoverished community members for repayment in the upcoming production season.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 95,
+        "quote": "The goods were sold to both member and non-member communities at fair prices, while also extending credit to impoverished community members for repayment in the upcoming production season.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 95,
+        "quote": "The goods were sold to both member and non-member communities at fair prices, while also extending credit to impoverished community members for repayment in the upcoming production season.",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": 95,
+        "quote": "The goods were sold to both member and non-member communities at fair prices, while also extending credit to impoverished community members for repayment in the upcoming production season.",
+        "quote_found": true
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 95,
+        "quote": "The goods were sold to both member and non-member communities at fair prices, while also extending credit to impoverished community members for repayment in the upcoming production season.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "2870 ton/year",
+        "page": 100,
+        "quote": "This value was used to calculate a total amount of fuel woods saved. Accordingly, the total 3280 stoves that were distributed has a contribution to avoid the destruction of forest biomass equivalent to 2870 ton/year in this project period which is enable to reduce high number of tree felling for fuelwood.",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "6336 ha of forest was saved from deforestation",
+        "page": 100,
+        "quote": "This indicates biodiversity in the project areas is well conserved in a better condition at larger landscape level which implies that many plants biodiversity and wild animals protected from destruction.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 101,
+        "quote": "The implementation of REDD+ project by nature is in favor of biodiversity conservation.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The overall result indicates the total basal area increment implies for sustainable forest management.",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Despite these, the overall result indicates the total basal area increment implies for sustainable forest management.",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "This implies the biodiversity in the project areas is well conserved in a better condition at larger landscape level which implies that many plants biodiversity and wild animals protected from destruction.",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The overall result indicates the total basal area increment implies for sustainable forest management.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "2870 ton/year",
+        "page": null,
+        "quote": "Accordingly, the total 3280 stoves that were distributed has a contribution to avoid the destruction of forest biomass equivalent to 2870 ton/year in this project period which is enable to reduce high number of tree felling for fuelwood.",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "44069 woody tree species/ha",
+        "page": null,
+        "quote": "The baseline line data at 2017, was 44069 woody tree species /ha with proportion of (284 trees, 5740 saplings and 38,045 seedlings).",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 106,
+        "quote": "The Bale Mountains are unique in Africa and encompass Africa’s largest alpine plateau which contains the largest populations of two of Africa’s least known and yet most charismatic species – the Ethiopian wolf and the Mountain Nyala (Figure 23).",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "6336 ha",
+        "page": 105,
+        "quote": "As per this analysis, in this reporting period the project managed to reduce deforestation by 73% and able to save 6336 ha of forest (see section 3.2.2 and annex 1).",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "BMNP encompasses a diversity of habitats, including grassland, woodland, afro-alpine meadows, moorland, and highly threatened afro-montane forest.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project does not explicitly monitor Trigger Species.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The project area covers three different Key Biodiversity Areas (KBAs) (Harena-Kokosa, Bale Mountains National Park, Mena-Angetu Forest) and as described in the PDD, the major target of the Project Activity is to protect existing forests and therefore also the flora and fauna of the KBAs.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    }
+  ],
+  "merged": {
+    "baseline": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "38,321,332 tCO2e",
+          "page": 12,
+          "quote": "The deforestation of this much forests in the eco-region will result in the baseline emission of 38,321,332 tCO2e. Deforestation monitored in both PA and leakage belt using the same methodology. If deforestation exceed beyond the perdition, it will be deducted from the avoided deforestation in the project area.",
+          "quote_found": true,
+          "pages": [
+            12
+          ]
+        },
+        {
+          "value": "1.1% to 6.6%",
+          "page": 63,
+          "quote": "Historical deforestation rate 1.1% to 6.6%, average of 3.7%",
+          "quote_found": true,
+          "pages": [
+            63
+          ]
+        },
+        {
+          "value": "unsustainable use of natural resources including non-timber forest products (NTFPs) such as coffee and honey could not meet the demands of the community due to low market prices.",
+          "page": 82,
+          "quote": "Without the project activities, expansion of agriculture and overgrazing by cattle is expected to continue since unsustainable use of natural resources including non-timber forest products (NTFPs) such as coffee and honey could not meet the demands of the community due to low market prices.",
+          "quote_found": true,
+          "pages": [
+            82
+          ]
+        },
+        {
+          "value": "The poor livelihoods situation of the Bale Mountains communities is a significant root cause of deforestation. The communities residing in and around the Bale Mountains forests are totally dependent on small-scale agriculture and livestock rearing. Therefore, they are forced to clear forestland to feed themselves and their families.",
+          "page": 87,
+          "quote": "Without project scenario: The poor livelihoods situation of the Bale Mountains communities is a significant root cause of deforestation. The communities residing in and around the Bale Mountains forests are totally dependent on small-scale agriculture and livestock rearing. Therefore, they are forced to clear forestland to feed themselves and their families.",
+          "quote_found": true,
+          "pages": [
+            87
+          ]
+        },
+        {
+          "value": "44069 woody tree species/ha",
+          "page": 105,
+          "quote": "The baseline line data at 2017, was 44069 woody tree species /ha with proportion of (284 trees, 5740 saplings and 38,045 seedlings).",
+          "quote_found": true,
+          "pages": [
+            105
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "131 Mt CO2e",
+          "page": 17,
+          "quote": "The Oromia Forested Landscape Program (OFLP) also seeks to reduce deforestation by improving sustainable forest management throughout Ethiopia's Oromia Regional State, and lowering GHG emissions from land use, including from the livestock sector, by encouraging better herd management. OFLP developed to foster equitable and sustainable low carbon development through a series of: (i) on-the-ground activities that address deforestation, reduce land-use based emissions, and enhance forest carbon stocks; and (ii) state-wide and local enhancements to institutions, incentives, information, and safeguards management to upscale investment (enabling environment), including coordinating and leveraging multiple REDD relevant interventions across the regional state (see annex 31 OFLP PIM ).",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "10,738.9 hectares/year",
+          "page": 35,
+          "quote": "The annual area of Dry evergreen forest converted to non-forest vegetation.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "289,083 hectares",
+          "page": 39,
+          "quote": "A total   289,083 ha of forest predicted to be deforested within 20 years.",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "13,739,808 tC/ha",
+          "page": 53,
+          "quote": "The average above ground carbon stock per ha calculated for each forest stratum (176.54 tC/ha for moist forest and 99.71 tc/ha for dry forest see annex 3 worksheet (Mean C stock per ha ) based on forest inventory was multiplied by the activity data per year and forest stratum and the resulting value summed up to the project life time above ground carbon stock change.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "3.7%",
+          "page": 63,
+          "quote": "deforestation rate 1.1% to 6.6%, average of 3.7%",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "319,635 tCO2e",
+          "page": 71,
+          "quote": "Avoided cumulative emission calculated for 2020-2021",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "2,086,604 tCO2e",
+          "page": null,
+          "quote": "2,086,604 tCO2e",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "6336 ha of forest was saved from deforestation",
+          "page": 100,
+          "quote": "This indicates biodiversity in the project areas is well conserved in a better condition at larger landscape level which implies that many plants biodiversity and wild animals protected from destruction.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        }
+      ]
+    },
+    "additionality": {
+      "value": "The project introduced 3280 fuel efficient cookstoves focusing to reduce indoor pollution and reduce firewood collection of 19680 community members.",
+      "page": 83,
+      "quote": "The project introduced 3280 fuel efficient cookstoves focusing to reduce indoor pollution and reduce firewood collection of 19680 community members.",
+      "quote_found": true,
+      "pages": [
+        83
+      ],
+      "unsupported": [
+        {
+          "value": "The project secures the protection of the natural forests and hence the natural resources within the Bale Mountains conserved. The forest management plans that are developed through the PFM process ensure that each forest compartment has a carefully designed plan that ensures a positive impact in the forest and hence the biodiversity.",
+          "page": 86,
+          "quote": "There are no anticipated negative environmental or biodiversity impacts from project implementation. The Bale Mountains Eco-region REDD+ Project is not expected to have negative offsite biodiversity impacts. It is actually expected to result in increased conservation value to an area that is globally significant.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        }
+      ]
+    },
+    "leakage": {
+      "value": "not stated",
+      "unsupported": [
+        {
+          "value": "398,532 hectares",
+          "page": 12,
+          "quote": "This has a total area of 398,532 hectares, consisting of 220,010 ha of non-forest, 30,418 ha of dry forest and 148,102 ha of moist forest.",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "1,275,566 tCO2e",
+          "page": null,
+          "quote": "The leakage belt emission was less than what was estimated as baseline data.",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "0 tCO2e",
+          "page": null,
+          "quote": "emission in leakage belt was considered as zero because the project designed in a way not to claim the credit generated from the leakage belt area",
+          "quote_found": false,
+          "reject": "quote not in document"
+        }
+      ]
+    },
+    "permanence_buffer": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "3,866,463 tCO2e",
+          "page": 12,
+          "quote": "With the buffer for risk of 15%, equivalent of buffer credit of 3,866,463 tCO2e estimated for the project, the net ex-ante anthropogenic GHG emission reduction under the project scenario will be 21,909,958 tCO2e.",
+          "quote_found": true,
+          "pages": [
+            12
+          ]
+        },
+        {
+          "value": "10%",
+          "page": 71,
+          "quote": "Avoided cumulative emission data of 2020-2021 multiplied by non-permanence factor (10%)",
+          "quote_found": true,
+          "pages": [
+            71
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "15%",
+          "page": 43,
+          "quote": "Risk factors derived based on the guideline in the VCS-approved AFOLU Non-Permanence Tool",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "10%",
+          "page": 43,
+          "quote": "Risk factors derived based on the guideline in the VCS-approved AFOLU Non-Permanence Tool",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "319,634 tCO2e",
+          "page": 80,
+          "quote": "319,635 tCO2e will be reserved for buffer credit so that the bet vintage will be 2,876,709 tCO2e",
+          "quote_found": true,
+          "reject": "value not in quote"
+        }
+      ]
+    },
+    "crediting_period": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "January-2012 – 31-December-2031; 20 years total period",
+          "page": 2,
+          "quote": "GHG Accounting/ Crediting Period\nJanuary-2012 – 31-December-2031; 20 years total period",
+          "quote_found": true,
+          "pages": [
+            2,
+            14
+          ]
+        },
+        {
+          "value": "2020-2021",
+          "page": 23,
+          "quote": "In April 2023 the achievement of monitoring for the years 2020-2021 was communicated for stakeholders on the workshop held in Adama with all the stakeholders and REDD+ networks members.",
+          "quote_found": true,
+          "pages": [
+            23,
+            71
+          ]
+        },
+        {
+          "value": "20 years",
+          "page": 50,
+          "quote": "The annual area of forest area expected to be converted into other non-forest land uses within the 20 years project period",
+          "quote_found": true,
+          "pages": [
+            50
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "2000-2011",
+          "page": 35,
+          "quote": "The annual area of Dry evergreen forest converted to non-forest vegetation.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "20 years",
+          "page": null,
+          "quote": "within 20 years project period (from 2012-2031)",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "20 years",
+          "page": 53,
+          "quote": "The average above ground carbon stock per ha calculated for each forest stratum (176.54 tC/ha for moist forest and 99.71 tc/ha for dry forest see annex 3 worksheet (Mean C stock per ha ) based on forest inventory was multiplied by the activity data per year and forest stratum and the resulting value summed up to the project life time above ground carbon stock change.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "2020-2021",
+          "page": 71,
+          "quote": "2020-2021",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "2020-2021",
+          "page": null,
+          "quote": "2020-2021",
+          "quote_found": false,
+          "reject": "quote not in document"
+        }
+      ]
+    },
+    "area": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "261,053 ha",
+          "page": 2,
+          "quote": "The size of the project area of 261,053 ha and its location on the slopes of the Bale mountain massif have undoubtedly a severe influence on the hydrological system and thus influence the life of approximately 10 – 12 Million people depending on the water resources.",
+          "quote_found": true,
+          "pages": [
+            2
+          ]
+        },
+        {
+          "value": "333,924 hectares",
+          "page": 12,
+          "quote": "The Project Boundary of BMERP is 333,924 ha. This project boundary constitutes the Project Area (PA) equal to 261,053 ha of moist and dry forests (238,200 ha of moist and 22,853 ha of dry forests), and 72,924 ha of non-forested land that constitutes the Project’s Leakage Management Area (LMA).",
+          "quote_found": true,
+          "pages": [
+            12
+          ]
+        },
+        {
+          "value": "289,083 hectares",
+          "page": 39,
+          "quote": "A total   289,083 ha of forest predicted to be deforested within 20 years.",
+          "quote_found": true,
+          "pages": [
+            39
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "29,230 ha",
+          "page": null,
+          "quote": "The project managed to avoid deforestation of 29,230 ha of forest from which enabled to reduce 13,660,041 CO2 equivalent.",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The project area is 169,741 hectares.",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 23,
+          "quote": "In the forest management agreement OFWE and forest managing community agreed to have a regular meeting, so that the status of Bale REDD+ project updated using this meeting since February 14,2020.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "10,738.9 hectares",
+          "page": 35,
+          "quote": "The annual area of Dry evergreen forest converted to non-forest vegetation.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "22,853 ha",
+          "page": 48,
+          "quote": "The dry evergreen montane forest is a complex vegetation type occurring within an altitudinal range of 1500-2700 m, with average annual temperature and rainfall of 14-25o C and 700-1100 mm, respectively Lowland and highland dry forest are included in one class. These are located on the north side of the Bale Mountain.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "238,200 hectares",
+          "page": 49,
+          "quote": "238,200 ha",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "Deforested dry evergreen and moist forest in the project area",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "2,352 ha",
+          "page": null,
+          "quote": "The project area fell in two branches, Bale and West Arsi branches.",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "26,811 hectares",
+          "page": 78,
+          "quote": "26,811",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 86,
+          "quote": "The overall project area includes the entire Bale massif except the National Park.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 86,
+          "quote": "The overall project area includes the entire Bale massif except the National Park.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The project zone is in a low human development area.",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 95,
+          "quote": "The goods were sold to both member and non-member communities at fair prices, while also extending credit to impoverished community members for repayment in the upcoming production season.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 100,
+          "quote": "The overall result indicates the total basal area increment implies for sustainable forest management.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 106,
+          "quote": "The Bale Mountains are unique in Africa and encompass Africa’s largest alpine plateau which contains the largest populations of two of Africa’s least known and yet most charismatic species – the Ethiopian wolf and the Mountain Nyala (Figure 23).",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The project area covers three different Key Biodiversity Areas (KBAs) (Harena-Kokosa, Bale Mountains National Park, Mena-Angetu Forest) and as described in the PDD, the major target of the Project Activity is to protect existing forests and therefore also the flora and fauna of the KBAs.",
+          "quote_found": false,
+          "reject": "quote not in document"
+        }
+      ]
+    },
+    "estimated_reductions": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "3,196,344 t CO2 e",
+          "page": 8,
+          "quote": "Net estimated emission reductions in the project area, measured against the without-project scenario",
+          "quote_found": true,
+          "pages": [
+            8,
+            12
+          ]
+        },
+        {
+          "value": "2870 ton/year",
+          "page": 100,
+          "quote": "This value was used to calculate a total amount of fuel woods saved. Accordingly, the total 3280 stoves that were distributed has a contribution to avoid the destruction of forest biomass equivalent to 2870 ton/year in this project period which is enable to reduce high number of tree felling for fuelwood.",
+          "quote_found": true,
+          "pages": [
+            100
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "13,660,041 CO2 equivalent",
+          "page": null,
+          "quote": "The project managed to avoid deforestation of 29,230 ha of forest from which enabled to reduce 13,660,041 CO2 equivalent.",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "3,196,344 tCO2e",
+          "page": 56,
+          "quote": "Quantity of CO2e GHG emission avoided in the project area during project’s implementation period",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "992,695 tCO2e",
+          "page": 70,
+          "quote": "Dry ever green and moist forest converted to non-forest land uses and multiplied by emission factor per hectare of each stratum",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "13,660,041 tCO2e",
+          "page": 73,
+          "quote": "This implies the project contributes to the achievement of 9%of the country’s emission reduction plan from the forestry sector",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "2,876,709 tCO2e",
+          "page": 80,
+          "quote": "2,876,709 tCO2e",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "6336 ha",
+          "page": 105,
+          "quote": "As per this analysis, in this reporting period the project managed to reduce deforestation by 73% and able to save 6336 ha of forest (see section 3.2.2 and annex 1).",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        }
+      ]
+    }
+  },
+  "merged_before": {
+    "baseline": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "131 Mt CO2e",
+          "page": 17,
+          "quote": "The Oromia Forested Landscape Program (OFLP) also seeks to reduce deforestation by improving sustainable forest management throughout Ethiopia's Oromia Regional State, and lowering GHG emissions from land use, including from the livestock sector, by encouraging better herd management. OFLP developed to foster equitable and sustainable low carbon development through a series of: (i) on-the-ground activities that address deforestation, reduce land-use based emissions, and enhance forest carbon stocks; and (ii) state-wide and local enhancements to institutions, incentives, information, and safeguards management to upscale investment (enabling environment), including coordinating and leveraging multiple REDD relevant interventions across the regional state (see annex 31 OFLP PIM ).",
+          "quote_found": true
+        },
+        {
+          "value": "10,738.9 hectares/year",
+          "page": 35,
+          "quote": "The annual area of Dry evergreen forest converted to non-forest vegetation.",
+          "quote_found": true
+        },
+        {
+          "value": "289,083 hectares",
+          "page": 39,
+          "quote": "A total   289,083 ha of forest predicted to be deforested within 20 years.",
+          "quote_found": true
+        },
+        {
+          "value": "319,635 tCO2e",
+          "page": 71,
+          "quote": "Avoided cumulative emission calculated for 2020-2021",
+          "quote_found": true
+        },
+        {
+          "value": "unsustainable use of natural resources including non-timber forest products (NTFPs) such as coffee and honey could not meet the demands of the community due to low market prices.",
+          "page": 82,
+          "quote": "Without the project activities, expansion of agriculture and overgrazing by cattle is expected to continue since unsustainable use of natural resources including non-timber forest products (NTFPs) such as coffee and honey could not meet the demands of the community due to low market prices.",
+          "quote_found": true
+        },
+        {
+          "value": "The poor livelihoods situation of the Bale Mountains communities is a significant root cause of deforestation. The communities residing in and around the Bale Mountains forests are totally dependent on small-scale agriculture and livestock rearing. Therefore, they are forced to clear forestland to feed themselves and their families.",
+          "page": 87,
+          "quote": "Without project scenario: The poor livelihoods situation of the Bale Mountains communities is a significant root cause of deforestation. The communities residing in and around the Bale Mountains forests are totally dependent on small-scale agriculture and livestock rearing. Therefore, they are forced to clear forestland to feed themselves and their families.",
+          "quote_found": true
+        },
+        {
+          "value": "6336 ha of forest was saved from deforestation",
+          "page": 100,
+          "quote": "This indicates biodiversity in the project areas is well conserved in a better condition at larger landscape level which implies that many plants biodiversity and wild animals protected from destruction.",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "38,321,332 tCO2e",
+          "page": null,
+          "quote": "The deforestation of this much forests in the eco-region will result in the baseline emission of 38,321,332 tCO2e. Deforestation monitored in both PA and leakage belt using the same methodology. If deforestation exceed beyond the perdition, it will be deducted from the avoided deforestation in the project area.",
+          "quote_found": false
+        },
+        {
+          "value": "13,739,808 tC/ha",
+          "page": null,
+          "quote": "The average above ground carbon stock per ha calculated for each forest stratum (176.54 tC/ha for moist forest and 99.71 tc/ha for dry forest see annex 3 worksheet (Mean C stock per ha ) based on forest inventory was multiplied by the activity data per year and forest stratum and the resulting value summed up to the project life time above ground carbon stock change.",
+          "quote_found": false
+        },
+        {
+          "value": "1.1% to 6.6%",
+          "page": null,
+          "quote": "Historical deforestation rate 1.1% to 6.6%, average of 3.7%",
+          "quote_found": false
+        },
+        {
+          "value": "3.7%",
+          "page": null,
+          "quote": "deforestation rate 1.1% to 6.6%, average of 3.7%",
+          "quote_found": false
+        },
+        {
+          "value": "2,086,604 tCO2e",
+          "page": null,
+          "quote": "2,086,604 tCO2e",
+          "quote_found": false
+        },
+        {
+          "value": "44069 woody tree species/ha",
+          "page": null,
+          "quote": "The baseline line data at 2017, was 44069 woody tree species /ha with proportion of (284 trees, 5740 saplings and 38,045 seedlings).",
+          "quote_found": false
+        }
+      ]
+    },
+    "additionality": {
+      "value": "The project secures the protection of the natural forests and hence the natural resources within the Bale Mountains conserved. The forest management plans that are developed through the PFM process ensure that each forest compartment has a carefully designed plan that ensures a positive impact in the forest and hence the biodiversity.",
+      "page": 86,
+      "quote": "There are no anticipated negative environmental or biodiversity impacts from project implementation. The Bale Mountains Eco-region REDD+ Project is not expected to have negative offsite biodiversity impacts. It is actually expected to result in increased conservation value to an area that is globally significant.",
+      "quote_found": true,
+      "pages": [
+        86
+      ],
+      "unsupported": [
+        {
+          "value": "The project introduced 3280 fuel efficient cookstoves focusing to reduce indoor pollution and reduce firewood collection of 19680 community members.",
+          "page": null,
+          "quote": "The project introduced 3280 fuel efficient cookstoves focusing to reduce indoor pollution and reduce firewood collection of 19680 community members.",
+          "quote_found": false
+        }
+      ]
+    },
+    "leakage": {
+      "value": "398,532 hectares",
+      "page": 12,
+      "quote": "This has a total area of 398,532 hectares, consisting of 220,010 ha of non-forest, 30,418 ha of dry forest and 148,102 ha of moist forest.",
+      "quote_found": true,
+      "pages": [
+        12
+      ],
+      "unsupported": [
+        {
+          "value": "1,275,566 tCO2e",
+          "page": null,
+          "quote": "The leakage belt emission was less than what was estimated as baseline data.",
+          "quote_found": false
+        },
+        {
+          "value": "0 tCO2e",
+          "page": null,
+          "quote": "emission in leakage belt was considered as zero because the project designed in a way not to claim the credit generated from the leakage belt area",
+          "quote_found": false
+        }
+      ]
+    },
+    "permanence_buffer": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "15%",
+          "page": 43,
+          "quote": "Risk factors derived based on the guideline in the VCS-approved AFOLU Non-Permanence Tool",
+          "quote_found": true
+        },
+        {
+          "value": "319,634 tCO2e",
+          "page": 80,
+          "quote": "319,635 tCO2e will be reserved for buffer credit so that the bet vintage will be 2,876,709 tCO2e",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "3,866,463 tCO2e",
+          "page": null,
+          "quote": "With the buffer for risk of 15%, equivalent of buffer credit of 3,866,463 tCO2e estimated for the project, the net ex-ante anthropogenic GHG emission reduction under the project scenario will be 21,909,958 tCO2e.",
+          "quote_found": false
+        },
+        {
+          "value": "10%",
+          "page": null,
+          "quote": "Risk factors derived based on the guideline in the VCS-approved AFOLU Non-Permanence Tool",
+          "quote_found": false
+        },
+        {
+          "value": "10%",
+          "page": null,
+          "quote": "Avoided cumulative emission data of 2020-2021 multiplied by non-permanence factor (10%)",
+          "quote_found": false
+        },
+        {
+          "value": "10%",
+          "page": null,
+          "quote": "10% deposited buffer credit over a period of 2020 to 2021",
+          "quote_found": false
+        }
+      ]
+    },
+    "crediting_period": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "2012-2031",
+          "page": 14,
+          "quote": "The project is from 01January-2012 up to 31-December-2031 and GHG accounting period and project lifetime: 20 years from project start date.",
+          "quote_found": true
+        },
+        {
+          "value": "2020-2021",
+          "page": 23,
+          "quote": "In April 2023 the achievement of monitoring for the years 2020-2021 was communicated for stakeholders on the workshop held in Adama with all the stakeholders and REDD+ networks members.",
+          "quote_found": true
+        },
+        {
+          "value": "2000-2011",
+          "page": 35,
+          "quote": "The annual area of Dry evergreen forest converted to non-forest vegetation.",
+          "quote_found": true
+        },
+        {
+          "value": "2020-2021",
+          "page": 71,
+          "quote": "Avoided cumulative emission data of 2020-2021",
+          "quote_found": true
+        },
+        {
+          "value": "2020-2021",
+          "page": 71,
+          "quote": "2020-2021",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "January-2012 – 31-December-2031; 20 years total period",
+          "page": null,
+          "quote": "GHG Accounting/ Crediting Period\nJanuary-2012 – 31-December-2031; 20 years total period",
+          "quote_found": false
+        },
+        {
+          "value": "20 years",
+          "page": null,
+          "quote": "within 20 years project period (from 2012-2031)",
+          "quote_found": false
+        },
+        {
+          "value": "20 years",
+          "page": null,
+          "quote": "The annual area of forest area expected to be converted into other non-forest land uses within the 20 years project period",
+          "quote_found": false
+        },
+        {
+          "value": "20 years",
+          "page": null,
+          "quote": "The average above ground carbon stock per ha calculated for each forest stratum (176.54 tC/ha for moist forest and 99.71 tc/ha for dry forest see annex 3 worksheet (Mean C stock per ha ) based on forest inventory was multiplied by the activity data per year and forest stratum and the resulting value summed up to the project life time above ground carbon stock change.",
+          "quote_found": false
+        },
+        {
+          "value": "2020-2021",
+          "page": null,
+          "quote": "2020-2021",
+          "quote_found": false
+        }
+      ]
+    },
+    "area": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "333,924 hectares",
+          "page": 12,
+          "quote": "The Project Boundary of BMERP is 333,924 ha. This project boundary constitutes the Project Area (PA) equal to 261,053 ha of moist and dry forests (238,200 ha of moist and 22,853 ha of dry forests), and 72,924 ha of non-forested land that constitutes the Project’s Leakage Management Area (LMA).",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 23,
+          "quote": "In the forest management agreement OFWE and forest managing community agreed to have a regular meeting, so that the status of Bale REDD+ project updated using this meeting since February 14,2020.",
+          "quote_found": true
+        },
+        {
+          "value": "10,738.9 hectares",
+          "page": 35,
+          "quote": "The annual area of Dry evergreen forest converted to non-forest vegetation.",
+          "quote_found": true
+        },
+        {
+          "value": "289,083 hectares",
+          "page": 39,
+          "quote": "A total   289,083 ha of forest predicted to be deforested within 20 years.",
+          "quote_found": true
+        },
+        {
+          "value": "238,200 hectares",
+          "page": 49,
+          "quote": "238,200 ha",
+          "quote_found": true
+        },
+        {
+          "value": "26,811 hectares",
+          "page": 78,
+          "quote": "26,811",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 86,
+          "quote": "The overall project area includes the entire Bale massif except the National Park.",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 86,
+          "quote": "The overall project area includes the entire Bale massif except the National Park.",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 95,
+          "quote": "The goods were sold to both member and non-member communities at fair prices, while also extending credit to impoverished community members for repayment in the upcoming production season.",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 106,
+          "quote": "The Bale Mountains are unique in Africa and encompass Africa’s largest alpine plateau which contains the largest populations of two of Africa’s least known and yet most charismatic species – the Ethiopian wolf and the Mountain Nyala (Figure 23).",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "261,053 ha",
+          "page": null,
+          "quote": "The size of the project area of 261,053 ha and its location on the slopes of the Bale mountain massif have undoubtedly a severe influence on the hydrological system and thus influence the life of approximately 10 – 12 Million people depending on the water resources.",
+          "quote_found": false
+        },
+        {
+          "value": "29,230 ha",
+          "page": null,
+          "quote": "The project managed to avoid deforestation of 29,230 ha of forest from which enabled to reduce 13,660,041 CO2 equivalent.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The project area is 169,741 hectares.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        },
+        {
+          "value": "22,853 ha",
+          "page": null,
+          "quote": "The dry evergreen montane forest is a complex vegetation type occurring within an altitudinal range of 1500-2700 m, with average annual temperature and rainfall of 14-25o C and 700-1100 mm, respectively Lowland and highland dry forest are included in one class. These are located on the north side of the Bale Mountain.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "Deforested dry evergreen and moist forest in the project area",
+          "quote_found": false
+        },
+        {
+          "value": "2,352 ha",
+          "page": null,
+          "quote": "The project area fell in two branches, Bale and West Arsi branches.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The project zone is in a low human development area.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The overall result indicates the total basal area increment implies for sustainable forest management.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The project area covers three different Key Biodiversity Areas (KBAs) (Harena-Kokosa, Bale Mountains National Park, Mena-Angetu Forest) and as described in the PDD, the major target of the Project Activity is to protect existing forests and therefore also the flora and fauna of the KBAs.",
+          "quote_found": false
+        }
+      ]
+    },
+    "estimated_reductions": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "2,876,709 tCO2e",
+          "page": 80,
+          "quote": "2,876,709 tCO2e",
+          "quote_found": true
+        },
+        {
+          "value": "2870 ton/year",
+          "page": 100,
+          "quote": "This value was used to calculate a total amount of fuel woods saved. Accordingly, the total 3280 stoves that were distributed has a contribution to avoid the destruction of forest biomass equivalent to 2870 ton/year in this project period which is enable to reduce high number of tree felling for fuelwood.",
+          "quote_found": true
+        },
+        {
+          "value": "6336 ha",
+          "page": 105,
+          "quote": "As per this analysis, in this reporting period the project managed to reduce deforestation by 73% and able to save 6336 ha of forest (see section 3.2.2 and annex 1).",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "3,196,344 t CO2 e",
+          "page": null,
+          "quote": "Net estimated emission reductions in the project area, measured against the without-project scenario",
+          "quote_found": false
+        },
+        {
+          "value": "3,196,344 tCO2e",
+          "page": null,
+          "quote": "In this reporting period the project managed to avoided 6336 ha of forest land and able to reduce 3,196,344 tCO2 equivalent emission (see appendix 2 project GHG emission calculation) with deducting 10% buffer credit 319,634 tCO2.",
+          "quote_found": false
+        },
+        {
+          "value": "13,660,041 CO2 equivalent",
+          "page": null,
+          "quote": "The project managed to avoid deforestation of 29,230 ha of forest from which enabled to reduce 13,660,041 CO2 equivalent.",
+          "quote_found": false
+        },
+        {
+          "value": "3,196,344 tCO2e",
+          "page": null,
+          "quote": "Quantity of CO2e GHG emission avoided in the project area during project’s implementation period",
+          "quote_found": false
+        },
+        {
+          "value": "992,695 tCO2e",
+          "page": null,
+          "quote": "Dry ever green and moist forest converted to non-forest land uses and multiplied by emission factor per hectare of each stratum",
+          "quote_found": false
+        },
+        {
+          "value": "13,660,041 tCO2e",
+          "page": null,
+          "quote": "This implies the project contributes to the achievement of 9%of the country’s emission reduction plan from the forestry sector",
+          "quote_found": false
+        },
+        {
+          "value": "2870 ton/year",
+          "page": null,
+          "quote": "Accordingly, the total 3280 stoves that were distributed has a contribution to avoid the destruction of forest biomass equivalent to 2870 ton/year in this project period which is enable to reduce high number of tree felling for fuelwood.",
+          "quote_found": false
+        }
+      ]
+    }
+  }
+}

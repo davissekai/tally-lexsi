@@ -1,0 +1,9 @@
+{
+ "version": "v8.0",
+ "n_chunks_all": 7720,
+ "n_queue": 2250,
+ "n_batches": 282,
+ "sha256_chunks_all": "36ab91e907222288f1b83bca360cafa7160fdabdd69694eaeea3f2b24fe52ddd",
+ "sha256_label_queue": "fc04b16c5356b80a91aa3305c17c4122d40d700e1754ccbeecc8305f95178c94",
+ "sha256_batches_index": "992dfc20f06bf2241a05d54cf3e87aead635862425c9ec6f247b0abebd18a015"
+}

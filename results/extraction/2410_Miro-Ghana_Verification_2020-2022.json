@@ -1,0 +1,1177 @@
+{
+  "doc": "2410_Miro-Ghana_Verification_2020-2022.txt",
+  "n_chunks": 13,
+  "elapsed_s": 428.7,
+  "chunks": [
+    {
+      "baseline": {
+        "value": "0",
+        "page": 1,
+        "quote": "0",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "15758",
+        "page": 4,
+        "quote": "15758",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "24579",
+        "page": 4,
+        "quote": "24579",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "24-March-2016 to 30-June -2045",
+        "page": 3,
+        "quote": "24-March-2016 to 30-June -2045",
+        "quote_found": true
+      },
+      "area": {
+        "value": "3,871",
+        "page": 3,
+        "quote": "The total area under the second monitoring verification is 3,871 ha.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "221205",
+        "page": 3,
+        "quote": "221205",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The proposed project activity \"Reforestation of degraded forest reserve areas in Ghana, West Africa\" aims to remove GHG emission reduction through reforestation activity in the Boumfoum, Chirimfa and Awura Forest Reserves Ghana with the five species: Eucalyptus, Teak, Acacia, Gmelina and Corymbia.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project is not registered or seeking registration under any other GHG programs. Furthermore, PP has submitted a declaration for not available any other form of credit during the registration of the project.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project is not registered or seeking registration under any other GHG programs. Furthermore, PP has submitted a declaration for not available any other form of credit during the registration of the project.",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "10%",
+        "page": 11,
+        "quote": "The Miro Forestry had occupied the total 10,495-ha area out of which 3,871-ha area is considered for this monitoring period (02-11-2020 to 19-09-2022) & this second monitoring period aims to verify the estimated 221205  tCO2e (245784 tCO2e Net calculated VCUs for the monitoring period and  24579 tCO2e with consideration of 10% buffer credits) net GHG emission reductions achieved from the project area.",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "30 years",
+        "page": 11,
+        "quote": "This afforestation, reforestation project activity crediting period life span is 30 years (from 24th march 2016 to 30th June 2045).",
+        "quote_found": true
+      },
+      "area": {
+        "value": "3,871 hectares",
+        "page": 11,
+        "quote": "This lease construction is part of the presidential policy to restore degraded forest reserves in Ghana. This afforestation, reforestation project activity crediting period life span is 30 years (from 24th march 2016 to 30th June 2045). The Miro Forestry had occupied the total 10,495-ha area out of which 3,871-ha area is considered for this monitoring period (02-11-2020 to 19-09-2022) & this second monitoring period aims to verify the estimated 221205  tCO2e (245784 tCO2e Net calculated VCUs for the monitoring period and  24579 tCO2e with consideration of 10% buffer credits) net GHG emission reductions achieved from the project area.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "221,205 tCO2e",
+        "page": null,
+        "quote": "The second monitoring period aims to verify the estimated 221205tCO2e net GHG emission reductions (considering 10% buffer credits) achieved during the current defined monitoring period.",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project is not registered or seeking registration under any other GHG programs.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project is not registered or seeking registration under any other GHG programs. Furthermore, PP has submitted a declaration for not available any other form of credit during the registration of the project.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 17,
+        "quote": "There is no evidence of double counting as the project is not registered in other carbon program and the project has not participated or being rejected under other Carbon program.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project is not registered or seeking registration under any other GHG programs.",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project is not registered or seeking registration under any other GHG programs.",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 17,
+        "quote": "822 circulars (313) and square (509) plots of 500m2 and 400m2, were established and distributed across all the defined strata.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project is not registered or seeking registration under any other GHG programs.",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "0 tCO2e",
+        "page": null,
+        "quote": "According to the methodology (Section 5.5 paragraph 14) ‘GHG emissions resulting from removal of herbaceous vegetation, combustion of fossil fuel, fertilizer application, use of wood, decomposition of litter and fine roots of N-fixing trees, construction of access roads within project boundary, and transportation attributable to the project activity shall be considered insignificant and therefore accounted as zero.’",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "10%",
+        "page": 23,
+        "quote": "NMFC Livelihood Study _ Development Plan (2014.08.06) indicated 100 ha of farming near to the forest reserves. Accounting to this Micro had shared their further analysis of satellite imaging and areal study accounting 300 ha more (7.15% of project activity area). To the conservative measures Mico has discounted 10% of the project activity area through leakage.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 23,
+        "quote": "NMFC Livelihood Study _ Development Plan (2014.08.06) indicated 100 ha of farming near to the forest reserves. Accounting to this Micro had shared their further analysis of satellite imaging and areal study accounting 300 ha more (7.15% of project activity area).",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "0 tCO2e",
+        "page": null,
+        "quote": "Project emission: Removals by sinks According to AR-ACM0003 GHG emissions resulting from removal of herbaceous vegetation, combustion of fossil fuel, fertilizer application, use of wood, decomposition of litter and fine roots of N-fixing trees, construction of access roads within the project boundary, and transportation attributable to the project activity shall be considered insignificant and therefore accounted as zero.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 32,
+        "quote": "The project additionally qualified and monitored non-CO2 GHG emissions from any fires (forest fires) that occurred inside the project boundaries. whose accumulated area affected by such fires in a year is > 5% of the project area and These events will be monitored, and the affected area will be recorded. Emissions of non-CO2 GHGs resulting from the loss of above-ground tree biomass due to fire will be calculated in each verification period by using: the above-ground biomass in trees of relevant strata calculated in the previous verification, the default values for the combustion factor, the emission factors, and the global warming potential.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 32,
+        "quote": "The assessment of Leakage been revised and now 2 main activities that occurred in the pre-project scenario have been considered for any Leakage calculation- cattle ranching and small-scale subsistence agriculture. From above 2 only the small-scale subsistence agriculture is considered for leakage due to activity displacement to other lands outside of the project area. The first (cattle ranching), does not cause any leakage because this activity has not been displaced.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 32,
+        "quote": "The project additionally qualified and monitored non-CO2 GHG emissions from any fires (forest fires) that occurred inside the project boundaries. whose accumulated area affected by such fires in a year is > 5% of the project area and These events will be monitored, and the affected area will be recorded.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "0 tCO2e",
+        "page": 34,
+        "quote": "Since baseline removals as stated in the Baseline Emissions sections, considering the characteristics of the baseline vegetation, is equal to zero; and emissions due to leakage were considered zero, as explained in section 1.17 and 4.3, net anthropogenic removals are expressed according to the formula: ∆C AR-CDM,t = ∆C ACTUAL,t",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The assessment of Additionality been revised and now 2 main activities that occurred in the pre-project scenario have been considered for any Additionality calculation- cattle ranching and small-scale subsistence agriculture.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "15,758 tCO2e",
+        "page": null,
+        "quote": "The result from the tool is a total leakage of 15,758 tonnes of CO2 equivalent,",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "10%",
+        "page": 34,
+        "quote": "The project proponents applied a buffer discount of a reserve of 10% to cover the aspects related to the risk of non-permanence.",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "2016-11-24 to 2020-11-01, 2020-11-02 to 2020-12-31, 2021-01-01 to 2021-12-31",
+        "page": null,
+        "quote": "24-03 2016 to 01-11-2020, 02-11-2020 to 31-12-2020, 01-01-2021 to 31-12-2021",
+        "quote_found": false
+      },
+      "area": {
+        "value": "10,495 hectares",
+        "page": null,
+        "quote": "The project proponent has established 10,495 hectares in Ghana within the Boumfoum, Chirimfa and Awura forest reserves.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "245,784 tCO2e",
+        "page": null,
+        "quote": "Total 245,784 tCO2e",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "has assessed the risk by doing qualitative and quantitative analysis during on site assessment and confirmed that the highly skilled management team of Miro forestry is present within the country.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Mitigation: Management team includes individuals with significant experience in AFOLU project design and implementation, carbon accounting and reporting (eg, individuals who have successfully managed projects through validation, verification and issuance of GHG credits) under the VCS Program or other approved GHG programs.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The Company’s current total land holding is 17,983 hectares9.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "52,402 tCO2e",
+        "page": null,
+        "quote": "Revenues from the commercialization of VCUs with an average annual reduction of 52,402 tCO2e were estimated.",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Selection is deemed viable",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Selection is deemed viable",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Selection is deemed viable",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Selection is deemed viable",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Selection is deemed viable",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "Selection is deemed viable",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Selection is deemed viable",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 56,
+        "quote": "0",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "221205",
+        "page": 62,
+        "quote": "Verified GHG emission reductions and removals in the above verification period, Year \nBaseline \nemissions \nor \nremovals \n(tCO2e) \nProject \nemissions \nor \nremovals \n(tCO2e) \nLeakage \nemissions \n(tCO2e) \nVCUs past \nverification \n(tCO2e)",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "10",
+        "page": null,
+        "quote": "10 % of the total VCUs generated will be kept in buffer account as per the clause 2.5.5 of VCS version 4.1.",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "02-11-2020 to 19-09-2022",
+        "page": 62,
+        "quote": "Verification period: From 02nd November 2020 to 19th September -2022 (Inclusive of both days)",
+        "quote_found": true
+      },
+      "area": {
+        "value": "3,871",
+        "page": 62,
+        "quote": "The total area under the second monitoring verification is 3,871 ha.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "221205",
+        "page": 62,
+        "quote": "Verified GHG emission reductions and removals in the above verification period, Year \nBaseline \nemissions \nor \nremovals \n(tCO2e) \nProject \nemissions \nor \nremovals \n(tCO2e) \nLeakage \nemissions \n(tCO2e) \nVCUs past \nverification \n(tCO2e)",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Under section 1.1 it is reported as ‘the total area under the second monitoring verification is 3,830.70 ha’. However, as reported in the ER sheet provided, the total area is reported as 3830.74 ha. Furthermore, under section 4.3.3, in Table 11, the total project area is indicated as ‘3,921,0 ha’. PP to confirm and clarify exact project area considered during second verification with supportive evidence.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "CL 01 Under section 1.1 it is reported as ‘the total area under the second monitoring verification is 3,830.70 ha’. However, as reported in the ER sheet provided, the total area is reported as 3830.74 ha. Furthermore, under section 4.3.3, in Table 11, the total project area is indicated as ‘3,921,0 ha’. PP to confirm and clarify exact project area considered during second verification with supportive evidence.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "3,871 ha",
+        "page": 71,
+        "quote": "The project area of 3,871 ha is also updated and correctly represented within the Ex-post estimation and can be referred to in the following support: Supporting information/Estimations/ Ghana Ex-post.xlsx. The correct project area size within the Ex-post can be found in tab 3.MU; 4.Uncertainity_CDM; 5.Sampling Error and 6.ER Ct.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 71,
+        "quote": "The project area of 3,871 ha is also updated and correctly represented within the Ex-post estimation and can be referred to in the following support: Supporting information/Estimations/ Ghana Ex-post.xlsx.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 73,
+        "quote": "This deviation does not impact the applicability of the methodology, additionality or the appropriateness of the baseline scenario and therefore the project remains in compliance with the applied methodology.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 72,
+        "quote": "The calculation of sample plots takes into consideration only the 3,830.73 ha that is being considered, and given that the project has multiple strata, the allocation of the total number of sample plots for each stratum were stratified based on the proportion of PSP’s that were monitored at the previous verification.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 75,
+        "quote": "Table 17 (now updated to Table 13) has been accordingly updated in the MR and can be referred to in page 52. The total buffers considered in the calculations of the VCs are now available.",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "3,830.73 hectares",
+        "page": null,
+        "quote": "The project area stated above has been rechecked and is now correctly found to be 3,871 ha, this can be cross verified and referred to in the Pivot table in the Ex-ante estimation sheet in the tab 2.DB, Tab 3. GIS_strata or Tab 12. LTA (refer to planted hectares per year for 2016-2019) (Below is a screenshot of Tab 3.GIS_strata.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": 75,
+        "quote": "The supporting documents can be consulted in: Supporting information/Estimations/Fire Report and Analysis Ghana and NPRT/3_Natural_risks/Fire Report and Analysis Ghana.",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 77,
+        "quote": "The final estimation table in MR representing the total buffer considered in calculation of VCUs is now updated. Hence this part of CL is now CLOSED.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 77,
+        "quote": "The consideration of a 10% buffer for the monitoring period is deemed appropriate by Verification team, Hence this part of CL is now CLOSED.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "As described in full detail in the PD, including section 1.17 ‘Leakage’ and in the section 10 ‘Monitoring Plan’, the monitoring of leakage can be neglected because leakage only occurs with the displacement of agricultural activities (according to the methodology of AR-ACM0003 and the AR-Tool 14 ‘Estimation of the increase in GHG emissions attributable to displacement of pre-project agricultural activities in A/R CDM project activities’). As such, no displacement of agricultural activities has occurred in this outlined project activities and therefore, leakage can be counted as zero and does need to be monitored or managed.",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "10%",
+        "page": 80,
+        "quote": "In addition, the risk factor was assessed using the VCS Tool for AFOLU Non-permanence Risk Analysis and Buffer Determination, Project risks and activities to uphold the project permanence are described in the PDD in section 4.4. Identification of risks that may substantially affect the project's GHGs emission reductions or removal enhancement are checked at each verification. For this verification, the risk buffer was set to 10% according to the potential risk and mitigation measures of the project. Detailed information is presented in the supporting Non-permanence Risk Assessment.",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": 78,
+        "quote": "The project crediting period is kept as per the registered PDD",
+        "quote_found": true
+      },
+      "area": {
+        "value": "3,871 hectares",
+        "page": null,
+        "quote": "In MR, under Table 10, Stratums defined for GHG emission reductions and removals estimations- total eligible area is still reflecting as 3,871 ha",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "326,399 tCO2e",
+        "page": 79,
+        "quote": "The second monitoring period aims to verify the estimated 326,399 tCO2e net GHG emission reductions achieved from Miro Forestry in West Africa",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "290,519",
+        "page": 81,
+        "quote": "Project emissions for second verification or removals (557,745) is not consistent with data reported in ER worksheet (557,743). PP to recheck and clarify.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "481,955",
+        "page": 82,
+        "quote": "Total Carbon by 202219: 481955 t CO2 eq",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "2019-2024",
+        "page": 82,
+        "quote": "Total Carbon by 202219: 481955 t CO2 eq",
+        "quote_found": true
+      },
+      "area": {
+        "value": "169,741",
+        "page": null,
+        "quote": "169,741 hectares",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "481,955",
+        "page": 82,
+        "quote": "Total Carbon by 202219: 481955 t CO2 eq",
+        "quote_found": true
+      }
+    }
+  ],
+  "merged": {
+    "baseline": {
+      "value": "0 tCO2e",
+      "page": 34,
+      "quote": "Since baseline removals as stated in the Baseline Emissions sections, considering the characteristics of the baseline vegetation, is equal to zero; and emissions due to leakage were considered zero, as explained in section 1.17 and 4.3, net anthropogenic removals are expressed according to the formula: ∆C AR-CDM,t = ∆C ACTUAL,t",
+      "quote_found": true,
+      "pages": [
+        34
+      ],
+      "unsupported": [
+        {
+          "value": "0",
+          "page": 1,
+          "quote": "0",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "0 tCO2e",
+          "page": 27,
+          "quote": "According to the methodology (Section 5.5 paragraph 14) ‘GHG emissions resulting from removal of herbaceous vegetation, combustion of fossil fuel, fertilizer application, use of wood, decomposition of litter and fine roots of N-fixing trees, construction of access roads within project boundary, and transportation attributable to the project activity shall be considered insignificant and therefore accounted as zero.’",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "0 tCO2e",
+          "page": 27,
+          "quote": "Project emission: Removals by sinks According to AR-ACM0003 GHG emissions resulting from removal of herbaceous vegetation, combustion of fossil fuel, fertilizer application, use of wood, decomposition of litter and fine roots of N-fixing trees, construction of access roads within the project boundary, and transportation attributable to the project activity shall be considered insignificant and therefore accounted as zero.",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "290,519",
+          "page": 81,
+          "quote": "Project emissions for second verification or removals (557,745) is not consistent with data reported in ER worksheet (557,743). PP to recheck and clarify.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        }
+      ]
+    },
+    "additionality": "not stated",
+    "leakage": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "10%",
+          "page": 23,
+          "quote": "NMFC Livelihood Study _ Development Plan (2014.08.06) indicated 100 ha of farming near to the forest reserves. Accounting to this Micro had shared their further analysis of satellite imaging and areal study accounting 300 ha more (7.15% of project activity area). To the conservative measures Mico has discounted 10% of the project activity area through leakage.",
+          "quote_found": true,
+          "pages": [
+            23
+          ]
+        },
+        {
+          "value": "15,758 tCO2e",
+          "page": 33,
+          "quote": "The result from the tool is a total leakage of 15,758 tonnes of CO2 equivalent,",
+          "quote_found": true,
+          "pages": [
+            33
+          ]
+        },
+        {
+          "value": "481,955",
+          "page": 82,
+          "quote": "Total Carbon by 202219: 481955 t CO2 eq",
+          "quote_found": true,
+          "pages": [
+            82
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "15758",
+          "page": 4,
+          "quote": "15758",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "221205",
+          "page": 62,
+          "quote": "Verified GHG emission reductions and removals in the above verification period, Year \nBaseline \nemissions \nor \nremovals \n(tCO2e) \nProject \nemissions \nor \nremovals \n(tCO2e) \nLeakage \nemissions \n(tCO2e) \nVCUs past \nverification \n(tCO2e)",
+          "quote_found": true,
+          "reject": "value not in quote"
+        }
+      ]
+    },
+    "permanence_buffer": {
+      "value": "10%",
+      "page": 11,
+      "quote": "The Miro Forestry had occupied the total 10,495-ha area out of which 3,871-ha area is considered for this monitoring period (02-11-2020 to 19-09-2022) & this second monitoring period aims to verify the estimated 221205  tCO2e (245784 tCO2e Net calculated VCUs for the monitoring period and  24579 tCO2e with consideration of 10% buffer credits) net GHG emission reductions achieved from the project area.",
+      "quote_found": true,
+      "pages": [
+        11,
+        34,
+        60
+      ],
+      "unsupported": [
+        {
+          "value": "24579",
+          "page": 4,
+          "quote": "24579",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "10%",
+          "page": 80,
+          "quote": "In addition, the risk factor was assessed using the VCS Tool for AFOLU Non-permanence Risk Analysis and Buffer Determination, Project risks and activities to uphold the project permanence are described in the PDD in section 4.4. Identification of risks that may substantially affect the project's GHGs emission reductions or removal enhancement are checked at each verification. For this verification, the risk buffer was set to 10% according to the potential risk and mitigation measures of the project. Detailed information is presented in the supporting Non-permanence Risk Assessment.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        }
+      ]
+    },
+    "crediting_period": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "24-March-2016 to 30-June -2045",
+          "page": 3,
+          "quote": "24-March-2016 to 30-June -2045",
+          "quote_found": true,
+          "pages": [
+            3
+          ]
+        },
+        {
+          "value": "30 years",
+          "page": 11,
+          "quote": "This afforestation, reforestation project activity crediting period life span is 30 years (from 24th march 2016 to 30th June 2045).",
+          "quote_found": true,
+          "pages": [
+            11
+          ]
+        },
+        {
+          "value": "02-11-2020 to 19-09-2022",
+          "page": 62,
+          "quote": "Verification period: From 02nd November 2020 to 19th September -2022 (Inclusive of both days)",
+          "quote_found": true,
+          "pages": [
+            62
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "2016-11-24 to 2020-11-01, 2020-11-02 to 2020-12-31, 2021-01-01 to 2021-12-31",
+          "page": null,
+          "quote": "24-03 2016 to 01-11-2020, 02-11-2020 to 31-12-2020, 01-01-2021 to 31-12-2021",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "2019-2024",
+          "page": 82,
+          "quote": "Total Carbon by 202219: 481955 t CO2 eq",
+          "quote_found": true,
+          "reject": "value not in quote"
+        }
+      ]
+    },
+    "area": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "3,871 hectares",
+          "page": 11,
+          "quote": "This lease construction is part of the presidential policy to restore degraded forest reserves in Ghana. This afforestation, reforestation project activity crediting period life span is 30 years (from 24th march 2016 to 30th June 2045). The Miro Forestry had occupied the total 10,495-ha area out of which 3,871-ha area is considered for this monitoring period (02-11-2020 to 19-09-2022) & this second monitoring period aims to verify the estimated 221205  tCO2e (245784 tCO2e Net calculated VCUs for the monitoring period and  24579 tCO2e with consideration of 10% buffer credits) net GHG emission reductions achieved from the project area.",
+          "quote_found": true,
+          "pages": [
+            3,
+            11,
+            62,
+            71
+          ]
+        },
+        {
+          "value": "10,495 hectares",
+          "page": 36,
+          "quote": "The project proponent has established 10,495 hectares in Ghana within the Boumfoum, Chirimfa and Awura forest reserves.",
+          "quote_found": true,
+          "pages": [
+            36
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "169,741 hectares",
+          "page": 17,
+          "quote": "822 circulars (313) and square (509) plots of 500m2 and 400m2, were established and distributed across all the defined strata.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 23,
+          "quote": "NMFC Livelihood Study _ Development Plan (2014.08.06) indicated 100 ha of farming near to the forest reserves. Accounting to this Micro had shared their further analysis of satellite imaging and areal study accounting 300 ha more (7.15% of project activity area).",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 32,
+          "quote": "The project additionally qualified and monitored non-CO2 GHG emissions from any fires (forest fires) that occurred inside the project boundaries. whose accumulated area affected by such fires in a year is > 5% of the project area and These events will be monitored, and the affected area will be recorded.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 47,
+          "quote": "The Company’s current total land holding is 17,983 hectares9.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 46,
+          "quote": "Selection is deemed viable",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "3,830.73 hectares",
+          "page": null,
+          "quote": "The project area stated above has been rechecked and is now correctly found to be 3,871 ha, this can be cross verified and referred to in the Pivot table in the Ex-ante estimation sheet in the tab 2.DB, Tab 3. GIS_strata or Tab 12. LTA (refer to planted hectares per year for 2016-2019) (Below is a screenshot of Tab 3.GIS_strata.",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "3,871 hectares",
+          "page": null,
+          "quote": "In MR, under Table 10, Stratums defined for GHG emission reductions and removals estimations- total eligible area is still reflecting as 3,871 ha",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741",
+          "page": null,
+          "quote": "169,741 hectares",
+          "quote_found": false,
+          "reject": "quote not in document"
+        }
+      ]
+    },
+    "estimated_reductions": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "221,205 tCO2e",
+          "page": 11,
+          "quote": "The second monitoring period aims to verify the estimated 221205tCO2e net GHG emission reductions (considering 10% buffer credits) achieved during the current defined monitoring period.",
+          "quote_found": true,
+          "pages": [
+            11
+          ]
+        },
+        {
+          "value": "52,402 tCO2e",
+          "page": 41,
+          "quote": "Revenues from the commercialization of VCUs with an average annual reduction of 52,402 tCO2e were estimated.",
+          "quote_found": true,
+          "pages": [
+            41
+          ]
+        },
+        {
+          "value": "326,399 tCO2e",
+          "page": 79,
+          "quote": "The second monitoring period aims to verify the estimated 326,399 tCO2e net GHG emission reductions achieved from Miro Forestry in West Africa",
+          "quote_found": true,
+          "pages": [
+            79
+          ]
+        },
+        {
+          "value": "481,955",
+          "page": 82,
+          "quote": "Total Carbon by 202219: 481955 t CO2 eq",
+          "quote_found": true,
+          "pages": [
+            82
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "221205",
+          "page": 3,
+          "quote": "221205",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "245,784 tCO2e",
+          "page": null,
+          "quote": "Total 245,784 tCO2e",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "221205",
+          "page": 62,
+          "quote": "Verified GHG emission reductions and removals in the above verification period, Year \nBaseline \nemissions \nor \nremovals \n(tCO2e) \nProject \nemissions \nor \nremovals \n(tCO2e) \nLeakage \nemissions \n(tCO2e) \nVCUs past \nverification \n(tCO2e)",
+          "quote_found": true,
+          "reject": "value not in quote"
+        }
+      ]
+    }
+  },
+  "merged_before": {
+    "baseline": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "0",
+          "page": 1,
+          "quote": "0",
+          "quote_found": true
+        },
+        {
+          "value": "0 tCO2e",
+          "page": 34,
+          "quote": "Since baseline removals as stated in the Baseline Emissions sections, considering the characteristics of the baseline vegetation, is equal to zero; and emissions due to leakage were considered zero, as explained in section 1.17 and 4.3, net anthropogenic removals are expressed according to the formula: ∆C AR-CDM,t = ∆C ACTUAL,t",
+          "quote_found": true
+        },
+        {
+          "value": "290,519",
+          "page": 81,
+          "quote": "Project emissions for second verification or removals (557,745) is not consistent with data reported in ER worksheet (557,743). PP to recheck and clarify.",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "0 tCO2e",
+          "page": null,
+          "quote": "According to the methodology (Section 5.5 paragraph 14) ‘GHG emissions resulting from removal of herbaceous vegetation, combustion of fossil fuel, fertilizer application, use of wood, decomposition of litter and fine roots of N-fixing trees, construction of access roads within project boundary, and transportation attributable to the project activity shall be considered insignificant and therefore accounted as zero.’",
+          "quote_found": false
+        },
+        {
+          "value": "0 tCO2e",
+          "page": null,
+          "quote": "Project emission: Removals by sinks According to AR-ACM0003 GHG emissions resulting from removal of herbaceous vegetation, combustion of fossil fuel, fertilizer application, use of wood, decomposition of litter and fine roots of N-fixing trees, construction of access roads within the project boundary, and transportation attributable to the project activity shall be considered insignificant and therefore accounted as zero.",
+          "quote_found": false
+        }
+      ]
+    },
+    "additionality": "not stated",
+    "leakage": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "15758",
+          "page": 4,
+          "quote": "15758",
+          "quote_found": true
+        },
+        {
+          "value": "10%",
+          "page": 23,
+          "quote": "NMFC Livelihood Study _ Development Plan (2014.08.06) indicated 100 ha of farming near to the forest reserves. Accounting to this Micro had shared their further analysis of satellite imaging and areal study accounting 300 ha more (7.15% of project activity area). To the conservative measures Mico has discounted 10% of the project activity area through leakage.",
+          "quote_found": true
+        },
+        {
+          "value": "221205",
+          "page": 62,
+          "quote": "Verified GHG emission reductions and removals in the above verification period, Year \nBaseline \nemissions \nor \nremovals \n(tCO2e) \nProject \nemissions \nor \nremovals \n(tCO2e) \nLeakage \nemissions \n(tCO2e) \nVCUs past \nverification \n(tCO2e)",
+          "quote_found": true
+        },
+        {
+          "value": "481,955",
+          "page": 82,
+          "quote": "Total Carbon by 202219: 481955 t CO2 eq",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "15,758 tCO2e",
+          "page": null,
+          "quote": "The result from the tool is a total leakage of 15,758 tonnes of CO2 equivalent,",
+          "quote_found": false
+        }
+      ]
+    },
+    "permanence_buffer": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "24579",
+          "page": 4,
+          "quote": "24579",
+          "quote_found": true
+        },
+        {
+          "value": "10%",
+          "page": 11,
+          "quote": "The Miro Forestry had occupied the total 10,495-ha area out of which 3,871-ha area is considered for this monitoring period (02-11-2020 to 19-09-2022) & this second monitoring period aims to verify the estimated 221205  tCO2e (245784 tCO2e Net calculated VCUs for the monitoring period and  24579 tCO2e with consideration of 10% buffer credits) net GHG emission reductions achieved from the project area.",
+          "quote_found": true
+        },
+        {
+          "value": "10%",
+          "page": 34,
+          "quote": "The project proponents applied a buffer discount of a reserve of 10% to cover the aspects related to the risk of non-permanence.",
+          "quote_found": true
+        },
+        {
+          "value": "10%",
+          "page": 80,
+          "quote": "In addition, the risk factor was assessed using the VCS Tool for AFOLU Non-permanence Risk Analysis and Buffer Determination, Project risks and activities to uphold the project permanence are described in the PDD in section 4.4. Identification of risks that may substantially affect the project's GHGs emission reductions or removal enhancement are checked at each verification. For this verification, the risk buffer was set to 10% according to the potential risk and mitigation measures of the project. Detailed information is presented in the supporting Non-permanence Risk Assessment.",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "10",
+          "page": null,
+          "quote": "10 % of the total VCUs generated will be kept in buffer account as per the clause 2.5.5 of VCS version 4.1.",
+          "quote_found": false
+        }
+      ]
+    },
+    "crediting_period": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "24-March-2016 to 30-June -2045",
+          "page": 3,
+          "quote": "24-March-2016 to 30-June -2045",
+          "quote_found": true
+        },
+        {
+          "value": "30 years",
+          "page": 11,
+          "quote": "This afforestation, reforestation project activity crediting period life span is 30 years (from 24th march 2016 to 30th June 2045).",
+          "quote_found": true
+        },
+        {
+          "value": "02-11-2020 to 19-09-2022",
+          "page": 62,
+          "quote": "Verification period: From 02nd November 2020 to 19th September -2022 (Inclusive of both days)",
+          "quote_found": true
+        },
+        {
+          "value": "2019-2024",
+          "page": 82,
+          "quote": "Total Carbon by 202219: 481955 t CO2 eq",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "2016-11-24 to 2020-11-01, 2020-11-02 to 2020-12-31, 2021-01-01 to 2021-12-31",
+          "page": null,
+          "quote": "24-03 2016 to 01-11-2020, 02-11-2020 to 31-12-2020, 01-01-2021 to 31-12-2021",
+          "quote_found": false
+        }
+      ]
+    },
+    "area": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "3,871",
+          "page": 3,
+          "quote": "The total area under the second monitoring verification is 3,871 ha.",
+          "quote_found": true
+        },
+        {
+          "value": "3,871 hectares",
+          "page": 11,
+          "quote": "This lease construction is part of the presidential policy to restore degraded forest reserves in Ghana. This afforestation, reforestation project activity crediting period life span is 30 years (from 24th march 2016 to 30th June 2045). The Miro Forestry had occupied the total 10,495-ha area out of which 3,871-ha area is considered for this monitoring period (02-11-2020 to 19-09-2022) & this second monitoring period aims to verify the estimated 221205  tCO2e (245784 tCO2e Net calculated VCUs for the monitoring period and  24579 tCO2e with consideration of 10% buffer credits) net GHG emission reductions achieved from the project area.",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 17,
+          "quote": "822 circulars (313) and square (509) plots of 500m2 and 400m2, were established and distributed across all the defined strata.",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 23,
+          "quote": "NMFC Livelihood Study _ Development Plan (2014.08.06) indicated 100 ha of farming near to the forest reserves. Accounting to this Micro had shared their further analysis of satellite imaging and areal study accounting 300 ha more (7.15% of project activity area).",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 32,
+          "quote": "The project additionally qualified and monitored non-CO2 GHG emissions from any fires (forest fires) that occurred inside the project boundaries. whose accumulated area affected by such fires in a year is > 5% of the project area and These events will be monitored, and the affected area will be recorded.",
+          "quote_found": true
+        },
+        {
+          "value": "3,871",
+          "page": 62,
+          "quote": "The total area under the second monitoring verification is 3,871 ha.",
+          "quote_found": true
+        },
+        {
+          "value": "3,871 ha",
+          "page": 71,
+          "quote": "The project area of 3,871 ha is also updated and correctly represented within the Ex-post estimation and can be referred to in the following support: Supporting information/Estimations/ Ghana Ex-post.xlsx. The correct project area size within the Ex-post can be found in tab 3.MU; 4.Uncertainity_CDM; 5.Sampling Error and 6.ER Ct.",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "10,495 hectares",
+          "page": null,
+          "quote": "The project proponent has established 10,495 hectares in Ghana within the Boumfoum, Chirimfa and Awura forest reserves.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The Company’s current total land holding is 17,983 hectares9.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "Selection is deemed viable",
+          "quote_found": false
+        },
+        {
+          "value": "3,830.73 hectares",
+          "page": null,
+          "quote": "The project area stated above has been rechecked and is now correctly found to be 3,871 ha, this can be cross verified and referred to in the Pivot table in the Ex-ante estimation sheet in the tab 2.DB, Tab 3. GIS_strata or Tab 12. LTA (refer to planted hectares per year for 2016-2019) (Below is a screenshot of Tab 3.GIS_strata.",
+          "quote_found": false
+        },
+        {
+          "value": "3,871 hectares",
+          "page": null,
+          "quote": "In MR, under Table 10, Stratums defined for GHG emission reductions and removals estimations- total eligible area is still reflecting as 3,871 ha",
+          "quote_found": false
+        },
+        {
+          "value": "169,741",
+          "page": null,
+          "quote": "169,741 hectares",
+          "quote_found": false
+        }
+      ]
+    },
+    "estimated_reductions": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "221205",
+          "page": 3,
+          "quote": "221205",
+          "quote_found": true
+        },
+        {
+          "value": "221205",
+          "page": 62,
+          "quote": "Verified GHG emission reductions and removals in the above verification period, Year \nBaseline \nemissions \nor \nremovals \n(tCO2e) \nProject \nemissions \nor \nremovals \n(tCO2e) \nLeakage \nemissions \n(tCO2e) \nVCUs past \nverification \n(tCO2e)",
+          "quote_found": true
+        },
+        {
+          "value": "326,399 tCO2e",
+          "page": 79,
+          "quote": "The second monitoring period aims to verify the estimated 326,399 tCO2e net GHG emission reductions achieved from Miro Forestry in West Africa",
+          "quote_found": true
+        },
+        {
+          "value": "481,955",
+          "page": 82,
+          "quote": "Total Carbon by 202219: 481955 t CO2 eq",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "221,205 tCO2e",
+          "page": null,
+          "quote": "The second monitoring period aims to verify the estimated 221205tCO2e net GHG emission reductions (considering 10% buffer credits) achieved during the current defined monitoring period.",
+          "quote_found": false
+        },
+        {
+          "value": "245,784 tCO2e",
+          "page": null,
+          "quote": "Total 245,784 tCO2e",
+          "quote_found": false
+        },
+        {
+          "value": "52,402 tCO2e",
+          "page": null,
+          "quote": "Revenues from the commercialization of VCUs with an average annual reduction of 52,402 tCO2e were estimated.",
+          "quote_found": false
+        }
+      ]
+    }
+  }
+}

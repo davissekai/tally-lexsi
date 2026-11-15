@@ -1,0 +1,224 @@
+{
+  "n_examples": 131,
+  "n_positive_examples": 72,
+  "n_negative_examples": 59,
+  "per_field": {
+    "baseline": {
+      "positive": 22,
+      "negative": 109,
+      "reasons": {
+        "absent": 95,
+        "distinctive_number": 10,
+        "quote": 4,
+        "gold_not_stated": 14,
+        "value_phrase": 8
+      }
+    },
+    "additionality": {
+      "positive": 5,
+      "negative": 126,
+      "reasons": {
+        "gold_not_stated": 77,
+        "absent": 49,
+        "quote": 5
+      }
+    },
+    "leakage": {
+      "positive": 18,
+      "negative": 113,
+      "reasons": {
+        "absent": 99,
+        "value_phrase": 11,
+        "quote": 6,
+        "gold_not_stated": 14,
+        "distinctive_number": 1
+      }
+    },
+    "permanence_buffer": {
+      "positive": 25,
+      "negative": 106,
+      "reasons": {
+        "absent": 103,
+        "value_phrase": 16,
+        "quote": 9,
+        "gold_not_stated": 3
+      }
+    },
+    "crediting_period": {
+      "positive": 19,
+      "negative": 112,
+      "reasons": {
+        "quote": 8,
+        "distinctive_number": 9,
+        "absent": 100,
+        "value_phrase": 2,
+        "gold_not_stated": 12
+      }
+    },
+    "area": {
+      "positive": 33,
+      "negative": 98,
+      "reasons": {
+        "quote": 8,
+        "value_phrase": 10,
+        "absent": 98,
+        "distinctive_number": 15
+      }
+    },
+    "estimated_reductions": {
+      "positive": 23,
+      "negative": 108,
+      "reasons": {
+        "absent": 108,
+        "value_phrase": 4,
+        "quote": 14,
+        "distinctive_number": 5
+      }
+    }
+  },
+  "by_split": {
+    "train": {
+      "examples": 108,
+      "has_positive": 51,
+      "all_negative": 57
+    },
+    "val": {
+      "examples": 23,
+      "has_positive": 21,
+      "all_negative": 2
+    }
+  },
+  "by_doc": {
+    "1340_Bale-Mountains_MR_2020-2021": {
+      "split": "train",
+      "project": "bale",
+      "examples": 21,
+      "has_positive": 10,
+      "all_negative": 11,
+      "positives_by_field": {
+        "crediting_period": 5,
+        "area": 2,
+        "permanence_buffer": 4,
+        "leakage": 5,
+        "estimated_reductions": 2,
+        "baseline": 1
+      }
+    },
+    "562_Kasigau-I-Rukinga_PDD_2011-01-31": {
+      "split": "train",
+      "project": "kasigau_i",
+      "examples": 12,
+      "has_positive": 6,
+      "all_negative": 6,
+      "positives_by_field": {
+        "area": 3,
+        "leakage": 4,
+        "crediting_period": 1,
+        "baseline": 2,
+        "additionality": 1,
+        "permanence_buffer": 1,
+        "estimated_reductions": 1
+      }
+    },
+    "562_Kasigau-I-Rukinga_PD_short_2011-01-25": {
+      "split": "train",
+      "project": "kasigau_i",
+      "examples": 2,
+      "has_positive": 2,
+      "all_negative": 0,
+      "positives_by_field": {
+        "additionality": 1,
+        "crediting_period": 2,
+        "area": 1,
+        "estimated_reductions": 1
+      }
+    },
+    "612_Kasigau-II-Community-Ranches_MR-M9_2022": {
+      "split": "train",
+      "project": "kasigau_ii",
+      "examples": 31,
+      "has_positive": 12,
+      "all_negative": 19,
+      "positives_by_field": {
+        "crediting_period": 2,
+        "estimated_reductions": 6,
+        "leakage": 2,
+        "area": 6,
+        "baseline": 6,
+        "permanence_buffer": 2
+      }
+    },
+    "612_Kasigau-II-Community-Ranches_PD_excerpt": {
+      "split": "train",
+      "project": "kasigau_ii",
+      "examples": 1,
+      "has_positive": 1,
+      "all_negative": 0,
+      "positives_by_field": {
+        "area": 1,
+        "estimated_reductions": 1
+      }
+    },
+    "612_Kasigau-II-Community-Ranches_Verification_2024": {
+      "split": "train",
+      "project": "kasigau_ii",
+      "examples": 11,
+      "has_positive": 9,
+      "all_negative": 2,
+      "positives_by_field": {
+        "permanence_buffer": 4,
+        "area": 5,
+        "estimated_reductions": 4
+      }
+    },
+    "934_Mai-Ndombe_MR-M4_2021": {
+      "split": "train",
+      "project": "mai_ndombe",
+      "examples": 30,
+      "has_positive": 11,
+      "all_negative": 19,
+      "positives_by_field": {
+        "crediting_period": 2,
+        "area": 6,
+        "additionality": 2,
+        "baseline": 5,
+        "leakage": 2,
+        "permanence_buffer": 1,
+        "estimated_reductions": 1
+      }
+    },
+    "2410_Miro-Ghana_Verification_2020-2022": {
+      "split": "val",
+      "project": "miro",
+      "examples": 13,
+      "has_positive": 11,
+      "all_negative": 2,
+      "positives_by_field": {
+        "permanence_buffer": 8,
+        "crediting_period": 4,
+        "area": 5,
+        "estimated_reductions": 5,
+        "baseline": 4,
+        "leakage": 3
+      }
+    },
+    "2929_Bandai-Hills-Ghana_Validation_2024": {
+      "split": "val",
+      "project": "bandai",
+      "examples": 10,
+      "has_positive": 10,
+      "all_negative": 0,
+      "positives_by_field": {
+        "area": 4,
+        "permanence_buffer": 5,
+        "crediting_period": 3,
+        "baseline": 4,
+        "leakage": 2,
+        "additionality": 1,
+        "estimated_reductions": 2
+      }
+    }
+  },
+  "rejected_ids": [],
+  "n_rejected": 0
+}

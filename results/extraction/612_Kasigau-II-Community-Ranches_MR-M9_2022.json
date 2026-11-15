@@ -1,0 +1,2173 @@
+{
+  "doc": "612_Kasigau-II-Community-Ranches_MR-M9_2022.txt",
+  "n_chunks": 31,
+  "elapsed_s": 1049.8,
+  "chunks": [
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The rains have failed frequently in recent years, and even when they have come, been unpredictable.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "01 January 2010 – 31 December 2039",
+        "page": 2,
+        "quote": "History of CCB Status",
+        "quote_found": true
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The Project Area contains the Taita Hills, part of the Eastern Afromontane Biodiversity Hotspot, and harbour two Endangered bird species: Taita Apalis (Apalis fuscigularis) (Critically Endangered) and Taita Thrush (Turdus helleri) (Endangered).",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Project baseline model does not calculate hectares.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "1,642,971 tCO2e",
+        "page": 10,
+        "quote": "18,163,638 tCO2e",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "169,741.38 hectares",
+        "page": null,
+        "quote": "Change in the number of hectares significantly better managed by the Project for biodiversity conservation,9 measured against the without-project scenario",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 18,
+        "quote": "The Project has additional Project Activities which address the focal issues identified by project stakeholders in the SBIA workshop, which include poverty, human/wildlife conflict, environmental degradation, agricultural issues and education. By addressing these focal issues, the project helps to alleviate many of the drivers of deforestation and forest degradation. The Project has additional Project Activities which address the focal issues identified by project stakeholders in the SBIA workshop, which include poverty, human/wildlife conflict, environmental degradation, agricultural issues and education.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 18,
+        "quote": "Any potential leakage from the Project Activity is measured directly in the Project’s leakage area. No leakage was observed for this monitoring period (Section 3.2.3.2).",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 18,
+        "quote": "Non-permanence risk factors are assessed at each verification event in accordance with VCS requirements and reported in the non-permanence risk tool.",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "2010-2039",
+        "page": 19,
+        "quote": "The Project crediting period started on January 1st, 2010 and will end on December 31st, 2039 (30 years).",
+        "quote_found": true
+      },
+      "area": {
+        "value": "169,741.38 hectares",
+        "page": 21,
+        "quote": "These community ranches and conservancies are part of that land that forms a corridor (the Kasigau Wildlife Corridor) between Tsavo East National Park and Tsavo West National Parks to the east of the Marungu range. The Project consists of the following ranches and conservancies: Taita Ranch, Mgeno Ranch, Maungu Ranch, Kasigau Ranch, Wangala Ranch, Kambanga Ranch, Dawida Ranch, Washumbu Ranch, Amaka Ranch, Sagalla Ranch, Ndara Ranch, Choke Ranch, Kutima Ranch, Marungu Hills Conservancy Area, Wildlife Corridor Link.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "1,642,971 t CO2e",
+        "page": 18,
+        "quote": "The total GHG emission reductions for this (M9) monitoring period are 1,642,971 t CO2e.",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 21,
+        "quote": "Lands within the Project boundary are classified as tropical dryland forest12 for at least 20 years and has been primary forest throughout recorded history13.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 25,
+        "quote": "KCRPII is not currently registered with any other GHG program. However, concurrently with the VCS/CCB verification of the eighth monitoring period, the project was validated and verified under the SD Vista Standards.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 21,
+        "quote": "There have been no changes to the Project Area location or maps since the publication of the VCS and CCB Project Documents (PDs).",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "5076 ha, 5076 ha, 1,030 ha",
+        "page": 20,
+        "quote": "Choke Ranch, which is 5076 ha known as L.R. 12199/3 and owned by Raymond Joel Mwangola a local shareholder • Kutima Ranch, which is 5076 ha known as L.R. 12199/4 and owned by Kutima Investments Limited, a collection of indigenous local shareholders • Marungu Hills Conservancy Area, a small 1,030 ha, but important community owned strip of land at the ridge of the Marungu Hills that the community wishes to protect.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "18,163,638 tCO2e",
+        "page": 26,
+        "quote": "To date the KCRPII project has led to 18,163,638 tCO2e of net estimated emission reductions in the Project Area, measured against the without-project scenario.",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 28,
+        "quote": "We have not reported on # of children in each school since December 2012 (M2) as we found it to be an inappropriate indicator of the success of our school construction and bursary scheme since it was difficult to reliably report that data.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 28,
+        "quote": "This deviation does not impact the project’s community monitoring of this activity area as other indicators monitor this more effectively.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 28,
+        "quote": "This deviation does not impact the project’s community monitoring of this activity area as other indicators monitor this more effectively.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "This deviation does not impact the applicability of the methodology, additionality or the appropriateness of the baseline scenario, as it only revises the stratification of the Project Area and does not impact the overall area or boundaries of the Project Area.",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "This deviation does not impact the applicability of the methodology, additionality or the appropriateness of the baseline scenario, as it only revises the stratification of the Project Area and does not impact the overall area or boundaries of the Project Area.",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The project boundaries were created in GIS by using the ranch area descriptions and specifications as contained in each deed map, however, this resulted in total areas that were different than as documented in the deeds.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "This deviation does not impact the applicability of the methodology, additionality or the appropriateness of the baseline scenario, as it only revises the stratification of the Project Area and does not impact the overall area or boundaries of the Project Area.",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 32,
+        "quote": "Our strategy is to continue educating the local population, especially the youth, about the dangers of burning fallows, which is often done to improve grazing for their animals.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The Project has executed carbon rights agreements in the Project area and received carbon proceeds through the sale of credits in the voluntary market as an operational REDD+ Project.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 32,
+        "quote": "Increased Human-wildlife conflict – Increased presence of large fauna within the project area, specifically elephants, could lead to conflict with community members if the elephants wander outside the project area.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 35,
+        "quote": "We have demonstrated the effective management of carbon proceeds throughout the first 5 verification periods, achieving consecutive successful verifications, making it the most advanced REDD+ Project validated under VCS and CCB.",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The Project has executed carbon rights agreements in the Project area and received carbon proceeds through the sale of credits in the voluntary market as an operational REDD+ Project.",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The area contains several endangered species, including Grevy’s Zebra, African Wild Dog, African Elephant, Martial Eagle, Bateleur Secretarybird and several vulture species.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The Project has executed carbon rights agreements in the Project area and received carbon proceeds through the sale of credits in the voluntary market as an operational REDD+ Project.",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 36,
+        "quote": "The Kasigau REDD+ Project Phase II – The Community Ranches Monitoring Report has been posted for public comment on the CCB website (https://registry.verra.org/app/projectDetail/CCB/612) and open to comments for 30 days, during the period March 10th to April 9th, 2023.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 36,
+        "quote": "The Kasigau REDD+ Project Phase II – The Community Ranches Monitoring Report has been posted for public comment on the CCB website (https://registry.verra.org/app/projectDetail/CCB/612) and open to comments for 30 days, during the period March 10th to April 9th, 2023.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 43,
+        "quote": "CCB v2.0, VCS v3.4",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 44,
+        "quote": "Without carbon funding, the CBOs would not have been implemented, and Wildlife Works is proud to be able to afford the communities in the sphere of influence of the carbon Project with the capacity to manage their funds accordingly.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "-0.8230546",
+        "page": null,
+        "quote": "Value applied: -0.8230546",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 54,
+        "quote": "Parameter not used",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "0.03069047",
+        "page": null,
+        "quote": "Value applied: 0.03069047",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "0.03069047",
+        "page": null,
+        "quote": "Value applied 0.03069047",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "-0.5046",
+        "page": null,
+        "quote": "Value applied -0.5046",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 58,
+        "quote": "Area of Project Area",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "169,741.38",
+        "page": 67,
+        "quote": "Total area",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 62,
+        "quote": "Parameter not used",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 62,
+        "quote": "Parameter not used",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 62,
+        "quote": "Parameter not used",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": 62,
+        "quote": "Parameter not used",
+        "quote_found": true
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 67,
+        "quote": "Total area",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": 62,
+        "quote": "Parameter not used",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Purpose of data: Calculated from laboratory analysis.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "169,741 hectares",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "_error": "{\n  \"baseline\": {\n    \"value\": \"125,488.31\",\n    \"page\": 84,\n    \"quote\": \"Data Unit / Parameter: CSWL [m] Data unit: Tonnes CO2e Description: Estimated carbon stock in standing dead wood at monitoring period [m]. Source of data: Carbon stock is measured using a diameter tape according to the procedures detailed in the SOP: 'Standard Operating Procedure Kasigau_PhaseII - Forest Inventory v3.3_2022-10-21.pdf' Description of measurement methods and procedures to be applied: 20% of biomass plots are measured at each monitoring event, so that 100% of plots are measured once every five years. Frequency of monitoring/recording: Updated at every monitoring period. Value applied: 125,488.31 Monitoring equipment: As stated in the Biomass monitoring SOP 'Standard Operating Procedure Kasigau_PhaseII - Forest Inventory v3.3_2022-10-21.pdf', the following equipment is utilized: GPS unit, diameter tape and field metric measurement tape. QA/QC procedures to be applied: Review of monitoring records Purpose of data: Calculation of baseline emissions Calculation method: Value calculated using the procedures described in Section 13.5.1 of the VCS methodology VM0009 v1.1. Any comment: \"\n  },\n  \"additionality\": {\n    \"value\": \"not stated\",\n    \"page\": 84,\n    \"quote\": \"Data Unit / Parameter: CSOL [m] Data unit: Tonnes CO2e Description: Estimated carbon stock in soil carbon at monitoring period [m]. Source of data: Carbon stock is measured in the field according to the procedures detailed in the Soil SOP: 'SOP - Kasigau Soil Field Sampling v3.6 2017-10-05.pdf' Description of measurement methods and procedures to be applied: N/A Frequency of monitoring/recording: N/A Value applied: N/A Monitoring equipment: The monitoring equipment is listed in the soil carbon monitoring SOP: 'SOP - Kasigau Soil Field Sampling v3.6 2017-10-05.pdf' QA/QC procedures to be applied: The QA/QC procedures are listed in the soil carbon monitoring SOP: 'SOP - Kasigau Soil Field Sampling v3.6 2017-10-05.pdf' Purpose of data: Calculation of baseline emissions Calculation method: Field measurement Any comment: Carbon pool not included in Project\"\n  },\n  \"leakage\": {\n    \"value\": \"not stated\",\n    \"page\": 84,\n    \"quote\": \"Data Unit / Parameter: CSOL [m] Data unit: Tonnes CO2e Description: Estimated carbon stock in soil carbon at monitoring period [m]. Source of data: Carbon stock is measured in the field according to the procedures detailed in the Soil SOP: 'SOP - Kasigau Soil Field Sampling v3.6 2017-10-05.pdf' Description of measurement methods and procedures to be applied: N/A Frequency of monitoring/recording: N/A Value applied: N/A Monitoring equipment: The monitoring equipment is listed in the soil carbon monitoring SOP: 'SOP - Kasigau Soil Field Sampling v3.6 2017-10-05.pdf' QA/QC procedures to be applied: The QA/QC procedures are listed in the soil carbon monitoring SOP: 'SOP - Kasigau Soil Field Sampling v3.6 2017-10-05.pdf' Purpose of data: Calculation of baseline emissions Calculation method: Field measurement Any comment: Carbon pool not included in Project\"\n  },\n  \"permanence_buffer\": {\n    \"value\": \"not stated\",\n    \"page\": 84,\n    \"quote\": \"Data Unit / Parameter: CSOL [m] Data unit: Tonnes CO2e Description: Estimated carbon stock in soil carbon at monitoring period [m]. Source of data: Carbon stock is measured in the field according to the procedures detailed in the Soil SOP: 'SOP - Kasigau Soil Field Sampling v3.6 2017-10-05.pdf' Description of measurement methods and procedures to be applied: N/A Frequency of monitoring/recording: N/A Value applied: N/A Monitoring equipment: The monitoring equipment is listed in the soil carbon monitoring SOP: 'SOP - Kasigau Soil"
+    },
+    {
+      "baseline": {
+        "value": "1,888,472 tCO2e",
+        "page": null,
+        "quote": "The sum of estimated emissions over selected carbon pools. Value calculated using the procedures described in Section 8 of the VCS methodology VM0009 v1.1.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "0 tCO2e",
+        "page": null,
+        "quote": "Leakage is measured according to the procedures detailed in the SOP: ‘Standard Operating Procedure Kasigau - Forest Leakage v1.0_01_01_2011.pdf.’",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The Project Area is estimated to be 169,741 hectares.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "1,642,971 tCO2e",
+        "page": null,
+        "quote": "Quantified emissions reductions and/or removals. Value calculated using the procedures described in Section 9 of the VCS methodology VM0009 v1.1.",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "2,779,233.06",
+        "page": null,
+        "quote": "Value applied: 2,779,233.06",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 96,
+        "quote": "Parameter not used.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "0.7504",
+        "page": null,
+        "quote": "Value applied: 0.7504",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 96,
+        "quote": "Parameter not used.",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": 96,
+        "quote": "Parameter not used.",
+        "quote_found": true
+      },
+      "area": {
+        "value": "not stated",
+        "page": 96,
+        "quote": "Parameter not used.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": 96,
+        "quote": "Parameter not used.",
+        "quote_found": true
+      }
+    },
+    {
+      "_error": "{\n  \"baseline\": {\n    \"value\": \"1,697,650.03\",\n    \"page\": 104,\n    \"quote\": \"Calculated with the Equation 𝑁𝑃= 𝑎𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑎𝑝𝑙𝑒 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 𝑛𝑖𝑛𝑡 "
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 114,
+        "quote": "The following is an overview of the monitoring plan, a detailed rendition of which can be found in the PD under Section 13.14 Monitoring of Carbon Stocks in the Project Area (the field procedures are detailed in the documents ‘Standard Operating Procedure - Biomass’ and ‘Standard Operating Procedure – Soils’).",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 107,
+        "quote": "Parameter not used",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 107,
+        "quote": "Parameter not used",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 114,
+        "quote": "The following is an overview of the monitoring plan, a detailed rendition of which can be found in the PD under Section 13.14 Monitoring of Carbon Stocks in the Project Area (the field procedures are detailed in the documents ‘Standard Operating Procedure - Biomass’ and ‘Standard Operating Procedure – Soils’).",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": 107,
+        "quote": "Parameter not used",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "above-ground large tree biomass",
+        "page": null,
+        "quote": "The purpose of the carbon-monitoring plan is to measure: • The extent to which forest within the Project Area has been protected from any unplanned GHG emissions during the Project crediting period, and; • Leakage that that can be attributed to the Project.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "above-ground small tree biomass",
+        "page": 119,
+        "quote": "The Carbon Pools that are included in the Kasigau Corridor REDD+ Project Phase II Pool",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "M9",
+        "page": 116,
+        "quote": "For this monitoring period (M9), 85 plots were measured across all 13 ranches",
+        "quote_found": true
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 114,
+        "quote": "Overall, the 9 strata sum to the total Project Area, comprising the Project Area’s overall landcover as shown in Figure 6 below.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "39.90%",
+        "page": 124,
+        "quote": "39.90%",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "39.90%",
+        "page": 124,
+        "quote": "39.90%",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "M9",
+        "page": 122,
+        "quote": "M9",
+        "quote_found": true
+      },
+      "area": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "20,948,108 t CO2e",
+        "page": null,
+        "quote": "20,948,108 t CO2e",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "Total 169,741.38\n3.2.1.2\nCalculating Baseline Emissions from Soil Carbon\nWildlife Works employs a soil emissions model (SEM) to measure soil carbon: unlike with forest carbon, complete (100%) soil carbon loss does not occur in the baseline scenario. All soil plots were remeasured during the eighth (M8) monitoring period, in accordance with the monitoring plan. Please see Figure 11 for a map of soil sample plot locations. The methodology specifies a decay curve that eventually settles on a mean SOC value for soil carbon lost through clearing of agricultural land. Prior to Project validation, we measured soil carbon in a number of proxy sites immediately adjacent to the Project Area, on farmland with identical soil, rainfall and climate, which in all cases had been forested less than 20 years prior. An identical procedure is used for soil carbon estimation within the Project Area: 1 m pits dug in two lifts, 0-30 cm and 31-100 cm and samples from each layer were thoroughly mixed, bagged and sent to an independent soil testing lab for bulk density and soil organic matter (SOM) analysis. The results of the soil carbon analysis can be found in the file ‘Kasigau Corridor II Soil Calc 2022 v2.1.xlsx’. The results were derived from the following equations:",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741.38",
+        "page": null,
+        "quote": "Total 169,741.38\n3.2.1.2\nCalculating Baseline Emissions from Soil Carbon\nWildlife Works employs a soil emissions model (SEM) to measure soil carbon: unlike with forest carbon, complete (100%) soil carbon loss does not occur in the baseline scenario. All soil plots were remeasured during the eighth (M8) monitoring period, in accordance with the monitoring plan. Please see Figure 11 for a map of soil sample plot locations. The methodology specifies a decay curve that eventually settles on a mean SOC value for soil carbon lost through clearing of agricultural land. Prior to Project validation, we measured soil carbon in a number of proxy sites immediately adjacent to the Project Area, on farmland with identical soil, rainfall and climate, which in all cases had been forested less than 20 years prior. An identical procedure is used for soil carbon estimation within the Project Area: 1 m pits dug in two lifts, 0-30 cm and 31-100 cm and samples from each layer were thoroughly mixed, bagged and sent to an independent soil testing lab for bulk density and soil organic matter (SOM) analysis. The results of the soil carbon analysis can be found in the file ‘Kasigau Corridor II Soil Calc 2022 v2.1.xlsx’. The results were derived from the following equations:",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "1,263,000 t CO2e",
+        "page": null,
+        "quote": "The results of the soil carbon analysis can be found in the file ‘Kasigau Corridor II Soil Calc 2022 v2.1.xlsx’. The results were derived from the following equations:",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "0.5046009",
+        "page": 134,
+        "quote": "Leakage was calculated and deducted from gross emission reductions as follows: 𝛿̂𝐿𝐸 (t=0) = 0.5046009",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,011.83 hectares",
+        "page": null,
+        "quote": "Area Soil accounting area (ha) Mean carbon stock (t CO2e / ha) Project Area 169,011.83 495.28 3.02",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "1,888,472 tCO2e",
+        "page": null,
+        "quote": "Baseline emissions, M9 = 1,888,472",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "0 tCO2e",
+        "page": null,
+        "quote": "Emissions from Leakage, M9 = 0",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "245,501 tCO2e",
+        "page": null,
+        "quote": "ERs to Buffer Pool, (13%), M0 = 245,501",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "aprt. 169,741.38",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "1,642,971 tCO2e",
+        "page": null,
+        "quote": "Total emission reductions (ERs), M9 = 1,642,971",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "1,888,472 tCO2e",
+        "page": null,
+        "quote": "2022: 1,888,472 (Baseline emissions or removals (tCO2e))",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "0 tCO2e",
+        "page": null,
+        "quote": "0 (Project emissions or removals (tCO2e))",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "245,501 tCO2e",
+        "page": 140,
+        "quote": "Buffer = 245,501 t CO2e",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "1,642,971 tCO2e",
+        "page": null,
+        "quote": "1,642,971 (Net GHG emission reductions or removals (tCO2e))",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 144,
+        "quote": "The SBIA community workshop participants were also tasked with identifying possible risks to Project success, plus unexpected side effect(s) from the REDD+ Project successfully realizing the desired results (based on the Focal Issues they identified and associated theories of change above). Additionally, they were required to gauge the likelihood and magnitude of these unintentional side effects then propose possible mitigation action.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 144,
+        "quote": "The SBIA community workshop participants were also tasked with identifying possible risks to Project success, plus unexpected side effect(s) from the REDD+ Project successfully realizing the desired results (based on the Focal Issues they identified and associated theories of change above). Additionally, they were required to gauge the likelihood and magnitude of these unintentional side effects then propose possible mitigation action.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 144,
+        "quote": "The SBIA community workshop participants were also tasked with identifying possible risks to Project success, plus unexpected side effect(s) from the REDD+ Project successfully realizing the desired results (based on the Focal Issues they identified and associated theories of change above). Additionally, they were required to gauge the likelihood and magnitude of these unintentional side effects then propose possible mitigation action.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 144,
+        "quote": "The SBIA community workshop participants were also tasked with identifying possible risks to Project success, plus unexpected side effect(s) from the REDD+ Project successfully realizing the desired results (based on the Focal Issues they identified and associated theories of change above). Additionally, they were required to gauge the likelihood and magnitude of these unintentional side effects then propose possible mitigation action.",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": 144,
+        "quote": "The SBIA community workshop participants were also tasked with identifying possible risks to Project success, plus unexpected side effect(s) from the REDD+ Project successfully realizing the desired results (based on the Focal Issues they identified and associated theories of change above). Additionally, they were required to gauge the likelihood and magnitude of these unintentional side effects then propose possible mitigation action.",
+        "quote_found": true
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 144,
+        "quote": "The SBIA community workshop participants were also tasked with identifying possible risks to Project success, plus unexpected side effect(s) from the REDD+ Project successfully realizing the desired results (based on the Focal Issues they identified and associated theories of change above). Additionally, they were required to gauge the likelihood and magnitude of these unintentional side effects then propose possible mitigation action.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": 144,
+        "quote": "The SBIA community workshop participants were also tasked with identifying possible risks to Project success, plus unexpected side effect(s) from the REDD+ Project successfully realizing the desired results (based on the Focal Issues they identified and associated theories of change above). Additionally, they were required to gauge the likelihood and magnitude of these unintentional side effects then propose possible mitigation action.",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "285.51ha",
+        "page": null,
+        "quote": "# hectares deforested, excised or converted into farmland Annually Impact RS/GIS",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The construction of boreholes, implementation of wildlife deterrents, and patrolling all seek to reduce human/wildlife conflict. Jobs and other income generating activities also likewise seek to increase household income and therefore positively impact all members of the household and community.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The construction of boreholes, implementation of wildlife deterrents, and patrolling all seek to reduce human/wildlife conflict. Jobs and other income generating activities also likewise seek to increase household income and therefore positively impact all members of the household and community.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 160,
+        "quote": "All Project Activities are described in full detail in the PD, section 6.1 ‘Baseline Scenario’.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Project Activities were designed to mitigate deforestation, forest degradation and human-wildlife conflict, and therefore by default serve to mitigate leakage and uphold project permanence.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Project Activities were designed to mitigate deforestation, forest degradation and human-wildlife conflict, and therefore by default serve to mitigate leakage and uphold project permanence.",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Project Activities were designed to mitigate deforestation, forest degradation and human-wildlife conflict, and therefore by default serve to mitigate leakage and uphold project permanence.",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": 159,
+        "quote": "The following is a list of Project Activities for KCRPII. All Projects are currently operational and were operational for the entirety of the M9 monitoring period.",
+        "quote_found": true
+      },
+      "area": {
+        "value": "not stated",
+        "page": 159,
+        "quote": "The following is a list of Project Activities for KCRPII. All Projects are currently operational and were operational for the entirety of the M9 monitoring period.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": 159,
+        "quote": "The following is a list of Project Activities for KCRPII. All Projects are currently operational and were operational for the entirety of the M9 monitoring period.",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "2022",
+        "page": null,
+        "quote": "The reporting period 2022 for the KCRPII Project Zone.",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The KCRPII Project Zone.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The detailed biodiversity and social monitoring activities outlined in Sections 4 & 5 illustrate Wildlife Works’ efforts to maintain high quality data collection to aid in evaluating Project impacts and informing adaptive management.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "deforestation due to unplanned agricultural expansion by subsistence farmers",
+        "page": 182,
+        "quote": "For KCRPII, the baseline scenario is mainly deforestation due to unplanned agricultural expansion by subsistence farmers. This is normally preceded by charcoal production and pole harvesting which are the major causes of forest degradation.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The Project Area also serves as the only secure corridor linking Tsavo East and Tsavo West national parks, enabling safe movement by wildlife away from area farms, infrastructure and communities.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The Project provides a vital and secure wildlife habitat, with water sources that are maintained in the dry season. The Project Area also serves as the only secure corridor linking Tsavo East and Tsavo West national parks, enabling safe movement by wildlife away from area farms, infrastructure and communities.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The Project Area also serves as the only secure corridor linking Tsavo East and Tsavo West national parks, enabling safe movement by wildlife away from area farms, infrastructure and communities.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 198,
+        "quote": "Figure 36: Monthly distances covered by the two resident gyrocopters traversing the KCRPII during the 2022 reporting period.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    }
+  ],
+  "merged": {
+    "baseline": {
+      "value": "deforestation due to unplanned agricultural expansion by subsistence farmers",
+      "page": 182,
+      "quote": "For KCRPII, the baseline scenario is mainly deforestation due to unplanned agricultural expansion by subsistence farmers. This is normally preceded by charcoal production and pole harvesting which are the major causes of forest degradation.",
+      "quote_found": true,
+      "pages": [
+        182
+      ],
+      "unsupported": [
+        {
+          "value": "169,741.38 hectares",
+          "page": 17,
+          "quote": "Change in the number of hectares significantly better managed by the Project for biodiversity conservation,9 measured against the without-project scenario",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "-0.8230546",
+          "page": 53,
+          "quote": "Value applied: -0.8230546",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "0.03069047",
+          "page": 53,
+          "quote": "Value applied 0.03069047",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "169,741.38",
+          "page": 67,
+          "quote": "Total area",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "1,888,472 tCO2e",
+          "page": 85,
+          "quote": "The sum of estimated emissions over selected carbon pools. Value calculated using the procedures described in Section 8 of the VCS methodology VM0009 v1.1.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "2,779,233.06",
+          "page": 93,
+          "quote": "Value applied: 2,779,233.06",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "above-ground large tree biomass",
+          "page": 119,
+          "quote": "The purpose of the carbon-monitoring plan is to measure: • The extent to which forest within the Project Area has been protected from any unplanned GHG emissions during the Project crediting period, and; • Leakage that that can be attributed to the Project.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "39.90%",
+          "page": 124,
+          "quote": "39.90%",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "Total 169,741.38\n3.2.1.2\nCalculating Baseline Emissions from Soil Carbon\nWildlife Works employs a soil emissions model (SEM) to measure soil carbon: unlike with forest carbon, complete (100%) soil carbon loss does not occur in the baseline scenario. All soil plots were remeasured during the eighth (M8) monitoring period, in accordance with the monitoring plan. Please see Figure 11 for a map of soil sample plot locations. The methodology specifies a decay curve that eventually settles on a mean SOC value for soil carbon lost through clearing of agricultural land. Prior to Project validation, we measured soil carbon in a number of proxy sites immediately adjacent to the Project Area, on farmland with identical soil, rainfall and climate, which in all cases had been forested less than 20 years prior. An identical procedure is used for soil carbon estimation within the Project Area: 1 m pits dug in two lifts, 0-30 cm and 31-100 cm and samples from each layer were thoroughly mixed, bagged and sent to an independent soil testing lab for bulk density and soil organic matter (SOM) analysis. The results of the soil carbon analysis can be found in the file ‘Kasigau Corridor II Soil Calc 2022 v2.1.xlsx’. The results were derived from the following equations:",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "1,263,000 t CO2e",
+          "page": 130,
+          "quote": "The results of the soil carbon analysis can be found in the file ‘Kasigau Corridor II Soil Calc 2022 v2.1.xlsx’. The results were derived from the following equations:",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "1,888,472 tCO2e",
+          "page": null,
+          "quote": "Baseline emissions, M9 = 1,888,472",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "1,888,472 tCO2e",
+          "page": null,
+          "quote": "2022: 1,888,472 (Baseline emissions or removals (tCO2e))",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "285.51ha",
+          "page": 152,
+          "quote": "# hectares deforested, excised or converted into farmland Annually Impact RS/GIS",
+          "quote_found": true,
+          "reject": "value not in quote"
+        }
+      ]
+    },
+    "additionality": "not stated",
+    "leakage": {
+      "value": "not stated",
+      "unsupported": [
+        {
+          "value": "0.03069047",
+          "page": null,
+          "quote": "Value applied: 0.03069047",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "-0.5046",
+          "page": 54,
+          "quote": "Value applied -0.5046",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "0 tCO2e",
+          "page": 86,
+          "quote": "Leakage is measured according to the procedures detailed in the SOP: ‘Standard Operating Procedure Kasigau - Forest Leakage v1.0_01_01_2011.pdf.’",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "0.7504",
+          "page": 98,
+          "quote": "Value applied: 0.7504",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "above-ground small tree biomass",
+          "page": 119,
+          "quote": "The Carbon Pools that are included in the Kasigau Corridor REDD+ Project Phase II Pool",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "0.5046009",
+          "page": 134,
+          "quote": "Leakage was calculated and deducted from gross emission reductions as follows: 𝛿̂𝐿𝐸 (t=0) = 0.5046009",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "0 tCO2e",
+          "page": null,
+          "quote": "Emissions from Leakage, M9 = 0",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "0 tCO2e",
+          "page": null,
+          "quote": "0 (Project emissions or removals (tCO2e))",
+          "quote_found": false,
+          "reject": "quote not in document"
+        }
+      ]
+    },
+    "permanence_buffer": {
+      "value": "245,501 tCO2e",
+      "page": 140,
+      "quote": "Buffer = 245,501 t CO2e",
+      "quote_found": true,
+      "pages": [
+        140
+      ],
+      "unsupported": [
+        {
+          "value": "39.90%",
+          "page": 124,
+          "quote": "39.90%",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "245,501 tCO2e",
+          "page": null,
+          "quote": "ERs to Buffer Pool, (13%), M0 = 245,501",
+          "quote_found": false,
+          "reject": "quote not in document"
+        }
+      ]
+    },
+    "crediting_period": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "2010-2039",
+          "page": 19,
+          "quote": "The Project crediting period started on January 1st, 2010 and will end on December 31st, 2039 (30 years).",
+          "quote_found": true,
+          "pages": [
+            19
+          ]
+        },
+        {
+          "value": "2022",
+          "page": 164,
+          "quote": "The reporting period 2022 for the KCRPII Project Zone.",
+          "quote_found": true,
+          "pages": [
+            164
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "01 January 2010 – 31 December 2039",
+          "page": 2,
+          "quote": "History of CCB Status",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "M9",
+          "page": 116,
+          "quote": "For this monitoring period (M9), 85 plots were measured across all 13 ranches",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "M9",
+          "page": 122,
+          "quote": "M9",
+          "quote_found": false,
+          "reject": "quote not in document"
+        }
+      ]
+    },
+    "area": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "5076 ha, 5076 ha, 1,030 ha",
+          "page": 20,
+          "quote": "Choke Ranch, which is 5076 ha known as L.R. 12199/3 and owned by Raymond Joel Mwangola a local shareholder • Kutima Ranch, which is 5076 ha known as L.R. 12199/4 and owned by Kutima Investments Limited, a collection of indigenous local shareholders • Marungu Hills Conservancy Area, a small 1,030 ha, but important community owned strip of land at the ridge of the Marungu Hills that the community wishes to protect.",
+          "quote_found": true,
+          "pages": [
+            20
+          ]
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 58,
+          "quote": "Area of Project Area",
+          "quote_found": true,
+          "pages": [
+            58
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The Project Area contains the Taita Hills, part of the Eastern Afromontane Biodiversity Hotspot, and harbour two Endangered bird species: Taita Apalis (Apalis fuscigularis) (Critically Endangered) and Taita Thrush (Turdus helleri) (Endangered).",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741.38 hectares",
+          "page": 21,
+          "quote": "These community ranches and conservancies are part of that land that forms a corridor (the Kasigau Wildlife Corridor) between Tsavo East National Park and Tsavo West National Parks to the east of the Marungu range. The Project consists of the following ranches and conservancies: Taita Ranch, Mgeno Ranch, Maungu Ranch, Kasigau Ranch, Wangala Ranch, Kambanga Ranch, Dawida Ranch, Washumbu Ranch, Amaka Ranch, Sagalla Ranch, Ndara Ranch, Choke Ranch, Kutima Ranch, Marungu Hills Conservancy Area, Wildlife Corridor Link.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 30,
+          "quote": "The project boundaries were created in GIS by using the ranch area descriptions and specifications as contained in each deed map, however, this resulted in total areas that were different than as documented in the deeds.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 33,
+          "quote": "The area contains several endangered species, including Grevy’s Zebra, African Wild Dog, African Elephant, Martial Eagle, Bateleur Secretarybird and several vulture species.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 36,
+          "quote": "The Kasigau REDD+ Project Phase II – The Community Ranches Monitoring Report has been posted for public comment on the CCB website (https://registry.verra.org/app/projectDetail/CCB/612) and open to comments for 30 days, during the period March 10th to April 9th, 2023.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 67,
+          "quote": "Total area",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "169,741 hectares",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The Project Area is estimated to be 169,741 hectares.",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 114,
+          "quote": "The following is an overview of the monitoring plan, a detailed rendition of which can be found in the PD under Section 13.14 Monitoring of Carbon Stocks in the Project Area (the field procedures are detailed in the documents ‘Standard Operating Procedure - Biomass’ and ‘Standard Operating Procedure – Soils’).",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 114,
+          "quote": "Overall, the 9 strata sum to the total Project Area, comprising the Project Area’s overall landcover as shown in Figure 6 below.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741.38",
+          "page": null,
+          "quote": "Total 169,741.38\n3.2.1.2\nCalculating Baseline Emissions from Soil Carbon\nWildlife Works employs a soil emissions model (SEM) to measure soil carbon: unlike with forest carbon, complete (100%) soil carbon loss does not occur in the baseline scenario. All soil plots were remeasured during the eighth (M8) monitoring period, in accordance with the monitoring plan. Please see Figure 11 for a map of soil sample plot locations. The methodology specifies a decay curve that eventually settles on a mean SOC value for soil carbon lost through clearing of agricultural land. Prior to Project validation, we measured soil carbon in a number of proxy sites immediately adjacent to the Project Area, on farmland with identical soil, rainfall and climate, which in all cases had been forested less than 20 years prior. An identical procedure is used for soil carbon estimation within the Project Area: 1 m pits dug in two lifts, 0-30 cm and 31-100 cm and samples from each layer were thoroughly mixed, bagged and sent to an independent soil testing lab for bulk density and soil organic matter (SOM) analysis. The results of the soil carbon analysis can be found in the file ‘Kasigau Corridor II Soil Calc 2022 v2.1.xlsx’. The results were derived from the following equations:",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,011.83 hectares",
+          "page": 133,
+          "quote": "Area Soil accounting area (ha) Mean carbon stock (t CO2e / ha) Project Area 169,011.83 495.28 3.02",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "aprt. 169,741.38",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 144,
+          "quote": "The SBIA community workshop participants were also tasked with identifying possible risks to Project success, plus unexpected side effect(s) from the REDD+ Project successfully realizing the desired results (based on the Focal Issues they identified and associated theories of change above). Additionally, they were required to gauge the likelihood and magnitude of these unintentional side effects then propose possible mitigation action.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 150,
+          "quote": "The construction of boreholes, implementation of wildlife deterrents, and patrolling all seek to reduce human/wildlife conflict. Jobs and other income generating activities also likewise seek to increase household income and therefore positively impact all members of the household and community.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 164,
+          "quote": "The KCRPII Project Zone.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 184,
+          "quote": "The Project Area also serves as the only secure corridor linking Tsavo East and Tsavo West national parks, enabling safe movement by wildlife away from area farms, infrastructure and communities.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 198,
+          "quote": "Figure 36: Monthly distances covered by the two resident gyrocopters traversing the KCRPII during the 2022 reporting period.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        }
+      ]
+    },
+    "estimated_reductions": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "1,642,971 t CO2e",
+          "page": 18,
+          "quote": "The total GHG emission reductions for this (M9) monitoring period are 1,642,971 t CO2e.",
+          "quote_found": true,
+          "pages": [
+            18
+          ]
+        },
+        {
+          "value": "18,163,638 tCO2e",
+          "page": 26,
+          "quote": "To date the KCRPII project has led to 18,163,638 tCO2e of net estimated emission reductions in the Project Area, measured against the without-project scenario.",
+          "quote_found": true,
+          "pages": [
+            26
+          ]
+        },
+        {
+          "value": "20,948,108 t CO2e",
+          "page": 133,
+          "quote": "20,948,108 t CO2e",
+          "quote_found": true,
+          "pages": [
+            133
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "1,642,971 tCO2e",
+          "page": 10,
+          "quote": "18,163,638 tCO2e",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "1,642,971 tCO2e",
+          "page": 87,
+          "quote": "Quantified emissions reductions and/or removals. Value calculated using the procedures described in Section 9 of the VCS methodology VM0009 v1.1.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "1,642,971 tCO2e",
+          "page": null,
+          "quote": "Total emission reductions (ERs), M9 = 1,642,971",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "1,642,971 tCO2e",
+          "page": null,
+          "quote": "1,642,971 (Net GHG emission reductions or removals (tCO2e))",
+          "quote_found": false,
+          "reject": "quote not in document"
+        }
+      ]
+    }
+  },
+  "merged_before": {
+    "baseline": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "169,741.38",
+          "page": 67,
+          "quote": "Total area",
+          "quote_found": true
+        },
+        {
+          "value": "39.90%",
+          "page": 124,
+          "quote": "39.90%",
+          "quote_found": true
+        },
+        {
+          "value": "deforestation due to unplanned agricultural expansion by subsistence farmers",
+          "page": 182,
+          "quote": "For KCRPII, the baseline scenario is mainly deforestation due to unplanned agricultural expansion by subsistence farmers. This is normally preceded by charcoal production and pole harvesting which are the major causes of forest degradation.",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "169,741.38 hectares",
+          "page": null,
+          "quote": "Change in the number of hectares significantly better managed by the Project for biodiversity conservation,9 measured against the without-project scenario",
+          "quote_found": false
+        },
+        {
+          "value": "-0.8230546",
+          "page": null,
+          "quote": "Value applied: -0.8230546",
+          "quote_found": false
+        },
+        {
+          "value": "0.03069047",
+          "page": null,
+          "quote": "Value applied 0.03069047",
+          "quote_found": false
+        },
+        {
+          "value": "1,888,472 tCO2e",
+          "page": null,
+          "quote": "The sum of estimated emissions over selected carbon pools. Value calculated using the procedures described in Section 8 of the VCS methodology VM0009 v1.1.",
+          "quote_found": false
+        },
+        {
+          "value": "2,779,233.06",
+          "page": null,
+          "quote": "Value applied: 2,779,233.06",
+          "quote_found": false
+        },
+        {
+          "value": "above-ground large tree biomass",
+          "page": null,
+          "quote": "The purpose of the carbon-monitoring plan is to measure: • The extent to which forest within the Project Area has been protected from any unplanned GHG emissions during the Project crediting period, and; • Leakage that that can be attributed to the Project.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "Total 169,741.38\n3.2.1.2\nCalculating Baseline Emissions from Soil Carbon\nWildlife Works employs a soil emissions model (SEM) to measure soil carbon: unlike with forest carbon, complete (100%) soil carbon loss does not occur in the baseline scenario. All soil plots were remeasured during the eighth (M8) monitoring period, in accordance with the monitoring plan. Please see Figure 11 for a map of soil sample plot locations. The methodology specifies a decay curve that eventually settles on a mean SOC value for soil carbon lost through clearing of agricultural land. Prior to Project validation, we measured soil carbon in a number of proxy sites immediately adjacent to the Project Area, on farmland with identical soil, rainfall and climate, which in all cases had been forested less than 20 years prior. An identical procedure is used for soil carbon estimation within the Project Area: 1 m pits dug in two lifts, 0-30 cm and 31-100 cm and samples from each layer were thoroughly mixed, bagged and sent to an independent soil testing lab for bulk density and soil organic matter (SOM) analysis. The results of the soil carbon analysis can be found in the file ‘Kasigau Corridor II Soil Calc 2022 v2.1.xlsx’. The results were derived from the following equations:",
+          "quote_found": false
+        },
+        {
+          "value": "1,263,000 t CO2e",
+          "page": null,
+          "quote": "The results of the soil carbon analysis can be found in the file ‘Kasigau Corridor II Soil Calc 2022 v2.1.xlsx’. The results were derived from the following equations:",
+          "quote_found": false
+        },
+        {
+          "value": "1,888,472 tCO2e",
+          "page": null,
+          "quote": "Baseline emissions, M9 = 1,888,472",
+          "quote_found": false
+        },
+        {
+          "value": "1,888,472 tCO2e",
+          "page": null,
+          "quote": "2022: 1,888,472 (Baseline emissions or removals (tCO2e))",
+          "quote_found": false
+        },
+        {
+          "value": "285.51ha",
+          "page": null,
+          "quote": "# hectares deforested, excised or converted into farmland Annually Impact RS/GIS",
+          "quote_found": false
+        }
+      ]
+    },
+    "additionality": "not stated",
+    "leakage": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "above-ground small tree biomass",
+          "page": 119,
+          "quote": "The Carbon Pools that are included in the Kasigau Corridor REDD+ Project Phase II Pool",
+          "quote_found": true
+        },
+        {
+          "value": "0.5046009",
+          "page": 134,
+          "quote": "Leakage was calculated and deducted from gross emission reductions as follows: 𝛿̂𝐿𝐸 (t=0) = 0.5046009",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "0.03069047",
+          "page": null,
+          "quote": "Value applied: 0.03069047",
+          "quote_found": false
+        },
+        {
+          "value": "-0.5046",
+          "page": null,
+          "quote": "Value applied -0.5046",
+          "quote_found": false
+        },
+        {
+          "value": "0 tCO2e",
+          "page": null,
+          "quote": "Leakage is measured according to the procedures detailed in the SOP: ‘Standard Operating Procedure Kasigau - Forest Leakage v1.0_01_01_2011.pdf.’",
+          "quote_found": false
+        },
+        {
+          "value": "0.7504",
+          "page": null,
+          "quote": "Value applied: 0.7504",
+          "quote_found": false
+        },
+        {
+          "value": "0 tCO2e",
+          "page": null,
+          "quote": "Emissions from Leakage, M9 = 0",
+          "quote_found": false
+        },
+        {
+          "value": "0 tCO2e",
+          "page": null,
+          "quote": "0 (Project emissions or removals (tCO2e))",
+          "quote_found": false
+        }
+      ]
+    },
+    "permanence_buffer": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "39.90%",
+          "page": 124,
+          "quote": "39.90%",
+          "quote_found": true
+        },
+        {
+          "value": "245,501 tCO2e",
+          "page": 140,
+          "quote": "Buffer = 245,501 t CO2e",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "245,501 tCO2e",
+          "page": null,
+          "quote": "ERs to Buffer Pool, (13%), M0 = 245,501",
+          "quote_found": false
+        }
+      ]
+    },
+    "crediting_period": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "01 January 2010 – 31 December 2039",
+          "page": 2,
+          "quote": "History of CCB Status",
+          "quote_found": true
+        },
+        {
+          "value": "2010-2039",
+          "page": 19,
+          "quote": "The Project crediting period started on January 1st, 2010 and will end on December 31st, 2039 (30 years).",
+          "quote_found": true
+        },
+        {
+          "value": "M9",
+          "page": 116,
+          "quote": "For this monitoring period (M9), 85 plots were measured across all 13 ranches",
+          "quote_found": true
+        },
+        {
+          "value": "M9",
+          "page": 122,
+          "quote": "M9",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "2022",
+          "page": null,
+          "quote": "The reporting period 2022 for the KCRPII Project Zone.",
+          "quote_found": false
+        }
+      ]
+    },
+    "area": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "169,741.38 hectares",
+          "page": 21,
+          "quote": "These community ranches and conservancies are part of that land that forms a corridor (the Kasigau Wildlife Corridor) between Tsavo East National Park and Tsavo West National Parks to the east of the Marungu range. The Project consists of the following ranches and conservancies: Taita Ranch, Mgeno Ranch, Maungu Ranch, Kasigau Ranch, Wangala Ranch, Kambanga Ranch, Dawida Ranch, Washumbu Ranch, Amaka Ranch, Sagalla Ranch, Ndara Ranch, Choke Ranch, Kutima Ranch, Marungu Hills Conservancy Area, Wildlife Corridor Link.",
+          "quote_found": true
+        },
+        {
+          "value": "5076 ha, 5076 ha, 1,030 ha",
+          "page": 20,
+          "quote": "Choke Ranch, which is 5076 ha known as L.R. 12199/3 and owned by Raymond Joel Mwangola a local shareholder • Kutima Ranch, which is 5076 ha known as L.R. 12199/4 and owned by Kutima Investments Limited, a collection of indigenous local shareholders • Marungu Hills Conservancy Area, a small 1,030 ha, but important community owned strip of land at the ridge of the Marungu Hills that the community wishes to protect.",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 36,
+          "quote": "The Kasigau REDD+ Project Phase II – The Community Ranches Monitoring Report has been posted for public comment on the CCB website (https://registry.verra.org/app/projectDetail/CCB/612) and open to comments for 30 days, during the period March 10th to April 9th, 2023.",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 58,
+          "quote": "Area of Project Area",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 67,
+          "quote": "Total area",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 114,
+          "quote": "The following is an overview of the monitoring plan, a detailed rendition of which can be found in the PD under Section 13.14 Monitoring of Carbon Stocks in the Project Area (the field procedures are detailed in the documents ‘Standard Operating Procedure - Biomass’ and ‘Standard Operating Procedure – Soils’).",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 114,
+          "quote": "Overall, the 9 strata sum to the total Project Area, comprising the Project Area’s overall landcover as shown in Figure 6 below.",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 144,
+          "quote": "The SBIA community workshop participants were also tasked with identifying possible risks to Project success, plus unexpected side effect(s) from the REDD+ Project successfully realizing the desired results (based on the Focal Issues they identified and associated theories of change above). Additionally, they were required to gauge the likelihood and magnitude of these unintentional side effects then propose possible mitigation action.",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 198,
+          "quote": "Figure 36: Monthly distances covered by the two resident gyrocopters traversing the KCRPII during the 2022 reporting period.",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The Project Area contains the Taita Hills, part of the Eastern Afromontane Biodiversity Hotspot, and harbour two Endangered bird species: Taita Apalis (Apalis fuscigularis) (Critically Endangered) and Taita Thrush (Turdus helleri) (Endangered).",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The project boundaries were created in GIS by using the ranch area descriptions and specifications as contained in each deed map, however, this resulted in total areas that were different than as documented in the deeds.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The area contains several endangered species, including Grevy’s Zebra, African Wild Dog, African Elephant, Martial Eagle, Bateleur Secretarybird and several vulture species.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "169,741 hectares",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The Project Area is estimated to be 169,741 hectares.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741.38",
+          "page": null,
+          "quote": "Total 169,741.38\n3.2.1.2\nCalculating Baseline Emissions from Soil Carbon\nWildlife Works employs a soil emissions model (SEM) to measure soil carbon: unlike with forest carbon, complete (100%) soil carbon loss does not occur in the baseline scenario. All soil plots were remeasured during the eighth (M8) monitoring period, in accordance with the monitoring plan. Please see Figure 11 for a map of soil sample plot locations. The methodology specifies a decay curve that eventually settles on a mean SOC value for soil carbon lost through clearing of agricultural land. Prior to Project validation, we measured soil carbon in a number of proxy sites immediately adjacent to the Project Area, on farmland with identical soil, rainfall and climate, which in all cases had been forested less than 20 years prior. An identical procedure is used for soil carbon estimation within the Project Area: 1 m pits dug in two lifts, 0-30 cm and 31-100 cm and samples from each layer were thoroughly mixed, bagged and sent to an independent soil testing lab for bulk density and soil organic matter (SOM) analysis. The results of the soil carbon analysis can be found in the file ‘Kasigau Corridor II Soil Calc 2022 v2.1.xlsx’. The results were derived from the following equations:",
+          "quote_found": false
+        },
+        {
+          "value": "169,011.83 hectares",
+          "page": null,
+          "quote": "Area Soil accounting area (ha) Mean carbon stock (t CO2e / ha) Project Area 169,011.83 495.28 3.02",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "aprt. 169,741.38",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The construction of boreholes, implementation of wildlife deterrents, and patrolling all seek to reduce human/wildlife conflict. Jobs and other income generating activities also likewise seek to increase household income and therefore positively impact all members of the household and community.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The KCRPII Project Zone.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The Project Area also serves as the only secure corridor linking Tsavo East and Tsavo West national parks, enabling safe movement by wildlife away from area farms, infrastructure and communities.",
+          "quote_found": false
+        }
+      ]
+    },
+    "estimated_reductions": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "1,642,971 tCO2e",
+          "page": 10,
+          "quote": "18,163,638 tCO2e",
+          "quote_found": true
+        },
+        {
+          "value": "1,642,971 t CO2e",
+          "page": 18,
+          "quote": "The total GHG emission reductions for this (M9) monitoring period are 1,642,971 t CO2e.",
+          "quote_found": true
+        },
+        {
+          "value": "18,163,638 tCO2e",
+          "page": 26,
+          "quote": "To date the KCRPII project has led to 18,163,638 tCO2e of net estimated emission reductions in the Project Area, measured against the without-project scenario.",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "1,642,971 tCO2e",
+          "page": null,
+          "quote": "Quantified emissions reductions and/or removals. Value calculated using the procedures described in Section 9 of the VCS methodology VM0009 v1.1.",
+          "quote_found": false
+        },
+        {
+          "value": "20,948,108 t CO2e",
+          "page": null,
+          "quote": "20,948,108 t CO2e",
+          "quote_found": false
+        },
+        {
+          "value": "1,642,971 tCO2e",
+          "page": null,
+          "quote": "Total emission reductions (ERs), M9 = 1,642,971",
+          "quote_found": false
+        },
+        {
+          "value": "1,642,971 tCO2e",
+          "page": null,
+          "quote": "1,642,971 (Net GHG emission reductions or removals (tCO2e))",
+          "quote_found": false
+        }
+      ]
+    }
+  }
+}

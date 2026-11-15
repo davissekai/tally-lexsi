@@ -1,0 +1,670 @@
+{
+  "n_pairs": 63,
+  "overall": {
+    "correct": 11,
+    "wrong": 16,
+    "conflict-unresolved": 21,
+    "correctly-abstained": 13,
+    "hallucinated": 2,
+    "accuracy_incl_abstention": 0.381,
+    "stated_n": 48,
+    "stated_correct": 11,
+    "stated_accuracy": 0.2292,
+    "notes": "accuracy_incl_abstention = (correct + correctly-abstained) / 63. stated_accuracy = correct / pairs whose gold is a stated value (excludes NOT_STATED). A merge that left the field as 'conflict' is conflict-unresolved even if gold is among the candidates. A miss (gold stated, extract not stated) is scored wrong. A value asserted when gold is NOT_STATED is hallucinated. Numeric match allows formatting differences (commas, units, 7,372 vs 7372) and 0.51 abs / 0.01% rel tolerance. Dates match on start and end (day-default of 1 allowed); year-year spans such as 2010-2039 match a full 1 January 2010 – 31 December 2039. Additionality matches on the tool/conclusion family (VT0001, Combined tool, financial additionality tool, or the same-paragraph conclusion that the activity is additional / not common practice / not the baseline), not exact wording."
+  },
+  "per_field": {
+    "baseline": {
+      "n": 9,
+      "correct": 1,
+      "wrong": 4,
+      "conflict-unresolved": 1,
+      "correctly-abstained": 3,
+      "hallucinated": 0,
+      "accuracy_incl_abstention": 0.4444,
+      "stated_n": 6,
+      "stated_correct": 1,
+      "stated_accuracy": 0.1667
+    },
+    "additionality": {
+      "n": 9,
+      "correct": 1,
+      "wrong": 3,
+      "conflict-unresolved": 0,
+      "correctly-abstained": 4,
+      "hallucinated": 1,
+      "accuracy_incl_abstention": 0.5556,
+      "stated_n": 4,
+      "stated_correct": 1,
+      "stated_accuracy": 0.25
+    },
+    "leakage": {
+      "n": 9,
+      "correct": 1,
+      "wrong": 2,
+      "conflict-unresolved": 3,
+      "correctly-abstained": 3,
+      "hallucinated": 0,
+      "accuracy_incl_abstention": 0.4444,
+      "stated_n": 6,
+      "stated_correct": 1,
+      "stated_accuracy": 0.1667
+    },
+    "permanence_buffer": {
+      "n": 9,
+      "correct": 3,
+      "wrong": 3,
+      "conflict-unresolved": 1,
+      "correctly-abstained": 2,
+      "hallucinated": 0,
+      "accuracy_incl_abstention": 0.5556,
+      "stated_n": 7,
+      "stated_correct": 3,
+      "stated_accuracy": 0.4286
+    },
+    "crediting_period": {
+      "n": 9,
+      "correct": 1,
+      "wrong": 1,
+      "conflict-unresolved": 5,
+      "correctly-abstained": 1,
+      "hallucinated": 1,
+      "accuracy_incl_abstention": 0.2222,
+      "stated_n": 7,
+      "stated_correct": 1,
+      "stated_accuracy": 0.1429
+    },
+    "area": {
+      "n": 9,
+      "correct": 3,
+      "wrong": 0,
+      "conflict-unresolved": 6,
+      "correctly-abstained": 0,
+      "hallucinated": 0,
+      "accuracy_incl_abstention": 0.3333,
+      "stated_n": 9,
+      "stated_correct": 3,
+      "stated_accuracy": 0.3333
+    },
+    "estimated_reductions": {
+      "n": 9,
+      "correct": 1,
+      "wrong": 3,
+      "conflict-unresolved": 5,
+      "correctly-abstained": 0,
+      "hallucinated": 0,
+      "accuracy_incl_abstention": 0.1111,
+      "stated_n": 9,
+      "stated_correct": 1,
+      "stated_accuracy": 0.1111
+    }
+  },
+  "pairs": [
+    {
+      "doc": "1340_Bale-Mountains_MR_2020-2021",
+      "field": "baseline",
+      "gold_value": "4,138,321 tCO2e",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold not among conflict candidates"
+    },
+    {
+      "doc": "1340_Bale-Mountains_MR_2020-2021",
+      "field": "additionality",
+      "gold_value": "NOT_STATED",
+      "extract_status": "clean",
+      "extract_value": "The project introduced 3280 fuel efficient cookstoves focusing to reduce indoor pollution and reduce firewood collection of 19680 community members.",
+      "category": "hallucinated",
+      "note": "predicted a value but gold is NOT_STATED"
+    },
+    {
+      "doc": "1340_Bale-Mountains_MR_2020-2021",
+      "field": "leakage",
+      "gold_value": "0 tCO2e",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "wrong",
+      "note": "missed a value that is in the document"
+    },
+    {
+      "doc": "1340_Bale-Mountains_MR_2020-2021",
+      "field": "permanence_buffer",
+      "gold_value": "10%",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "1340_Bale-Mountains_MR_2020-2021",
+      "field": "crediting_period",
+      "gold_value": "January 2012 – 31 December 2031",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "1340_Bale-Mountains_MR_2020-2021",
+      "field": "area",
+      "gold_value": "261,053 ha",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "1340_Bale-Mountains_MR_2020-2021",
+      "field": "estimated_reductions",
+      "gold_value": "2,876,709 tCO2e",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold not among conflict candidates"
+    },
+    {
+      "doc": "2410_Miro-Ghana_Verification_2020-2022",
+      "field": "baseline",
+      "gold_value": "0 tCO2e",
+      "extract_status": "clean",
+      "extract_value": "0 tCO2e",
+      "category": "correct",
+      "note": ""
+    },
+    {
+      "doc": "2410_Miro-Ghana_Verification_2020-2022",
+      "field": "additionality",
+      "gold_value": "NOT_STATED",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "correctly-abstained",
+      "note": ""
+    },
+    {
+      "doc": "2410_Miro-Ghana_Verification_2020-2022",
+      "field": "leakage",
+      "gold_value": "0 tCO2e",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold not among conflict candidates"
+    },
+    {
+      "doc": "2410_Miro-Ghana_Verification_2020-2022",
+      "field": "permanence_buffer",
+      "gold_value": "10%",
+      "extract_status": "clean",
+      "extract_value": "10%",
+      "category": "correct",
+      "note": ""
+    },
+    {
+      "doc": "2410_Miro-Ghana_Verification_2020-2022",
+      "field": "crediting_period",
+      "gold_value": "24 March 2016 – 30 June 2045",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "2410_Miro-Ghana_Verification_2020-2022",
+      "field": "area",
+      "gold_value": "3,871 ha",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "2410_Miro-Ghana_Verification_2020-2022",
+      "field": "estimated_reductions",
+      "gold_value": "221,205 tCO2e",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "2929_Bandai-Hills-Ghana_Validation_2024",
+      "field": "baseline",
+      "gold_value": "0 tCO2e",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "wrong",
+      "note": "missed a value that is in the document"
+    },
+    {
+      "doc": "2929_Bandai-Hills-Ghana_Validation_2024",
+      "field": "additionality",
+      "gold_value": "Additional under the CDM Combined tool to identify the baseline scenario and demonstrate additionality in A/R CDM project activities v1",
+      "extract_status": "clean",
+      "extract_value": "The project activity would not be a common practice in the geographical region of the assessment and is not the baseline scenario.",
+      "category": "correct",
+      "note": ""
+    },
+    {
+      "doc": "2929_Bandai-Hills-Ghana_Validation_2024",
+      "field": "leakage",
+      "gold_value": "0 tCO2e",
+      "extract_status": "clean",
+      "extract_value": "0 tCO2e",
+      "category": "correct",
+      "note": ""
+    },
+    {
+      "doc": "2929_Bandai-Hills-Ghana_Validation_2024",
+      "field": "permanence_buffer",
+      "gold_value": "10%",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "wrong",
+      "note": "missed a value that is in the document"
+    },
+    {
+      "doc": "2929_Bandai-Hills-Ghana_Validation_2024",
+      "field": "crediting_period",
+      "gold_value": "1 June 2022 – 31 May 2042",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "2929_Bandai-Hills-Ghana_Validation_2024",
+      "field": "area",
+      "gold_value": "7,372 ha",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "2929_Bandai-Hills-Ghana_Validation_2024",
+      "field": "estimated_reductions",
+      "gold_value": "3,400,660 tCO2e",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold not among conflict candidates"
+    },
+    {
+      "doc": "562_Kasigau-I-Rukinga_PDD_2011-01-31",
+      "field": "baseline",
+      "gold_value": "1,450,329 tCO2e",
+      "extract_status": "clean",
+      "extract_value": "slash and burn agriculture",
+      "category": "wrong",
+      "note": "extracted value does not match gold"
+    },
+    {
+      "doc": "562_Kasigau-I-Rukinga_PDD_2011-01-31",
+      "field": "additionality",
+      "gold_value": "Additional under VT0001 Tool for the Demonstration of Additionality in VCS AFOLU Project Activities",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "wrong",
+      "note": "missed a value that is in the document"
+    },
+    {
+      "doc": "562_Kasigau-I-Rukinga_PDD_2011-01-31",
+      "field": "leakage",
+      "gold_value": "0 tCO2e",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "562_Kasigau-I-Rukinga_PDD_2011-01-31",
+      "field": "permanence_buffer",
+      "gold_value": "20%",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "wrong",
+      "note": "missed a value that is in the document"
+    },
+    {
+      "doc": "562_Kasigau-I-Rukinga_PDD_2011-01-31",
+      "field": "crediting_period",
+      "gold_value": "1 January 2005 – 31 December 2035",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "wrong",
+      "note": "missed a value that is in the document"
+    },
+    {
+      "doc": "562_Kasigau-I-Rukinga_PDD_2011-01-31",
+      "field": "area",
+      "gold_value": "30,168.66 ha",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "562_Kasigau-I-Rukinga_PDD_2011-01-31",
+      "field": "estimated_reductions",
+      "gold_value": "6,034,356 tCO2e",
+      "extract_status": "clean",
+      "extract_value": "1,450,329 tonnes CO2e",
+      "category": "wrong",
+      "note": "extracted value does not match gold"
+    },
+    {
+      "doc": "562_Kasigau-I-Rukinga_PD_short_2011-01-25",
+      "field": "baseline",
+      "gold_value": "NOT_STATED",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "correctly-abstained",
+      "note": ""
+    },
+    {
+      "doc": "562_Kasigau-I-Rukinga_PD_short_2011-01-25",
+      "field": "additionality",
+      "gold_value": "Clearly additional under the project financial additionality tool",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "wrong",
+      "note": "missed a value that is in the document"
+    },
+    {
+      "doc": "562_Kasigau-I-Rukinga_PD_short_2011-01-25",
+      "field": "leakage",
+      "gold_value": "NOT_STATED",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "correctly-abstained",
+      "note": ""
+    },
+    {
+      "doc": "562_Kasigau-I-Rukinga_PD_short_2011-01-25",
+      "field": "permanence_buffer",
+      "gold_value": "NOT_STATED",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "correctly-abstained",
+      "note": ""
+    },
+    {
+      "doc": "562_Kasigau-I-Rukinga_PD_short_2011-01-25",
+      "field": "crediting_period",
+      "gold_value": "1 January 2005 – 31 December 2034",
+      "extract_status": "clean",
+      "extract_value": "2005-01-01 to 2034-12-31",
+      "category": "correct",
+      "note": ""
+    },
+    {
+      "doc": "562_Kasigau-I-Rukinga_PD_short_2011-01-25",
+      "field": "area",
+      "gold_value": "30,168.66 ha",
+      "extract_status": "clean",
+      "extract_value": "30,168.66 ha",
+      "category": "correct",
+      "note": ""
+    },
+    {
+      "doc": "562_Kasigau-I-Rukinga_PD_short_2011-01-25",
+      "field": "estimated_reductions",
+      "gold_value": "7,542,945 tCO2e",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "wrong",
+      "note": "missed a value that is in the document"
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_MR-M9_2022",
+      "field": "baseline",
+      "gold_value": "1,888,472 tCO2e",
+      "extract_status": "clean",
+      "extract_value": "deforestation due to unplanned agricultural expansion by subsistence farmers",
+      "category": "wrong",
+      "note": "extracted value does not match gold"
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_MR-M9_2022",
+      "field": "additionality",
+      "gold_value": "NOT_STATED",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "correctly-abstained",
+      "note": ""
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_MR-M9_2022",
+      "field": "leakage",
+      "gold_value": "0 tCO2e",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "wrong",
+      "note": "missed a value that is in the document"
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_MR-M9_2022",
+      "field": "permanence_buffer",
+      "gold_value": "13%",
+      "extract_status": "clean",
+      "extract_value": "245,501 tCO2e",
+      "category": "wrong",
+      "note": "extracted value does not match gold"
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_MR-M9_2022",
+      "field": "crediting_period",
+      "gold_value": "1 January 2010 – 31 December 2039",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_MR-M9_2022",
+      "field": "area",
+      "gold_value": "169,741 ha",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_MR-M9_2022",
+      "field": "estimated_reductions",
+      "gold_value": "1,642,971 tCO2e",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_PD_excerpt",
+      "field": "baseline",
+      "gold_value": "NOT_STATED",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "correctly-abstained",
+      "note": ""
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_PD_excerpt",
+      "field": "additionality",
+      "gold_value": "NOT_STATED",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "correctly-abstained",
+      "note": ""
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_PD_excerpt",
+      "field": "leakage",
+      "gold_value": "NOT_STATED",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "correctly-abstained",
+      "note": ""
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_PD_excerpt",
+      "field": "permanence_buffer",
+      "gold_value": "NOT_STATED",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "correctly-abstained",
+      "note": ""
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_PD_excerpt",
+      "field": "crediting_period",
+      "gold_value": "NOT_STATED",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "correctly-abstained",
+      "note": ""
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_PD_excerpt",
+      "field": "area",
+      "gold_value": "169,741 ha",
+      "extract_status": "clean",
+      "extract_value": "169,741 hectares",
+      "category": "correct",
+      "note": ""
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_PD_excerpt",
+      "field": "estimated_reductions",
+      "gold_value": "14,883,342 tCO2e",
+      "extract_status": "clean",
+      "extract_value": "14,883,342 tCO2e",
+      "category": "correct",
+      "note": ""
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_Verification_2024",
+      "field": "baseline",
+      "gold_value": "NOT_STATED",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "correctly-abstained",
+      "note": ""
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_Verification_2024",
+      "field": "additionality",
+      "gold_value": "NOT_STATED",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "correctly-abstained",
+      "note": ""
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_Verification_2024",
+      "field": "leakage",
+      "gold_value": "NOT_STATED",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "correctly-abstained",
+      "note": ""
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_Verification_2024",
+      "field": "permanence_buffer",
+      "gold_value": "13%",
+      "extract_status": "clean",
+      "extract_value": "13%",
+      "category": "correct",
+      "note": ""
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_Verification_2024",
+      "field": "crediting_period",
+      "gold_value": "NOT_STATED",
+      "extract_status": "clean",
+      "extract_value": "1 year",
+      "category": "hallucinated",
+      "note": "predicted a value but gold is NOT_STATED"
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_Verification_2024",
+      "field": "area",
+      "gold_value": "169,741 ha",
+      "extract_status": "clean",
+      "extract_value": "169,741 hectares",
+      "category": "correct",
+      "note": ""
+    },
+    {
+      "doc": "612_Kasigau-II-Community-Ranches_Verification_2024",
+      "field": "estimated_reductions",
+      "gold_value": "1,642,971 tCO2e",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "934_Mai-Ndombe_MR-M4_2021",
+      "field": "baseline",
+      "gold_value": "9,188,395 tCO2e",
+      "extract_status": "clean",
+      "extract_value": "3.5 million cubic meters of merchantable hardwood",
+      "category": "wrong",
+      "note": "extracted value does not match gold"
+    },
+    {
+      "doc": "934_Mai-Ndombe_MR-M4_2021",
+      "field": "additionality",
+      "gold_value": "Additionality assessed with VT0001 Tool for the Demonstration and Assessment of Additionality in VCS AFOLU Project Activities, Version 3.0",
+      "extract_status": "not_stated",
+      "extract_value": "not stated",
+      "category": "wrong",
+      "note": "missed a value that is in the document"
+    },
+    {
+      "doc": "934_Mai-Ndombe_MR-M4_2021",
+      "field": "leakage",
+      "gold_value": "34,325 tCO2e",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "934_Mai-Ndombe_MR-M4_2021",
+      "field": "permanence_buffer",
+      "gold_value": "10%",
+      "extract_status": "clean",
+      "extract_value": "10%",
+      "category": "correct",
+      "note": ""
+    },
+    {
+      "doc": "934_Mai-Ndombe_MR-M4_2021",
+      "field": "crediting_period",
+      "gold_value": "14 March 2011 – 13 March 2041",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "934_Mai-Ndombe_MR-M4_2021",
+      "field": "area",
+      "gold_value": "248,956 ha",
+      "extract_status": "conflict",
+      "extract_value": "conflict",
+      "category": "conflict-unresolved",
+      "note": "gold is among conflict candidates"
+    },
+    {
+      "doc": "934_Mai-Ndombe_MR-M4_2021",
+      "field": "estimated_reductions",
+      "gold_value": "2,904,200 tCO2e",
+      "extract_status": "clean",
+      "extract_value": "7,753,754",
+      "category": "wrong",
+      "note": "extracted value does not match gold"
+    }
+  ]
+}

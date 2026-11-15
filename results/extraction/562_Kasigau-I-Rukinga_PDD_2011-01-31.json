@@ -1,0 +1,891 @@
+{
+  "doc": "562_Kasigau-I-Rukinga_PDD_2011-01-31.txt",
+  "n_chunks": 12,
+  "elapsed_s": 289.5,
+  "chunks": [
+    {
+      "baseline": {
+        "value": "30,168.66 ha",
+        "page": 7,
+        "quote": "This Phase I Project Document covers 100% of the land known as Rukinga Sanctuary (see map below) which is all that 74,516 acres (30,168.66 ha) of land originally known as Rukinga Ranch, LR 12263, historically reduced by subdivisions 12263/1 and 12263/2 at dates prior to the start date of this project.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 5,
+        "quote": "The project is not mandated by any enforced law, statute, or other regulatory framework.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 6,
+        "quote": "Wildlife Works (the Project Proponent) has access to the leakage area to sample forest degradation, as evidenced by implementation of the leakage plots used to create the leakage model.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The leasehold on the title will be due for renewal in 2038, and can then be renewed for either 33, 66 or 99 years under Kenyan law, at the leaseholder’s option.",
+        "quote_found": false
+      },
+      "area": {
+        "value": "30,168.66 ha",
+        "page": 7,
+        "quote": "This Phase I Project Document covers 100% of the land known as Rukinga Sanctuary (see map below) which is all that 74,516 acres (30,168.66 ha) of land originally known as Rukinga Ranch, LR 12263, historically reduced by subdivisions 12263/1 and 12263/2 at dates prior to the start date of this project.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 14,
+        "quote": "Section 6.1 Obvious Agents and Drivers of Deforestation",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 14,
+        "quote": "Wildlife Works contends that the reasons for the presence of the agents of deforestation is obvious.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 23,
+        "quote": "Delineation of the Reference Area",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The Reference region for the Kasigau Corridor Phase I project was chosen to specifically address the behavior of the local agents of deforestation as well as the drivers of deforestation for the ecosystem.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "Kasigau Corridor",
+        "page": 23,
+        "quote": "The Reference Region for the Kasigau Corridor Phase I project was chosen to specifically address the behavior of the local agents of deforestation as well as the drivers of deforestation for the ecosystem.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The main agents of deforestation, as described in section 6.2.1 consist of local community members, and the primary driver, as will be tested in section 6.4, the Cumulative Deforestation Model, is population.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The reference region is comprised almost entirely of local inhabitants engaging in subsistence farming practices. In the area that are not zoned for group ranch ownership, local agents practice slash and burn agriculture.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The linear rate is conservative because it predicts less baseline deforestation than the cumulative deforestation model, does not cross the CDM, and is at least 20 years in length.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 44,
+        "quote": "The dominant soil type within the Project Area is Red Laterite typical of this region of Kenya. There are small bands of black cotton soil that occur randomly within the project area but account for a tiny - and we believe insignificant",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "slash and burn agriculture",
+        "page": 48,
+        "quote": "As a result we contend that it is common practice in this region to burn the stumps out, and therefore we select 100% as the Proportion of below ground biomass removed from large trees. Prior to the Project Proponent taking over management of the land in 2005, local people had begun to clear part of the Project area, and have systematically cleared the dryland forest from a majority of the Reference area in order to provide land for annual crops. This is evidently the most likely Baseline scenario, as it had been carried out routinely throughout the Reference region, in clear violation of land laws.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 51,
+        "quote": "The Project proponent’s Rukinga Sanctuary project is the first AFOLU Project Activity of its type in Kenya, and one of the very first in Africa.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "slash and burn agriculture",
+        "page": null,
+        "quote": "by partnering with the communities to create economic alternatives, it is clear the land in the Project area would be cleared aggressively for subsistence agriculture, as that was in fact what was already happening prior to our arrival. Slash and burn agriculture faces no economic barriers, and is therefore once again the most likely Baseline scenario.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Therefore it is additional under the rules of VT0001 Tool for the Demonstration of Additionality in VCS AFOLU Project Activities.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 57,
+        "quote": "The leakage area, depicted in the map in section 10.3.2 below, was selected from forested areas as close as possible to the Project area which are subject to the same agents and drivers of deforestation as the project area, and that exhibit similar geographic characteristics (such as elevation, proximity to villages or towns, forest type etc.).",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The Project area is approximately 169,741 hectares.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "1,450,329 tonnes CO2e",
+        "page": 52,
+        "quote": "The total estimated baseline emissions for the first monitoring period are 1,450,329 tonnes CO2e.",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "1,450,329 tCO2e",
+        "page": null,
+        "quote": "Estimated Baseline Emissions: 1,450,329",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "0 tCO2e",
+        "page": null,
+        "quote": "The estimated emissions from leakage are zero.",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "290,066 tCO2e",
+        "page": null,
+        "quote": "NERs to Buffer Pool (20%): 290,066",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "38,889 hectares",
+        "page": null,
+        "quote": "Total Leakage area (ha): 38,889",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "1,160,263 tCO2e",
+        "page": null,
+        "quote": "Net Total NERs: 1,160,263",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "7,542,945",
+        "page": null,
+        "quote": "An ex-ante estimate of the total gross NERs generated by the project is 7,542,945 tonnes CO2e.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "20",
+        "page": 64,
+        "quote": "Applying this factor to gross NERs yields an estimate of total net NERs over the project lifetime of: Ex Ante NERs = 7,542,945 x 0.20",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "30,169",
+        "page": 65,
+        "quote": "Rukinga Sanctuary is 30,169 hectares of varying density Acacia-Commiphora woodland/forest located in the SE of Kenya.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "122,925.5",
+        "page": null,
+        "quote": "Total Strata Carbon Stock (tCO2e) ag active",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 84,
+        "quote": "The total carbon stocks for trees, shrubs and grass for Rukinga Ranch, above and below ground, is 2,624,569 tonnes CO2e.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Soil Crediting Area (conservatively reduced) 28,776.39 ha",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 84,
+        "quote": "The total carbon stocks for trees, shrubs and grass for Rukinga Ranch, above and below ground, is 2,624,569 tonnes CO2e.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 84,
+        "quote": "The total carbon stocks for trees, shrubs and grass for Rukinga Ranch, above and below ground, is 2,624,569 tonnes CO2e.",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": 84,
+        "quote": "The total carbon stocks for trees, shrubs and grass for Rukinga Ranch, above and below ground, is 2,624,569 tonnes CO2e.",
+        "quote_found": true
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The total soil carbon stock measured in Rukinga Ranch is 11,842,347.78 t CO2e.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": 84,
+        "quote": "The total carbon stocks for trees, shrubs and grass for Rukinga Ranch, above and below ground, is 2,624,569 tonnes CO2e.",
+        "quote_found": true
+      }
+    }
+  ],
+  "merged": {
+    "baseline": {
+      "value": "slash and burn agriculture",
+      "page": 51,
+      "quote": "by partnering with the communities to create economic alternatives, it is clear the land in the Project area would be cleared aggressively for subsistence agriculture, as that was in fact what was already happening prior to our arrival. Slash and burn agriculture faces no economic barriers, and is therefore once again the most likely Baseline scenario.",
+      "quote_found": true,
+      "pages": [
+        51
+      ],
+      "unsupported": [
+        {
+          "value": "30,168.66 ha",
+          "page": 7,
+          "quote": "This Phase I Project Document covers 100% of the land known as Rukinga Sanctuary (see map below) which is all that 74,516 acres (30,168.66 ha) of land originally known as Rukinga Ranch, LR 12263, historically reduced by subdivisions 12263/1 and 12263/2 at dates prior to the start date of this project.",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "slash and burn agriculture",
+          "page": 48,
+          "quote": "As a result we contend that it is common practice in this region to burn the stumps out, and therefore we select 100% as the Proportion of below ground biomass removed from large trees. Prior to the Project Proponent taking over management of the land in 2005, local people had begun to clear part of the Project area, and have systematically cleared the dryland forest from a majority of the Reference area in order to provide land for annual crops. This is evidently the most likely Baseline scenario, as it had been carried out routinely throughout the Reference region, in clear violation of land laws.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "1,450,329 tCO2e",
+          "page": null,
+          "quote": "Estimated Baseline Emissions: 1,450,329",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "7,542,945",
+          "page": 63,
+          "quote": "An ex-ante estimate of the total gross NERs generated by the project is 7,542,945 tonnes CO2e.",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        }
+      ]
+    },
+    "additionality": "not stated",
+    "leakage": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "0 tCO2e",
+          "page": 62,
+          "quote": "The estimated emissions from leakage are zero.",
+          "quote_found": true,
+          "pages": [
+            62
+          ]
+        },
+        {
+          "value": "20",
+          "page": 64,
+          "quote": "Applying this factor to gross NERs yields an estimate of total net NERs over the project lifetime of: Ex Ante NERs = 7,542,945 x 0.20",
+          "quote_found": true,
+          "pages": [
+            64
+          ]
+        }
+      ]
+    },
+    "permanence_buffer": {
+      "value": "not stated",
+      "unsupported": [
+        {
+          "value": "290,066 tCO2e",
+          "page": null,
+          "quote": "NERs to Buffer Pool (20%): 290,066",
+          "quote_found": false,
+          "reject": "quote not in document"
+        }
+      ]
+    },
+    "crediting_period": "not stated",
+    "area": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "30,168.66 ha",
+          "page": 7,
+          "quote": "This Phase I Project Document covers 100% of the land known as Rukinga Sanctuary (see map below) which is all that 74,516 acres (30,168.66 ha) of land originally known as Rukinga Ranch, LR 12263, historically reduced by subdivisions 12263/1 and 12263/2 at dates prior to the start date of this project.",
+          "quote_found": true,
+          "pages": [
+            7
+          ]
+        },
+        {
+          "value": "30,169",
+          "page": 65,
+          "quote": "Rukinga Sanctuary is 30,169 hectares of varying density Acacia-Commiphora woodland/forest located in the SE of Kenya.",
+          "quote_found": true,
+          "pages": [
+            65
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "Kasigau Corridor",
+          "page": 23,
+          "quote": "The Reference Region for the Kasigau Corridor Phase I project was chosen to specifically address the behavior of the local agents of deforestation as well as the drivers of deforestation for the ecosystem.",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The reference region is comprised almost entirely of local inhabitants engaging in subsistence farming practices. In the area that are not zoned for group ranch ownership, local agents practice slash and burn agriculture.",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The Project area is approximately 169,741 hectares.",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "38,889 hectares",
+          "page": null,
+          "quote": "Total Leakage area (ha): 38,889",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "122,925.5",
+          "page": null,
+          "quote": "Total Strata Carbon Stock (tCO2e) ag active",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The total soil carbon stock measured in Rukinga Ranch is 11,842,347.78 t CO2e.",
+          "quote_found": false,
+          "reject": "quote not in document"
+        }
+      ]
+    },
+    "estimated_reductions": {
+      "value": "1,450,329 tonnes CO2e",
+      "page": 52,
+      "quote": "The total estimated baseline emissions for the first monitoring period are 1,450,329 tonnes CO2e.",
+      "quote_found": true,
+      "pages": [
+        52
+      ],
+      "unsupported": [
+        {
+          "value": "1,160,263 tCO2e",
+          "page": null,
+          "quote": "Net Total NERs: 1,160,263",
+          "quote_found": false,
+          "reject": "quote not in document"
+        }
+      ]
+    }
+  },
+  "merged_before": {
+    "baseline": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "30,168.66 ha",
+          "page": 7,
+          "quote": "This Phase I Project Document covers 100% of the land known as Rukinga Sanctuary (see map below) which is all that 74,516 acres (30,168.66 ha) of land originally known as Rukinga Ranch, LR 12263, historically reduced by subdivisions 12263/1 and 12263/2 at dates prior to the start date of this project.",
+          "quote_found": true
+        },
+        {
+          "value": "slash and burn agriculture",
+          "page": 48,
+          "quote": "As a result we contend that it is common practice in this region to burn the stumps out, and therefore we select 100% as the Proportion of below ground biomass removed from large trees. Prior to the Project Proponent taking over management of the land in 2005, local people had begun to clear part of the Project area, and have systematically cleared the dryland forest from a majority of the Reference area in order to provide land for annual crops. This is evidently the most likely Baseline scenario, as it had been carried out routinely throughout the Reference region, in clear violation of land laws.",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "slash and burn agriculture",
+          "page": null,
+          "quote": "by partnering with the communities to create economic alternatives, it is clear the land in the Project area would be cleared aggressively for subsistence agriculture, as that was in fact what was already happening prior to our arrival. Slash and burn agriculture faces no economic barriers, and is therefore once again the most likely Baseline scenario.",
+          "quote_found": false
+        },
+        {
+          "value": "1,450,329 tCO2e",
+          "page": null,
+          "quote": "Estimated Baseline Emissions: 1,450,329",
+          "quote_found": false
+        },
+        {
+          "value": "7,542,945",
+          "page": null,
+          "quote": "An ex-ante estimate of the total gross NERs generated by the project is 7,542,945 tonnes CO2e.",
+          "quote_found": false
+        }
+      ]
+    },
+    "additionality": "not stated",
+    "leakage": {
+      "value": "20",
+      "page": 64,
+      "quote": "Applying this factor to gross NERs yields an estimate of total net NERs over the project lifetime of: Ex Ante NERs = 7,542,945 x 0.20",
+      "quote_found": true,
+      "pages": [
+        64
+      ],
+      "unsupported": [
+        {
+          "value": "0 tCO2e",
+          "page": null,
+          "quote": "The estimated emissions from leakage are zero.",
+          "quote_found": false
+        }
+      ]
+    },
+    "permanence_buffer": {
+      "value": "not stated",
+      "unsupported": [
+        {
+          "value": "290,066 tCO2e",
+          "page": null,
+          "quote": "NERs to Buffer Pool (20%): 290,066",
+          "quote_found": false
+        }
+      ]
+    },
+    "crediting_period": "not stated",
+    "area": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "30,168.66 ha",
+          "page": 7,
+          "quote": "This Phase I Project Document covers 100% of the land known as Rukinga Sanctuary (see map below) which is all that 74,516 acres (30,168.66 ha) of land originally known as Rukinga Ranch, LR 12263, historically reduced by subdivisions 12263/1 and 12263/2 at dates prior to the start date of this project.",
+          "quote_found": true
+        },
+        {
+          "value": "Kasigau Corridor",
+          "page": 23,
+          "quote": "The Reference Region for the Kasigau Corridor Phase I project was chosen to specifically address the behavior of the local agents of deforestation as well as the drivers of deforestation for the ecosystem.",
+          "quote_found": true
+        },
+        {
+          "value": "30,169",
+          "page": 65,
+          "quote": "Rukinga Sanctuary is 30,169 hectares of varying density Acacia-Commiphora woodland/forest located in the SE of Kenya.",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The reference region is comprised almost entirely of local inhabitants engaging in subsistence farming practices. In the area that are not zoned for group ranch ownership, local agents practice slash and burn agriculture.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The Project area is approximately 169,741 hectares.",
+          "quote_found": false
+        },
+        {
+          "value": "38,889 hectares",
+          "page": null,
+          "quote": "Total Leakage area (ha): 38,889",
+          "quote_found": false
+        },
+        {
+          "value": "122,925.5",
+          "page": null,
+          "quote": "Total Strata Carbon Stock (tCO2e) ag active",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The total soil carbon stock measured in Rukinga Ranch is 11,842,347.78 t CO2e.",
+          "quote_found": false
+        }
+      ]
+    },
+    "estimated_reductions": {
+      "value": "1,450,329 tonnes CO2e",
+      "page": 52,
+      "quote": "The total estimated baseline emissions for the first monitoring period are 1,450,329 tonnes CO2e.",
+      "quote_found": true,
+      "pages": [
+        52
+      ],
+      "unsupported": [
+        {
+          "value": "1,160,263 tCO2e",
+          "page": null,
+          "quote": "Net Total NERs: 1,160,263",
+          "quote_found": false
+        }
+      ]
+    }
+  }
+}

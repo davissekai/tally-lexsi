@@ -1,5 +1,5 @@
 {
-  "description": "Tally held-out benchmark: aggregate scores only. 3 unseen Verra project descriptions (126 chunks, 21 field-pairs, 20 with a stated gold value). Gold values and per-pair model outputs are withheld so the test set stays clean.",
+  "description": "Tally held-out benchmark: aggregate scores only. 3 unseen Verra project descriptions (126 chunks, 21 field-pairs, 20 with a stated gold value). Gold values and per-pair model outputs are kept private so the test set stays clean.",
   "scorer": "scorer/score_extractions.py (rule-based, no LLM judge)",
   "heldout": {
     "tiny-aya-global (base, fp16)": {

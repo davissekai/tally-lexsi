@@ -2,3 +2,58 @@ __pycache__/
 *.pyc
 *.tally.json
 .env
+
+# Secrets and credentials — never commit these
+.env.*
+!.env.example
+*.pem
+kaggle.json
+hf_token.txt
+.hf_token
+**/secrets/**
+**/*credentials*
+# Project documents and extracted full text (copyright, size)
+*.pdf
+data/pdfs/
+data/**/text/
+data/**/pdfs/
+**/*.txt.part
+# Model weights, tokenizers, and training artefacts
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+**/checkpoints/
+**/tally-lora/
+**/finetune_runs/
+**/hf_cache/
+**/.cache/
+# Large generated corpora and Opus batch prompts
+*.zip
+chunks_*.json
+chunks_*.jsonl
+backlog_*.jsonl
+batch_*.txt
+data/opus/replies/
+data/opus/batches/
+# Held-out gold answers (evaluation leak)
+data/**/answer_key_heldout*
+**/heldout/answer_key*
+**/heldout/text/
+**/heldout/pdfs/
+**/heldout/AMBIGUOUS.md
+# Python / notebooks / OS
+.venv/
+.venv-*/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.egg-info/
+dist/
+build/
+# Local notebook runs
+tally_runs/
+sft_out/

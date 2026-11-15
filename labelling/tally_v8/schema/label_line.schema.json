@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Tally v8 label line (one per chunk). tools/validate_v8.py is the authority; this schema documents the shape.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["chunk_id", "fields", "conflicts"],
+  "properties": {
+    "chunk_id": {"type": "string", "pattern": "^[^:]+::v8-[0-9]{4}$"},
+    "fields": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["baseline", "additionality", "leakage", "permanence_buffer", "crediting_period", "area", "estimated_reductions", "area_incl_leakage_belt", "estimated_reductions_pre_buffer"],
+      "properties": {
+        "baseline": {"$ref": "#/$defs/f", "x-units": ["tCO2e", "tCO2e/yr", "ha/yr", "%/yr"]},
+        "additionality": {"$ref": "#/$defs/f", "x-units": [null]},
+        "leakage": {"$ref": "#/$defs/f", "x-units": ["tCO2e"]},
+        "permanence_buffer": {"$ref": "#/$defs/f", "x-units": ["%"]},
+        "crediting_period": {"$ref": "#/$defs/f", "x-units": ["dates"]},
+        "area": {"$ref": "#/$defs/f", "x-units": ["ha"]},
+        "estimated_reductions": {"$ref": "#/$defs/f", "x-units": ["tCO2e", "tCO2e/yr"]},
+        "area_incl_leakage_belt": {"$ref": "#/$defs/f", "x-units": ["ha"]},
+        "estimated_reductions_pre_buffer": {"$ref": "#/$defs/f", "x-units": ["tCO2e", "tCO2e/yr"]}
+      }
+    },
+    "conflicts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["field", "value", "quote", "unit", "code"],
+        "properties": {
+          "field": {"enum": ["baseline", "additionality", "leakage", "permanence_buffer", "crediting_period", "area", "estimated_reductions", "area_incl_leakage_belt", "estimated_reductions_pre_buffer"]},
+          "value": {"type": "string", "minLength": 1},
+          "quote": {"type": "string", "minLength": 1},
+          "unit": {"type": ["string", "null"]},
+          "code": {"enum": ["R_SUPERSEDED", "R_ANNUAL_OR_AVERAGE", "R_PASSING_MENTION", "R_OTHER_PERIOD", "R_GROSS_NOT_NET", "R_PRE_BUFFER", "R_RISK_SCORE", "R_LEAKAGE_PERCENT", "R_LEAKAGE_BELT_AREA", "R_REFERENCE_REGION_AREA", "R_AREA_INCL_BELT", "R_MONITORING_PERIOD", "R_HISTORICAL_PERIOD", "R_DIFFERENT_SCOPE", "R_DUPLICATE_LOWER_PRIORITY"]}
+        }
+      }
+    }
+  },
+  "$defs": {
+    "f": {
+      "oneOf": [
+        {"const": "not_stated"},
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["value", "quote", "unit"],
+          "properties": {
+            "value": {"type": "string", "minLength": 1},
+            "quote": {"type": "string", "minLength": 1},
+            "unit": {"type": ["string", "null"]}
+          }
+        }
+      ]
+    }
+  }
+}

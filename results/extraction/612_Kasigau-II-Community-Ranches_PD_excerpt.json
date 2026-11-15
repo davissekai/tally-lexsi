@@ -1,0 +1,101 @@
+{
+  "doc": "612_Kasigau-II-Community-Ranches_PD_excerpt.txt",
+  "n_chunks": 1,
+  "elapsed_s": 26.8,
+  "chunks": [
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 4,
+        "quote": "The Project’s climate benefits include the avoided emission of 14,883,342 tCO2e during this first monitoring period.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "New and sustainable livelihood opportunities, such as direct employment, alternative income-generating activities (IGAs) and initiatives to stimulate investment in businesses will be designed to reduce pressure on the environment while significantly increasing community well-being.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 2,
+        "quote": "The 13 blocks of land covered under this Phase II of the Kasigau Corridor REDD Project total 169,741 hectares and are;",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "14,883,342 tCO2e",
+        "page": 4,
+        "quote": "The Project’s climate benefits include the avoided emission of 14,883,342 tCO2e during this first monitoring period.",
+        "quote_found": true
+      }
+    }
+  ],
+  "merged": {
+    "baseline": "not stated",
+    "additionality": "not stated",
+    "leakage": "not stated",
+    "permanence_buffer": "not stated",
+    "crediting_period": "not stated",
+    "area": {
+      "value": "169,741 hectares",
+      "page": 2,
+      "quote": "The 13 blocks of land covered under this Phase II of the Kasigau Corridor REDD Project total 169,741 hectares and are;",
+      "quote_found": true,
+      "pages": [
+        2
+      ]
+    },
+    "estimated_reductions": {
+      "value": "14,883,342 tCO2e",
+      "page": 4,
+      "quote": "The Project’s climate benefits include the avoided emission of 14,883,342 tCO2e during this first monitoring period.",
+      "quote_found": true,
+      "pages": [
+        4
+      ]
+    }
+  },
+  "merged_before": {
+    "baseline": "not stated",
+    "additionality": "not stated",
+    "leakage": "not stated",
+    "permanence_buffer": "not stated",
+    "crediting_period": "not stated",
+    "area": {
+      "value": "169,741 hectares",
+      "page": 2,
+      "quote": "The 13 blocks of land covered under this Phase II of the Kasigau Corridor REDD Project total 169,741 hectares and are;",
+      "quote_found": true,
+      "pages": [
+        2
+      ]
+    },
+    "estimated_reductions": {
+      "value": "14,883,342 tCO2e",
+      "page": 4,
+      "quote": "The Project’s climate benefits include the avoided emission of 14,883,342 tCO2e during this first monitoring period.",
+      "quote_found": true,
+      "pages": [
+        4
+      ]
+    }
+  }
+}

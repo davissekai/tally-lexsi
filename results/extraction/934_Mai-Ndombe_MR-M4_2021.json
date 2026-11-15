@@ -1,0 +1,2232 @@
+{
+  "doc": "934_Mai-Ndombe_MR-M4_2021.txt",
+  "n_chunks": 30,
+  "elapsed_s": 772.2,
+  "chunks": [
+    {
+      "baseline": {
+        "value": "3.5 million cubic meters of merchantable hardwood",
+        "page": 7,
+        "quote": "The conservation concession now contains over 3.5 million cubic meters of merchantable hardwood, highly valued by logging companies.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "14 March 2011 – 13 March 2041",
+        "page": 2,
+        "quote": "30-year crediting period",
+        "quote_found": true
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 7,
+        "quote": "The conservation concession now contains over 3.5 million cubic meters of merchantable hardwood, highly valued by logging companies.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "7,753,754 tCO2e",
+        "page": 7,
+        "quote": "This emission reduction was achieved by stopping the planned legal logging in the Project Area, and additionally, the illegal logging and deforestation through slash and burn agricultural that typically follows logging.",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "7,753,754",
+        "page": null,
+        "quote": "Net estimated emission reductions in the project area, measured against the without-project scenario",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "14 March 2011 – 13 March 2041",
+        "page": 14,
+        "quote": "The Project crediting period is 14 March 2011 – 13 March 2041. The crediting period is 30 years in length.",
+        "quote_found": true
+      },
+      "area": {
+        "value": "299,645",
+        "page": 14,
+        "quote": "The conservation concession covers 299,645 hectares (ha) of terra firma forest (upland non-inundated forests), swamp forest (inundated and seasonally inundated forests), savanna, and inundated grassland",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "7,753,754",
+        "page": 13,
+        "quote": "The MNRP reduced 7,753,754 tonnes of CO2e throughout the PAA during M4.",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "299,645 hectares",
+        "page": 14,
+        "quote": "The conservation concession covers 299,645 hectares (ha) of terra firma forest (upland non-inundated forests), swamp forest (inundated and seasonally inundated forests), savanna, and inundated grassland (see section G1.2 of the MNRP VCS PD for further definition of these land cover types).",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The Project utilized the VCS 'Tool for the Demonstration and Assessment of Additionality in VCS Agriculture, Forestry and Other Land Use (AFOLU) Project Activities,' VT0001 Version 3.0.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The VCS 'AFOLU Non-Permanence Risk Tool,' V4.0 was used to determine the Project’s non-permanence risk and Project buffer withholding rate.",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "299,645 hectares",
+        "page": 14,
+        "quote": "The conservation concession covers 299,645 hectares (ha) of terra firma forest (upland non-inundated forests), swamp forest (inundated and seasonally inundated forests), savanna, and inundated grassland.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 22,
+        "quote": "The health situation is still extremely poor during this monitoring period. The mortality for children under-five years old is in the range of 220 per 1,000 or greater, which is one of the highest in the world.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 23,
+        "quote": "The project has been helping in providing these family planning tools to community members during this fourth monitoring period.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 27,
+        "quote": "The deviation relates only to Section 9 of the methodology, 'MONITORING' and therefore does not affect any other part of the methodology.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 23,
+        "quote": "More than 28 villages are located within the project area and some 100,000 people live on the shores of the lake Mai Ndombe.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "During M4, 55 of the 163 biomass plots were remeasured (33.7%). However, some existing plots have not been remeasured within the 5-year threshold, which represents a deviation from the monitoring criteria in Section 9.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "During M4, Verra requested that the project investigate deforestation and the potential for project leakage in areas that are within the Project Area but were removed from the Project Accounting Area at Project Start for use as community areas in accordance with the Cahier de Charge agreement.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "During M4, Verra requested that the project investigate deforestation and the potential for project leakage in areas that are within the Project Area but were removed from the Project Accounting Area at Project Start for use as community areas in accordance with the Cahier de Charge agreement.",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 27,
+        "quote": "The deviation relates only to Section 9 of the methodology, ‘MONITORING’ and therefore does not affect any other part of the methodology.",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "During M4, Verra requested that the project investigate deforestation and the potential for project leakage in areas that are within the Project Area but were removed from the Project Accounting Area at Project Start for use as community areas in accordance with the Cahier de Charge agreement.",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 31,
+        "quote": "The project has been monitoring any illegal activity in the project area since the project start date. Five attempts for illegal timber logging have been detected in villags within the project area: Kesenge, Bosongo, Nkondi, Mpata Mbalu and Mpi.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "During M4, Verra requested that the project investigate deforestation and the potential for project leakage in areas that are within the Project Area but were removed from the Project Accounting Area at Project Start for use as community areas in accordance with the Cahier de Charge agreement.",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "does not manage these areas and is not responsible for permitting for forest activities within these areas or within the project accounting area.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "We ensure community members are cognizant of the benefits that the REDD+ project brings to their communities and that continued deforestation within the PAA will reduce project crediting, and in turn community revenue share.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 31,
+        "quote": "It is difficult to fully address such a stochastic and unusual event in a very efficient way.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 33,
+        "quote": "Empowerment and the building of capacity for local communities is the best guarantee of activity / benefit permanence beyond the project lifetime.",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "This process is a permanent one and last throughout the project lifetime.",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 31,
+        "quote": "The project area consists mostly of dense humid and semi-deciduous heterogeneous forests with a very low percentage of resinous trees.",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": 32,
+        "quote": "The MNRP forest is home to endangered pygmy chimpanzee (bonobo); (Pan paniscus). While previous biodiversity assessments reported bonobos’ presence mostly distributed far from villages and away from the lake shores, recent data during M4 has revealed that they are approaching villages, mostly likely due to reduced pressure and disturbance.",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The MNRP is committed to hiring employees based on the principle of equal opportunity regardless of gender, race or religious belief.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "According to Social Chapter of the conservation concession contract known in French as ‘Cahier de Charge’, for candidates with equal qualification, experience and test scores, preference has to be given to local candidates.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 40,
+        "quote": "This has been a substantial contribution for the wellbeing of these communities in addition to the ongoing activities.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The MNRP has created a comprehensive Health and Safety Plan that ensures that all workers’ health and safety is protected to the extent possible, and that all workers are fully informed about workplace risks and safe practices to mitigate those risks.",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The project has also hired 40 local animateurs.",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The land in the Project Area is owned by the Government of the DRC.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": 40,
+        "quote": "This has been a substantial contribution for the wellbeing of these communities in addition to the ongoing activities.",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "248,956",
+        "page": null,
+        "quote": "The area of Project Accounting Area",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 50,
+        "quote": "Parameter not used, no activity-shifting leakage in project",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "248,956",
+        "page": null,
+        "quote": "The area of Project Accounting Area",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "1,288,795.4",
+        "page": 50,
+        "quote": "This parameter was measured in accordance of the VCS standard and AFOLU guidance, using the procedures outlined in the VCS methodology VM0009 and the MNRP’s standard operating procedures \"Standard Operating Procedure Lac Mai Ndombe - Forest Inventory\". Wildlife Works was responsible for the measurement. All measurements were made between 2011 and 2021.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 52,
+        "quote": "Parameter not used, No market leakage from the Project",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 52,
+        "quote": "Parameter not used, No market leakage from the Project",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 50,
+        "quote": "Parameter not used",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "10,957 days",
+        "page": 50,
+        "quote": "This parameter was measured in accordance of the VCS standard and AFOLU guidance, using the procedures outlined in the VCS methodology VM0009 and the MNRP’s standard operating procedures \"Standard Operating Procedure Lac Mai Ndombe - Forest Inventory\". Wildlife Works was responsible for the measurement. All measurements were made between 2011 and 2021.",
+        "quote_found": true
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 50,
+        "quote": "Area of activity-shifting leakage area",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": 50,
+        "quote": "Parameter not used",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "55,244.75",
+        "page": null,
+        "quote": "Value applied: 55,244.75 Monitoring equipment: Computer with ArcGIS software QA/QC procedures to be applied: QAQC procedures are in line with the requirements of VM0009 v2 and the VCS standard. This includes a review of the GIS products and visual assessments of the accuracy of the shapefiles.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 57,
+        "quote": "Parameter not used",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 57,
+        "quote": "Parameter not used",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 57,
+        "quote": "Parameter not used",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": 57,
+        "quote": "Parameter not used",
+        "quote_found": true
+      },
+      "area": {
+        "value": "55,244.75",
+        "page": null,
+        "quote": "Description: Area of Forest Project Accounting Area stratum 1 prior to first verification event – Semi-deciduous forest, Logged FORESCOM Source of data: GIS analysis prior to sampling Description of measurement methods and procedures to be applied: This parameter was measured in accordance of the VCS standard and AFOLU guidance, using the procedures outlined in the VCS methodology VM0009 section 6.2. Wildlife Works was responsible for the measurement. All measurements were made between 2011 and 2021. Accuracy level achieved is good, and is associated with the limits of ArcGIS software and quality of the shapefiles.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "-8,910,546",
+        "page": null,
+        "quote": "Value applied: -8,910,546 Monitoring equipment: Equipment list in Annex 20 QA/QC procedures to be applied: QAQC procedures are in line with the requirements of VM0009 v2 section B.4 and are outlined in the document, \"Annex 14-Quality Control Procedure v1.6\" This includes a review of monitoring records for errors and 5% of plots being remeasured and compared to initial sample with a t-test.",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "-345,761",
+        "page": null,
+        "quote": "Data unit: tCO2e Description: Carbon not decayed in DW at the end of the current monitoring period Source of data: Proxy area sampling Description of measurement methods and procedures to be applied: This parameter was measured in accordance of the VCS standard and AFOLU guidance, using the procedures outlined in the VCS Methodology VM0009 V2.0 Section 8.1.6. Wildlife Works was responsible for the measurement. All measurements were made between 2011 and 2021.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "266,145,566.3",
+        "page": null,
+        "quote": "Data Unit / Parameter: 𝒄𝑷 𝒃𝒎[𝒎] Data unit: tCO2e/ha Description: Average carbon in biomass in the Project Accounting Area Source of data: Project Accounting Area sampling Description of measurement methods and procedures to be applied: This parameter was measured in accordance of the VCS standard and AFOLU guidance, using the procedures outlined in the VCS Methodology VM0009 V2.0 Appendix B.2 and MNRP’s standard operating procedures \"Standard Operating Procedure Lac Mai Ndombe - Forest Inventory\". Wildlife Works was responsible for the measurement. All measurements were made between 2011 and 2021. Accuracy level achieved is good, and is associated with the quality of the field measurements and calculations.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "9,188,395",
+        "page": null,
+        "quote": "Value applied: 9,188,395",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "67,129,083 tCO2e",
+        "page": null,
+        "quote": "Data Unit / Parameter: 𝑬𝑩 𝑫𝑾[𝒎] Data unit: tCO2e Description: Cumulative baseline emissions from dead wood at the end of the current monitoring period Source of data: Measurements in the proxy area",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "1,061,210",
+        "page": null,
+        "quote": "Value applied: 1,061,210",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 94,
+        "quote": "Parameter not used",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "216,792",
+        "page": null,
+        "quote": "Value applied: 216,792",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "3,985,357",
+        "page": null,
+        "quote": "Value applied: 3,985,357",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "2011-2021",
+        "page": null,
+        "quote": "All measurements were made between 2011 and 2021.",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741",
+        "page": null,
+        "quote": "Description: Cumulative baseline emissions from dead wood at the end of the current monitoring period",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": 94,
+        "quote": "Parameter not used",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "3,581 days",
+        "page": null,
+        "quote": "Value applied: 3,581 days",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "0",
+        "page": null,
+        "quote": "Value applied: 0",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "Data unit: tCO2e Description: Cumulative project emissions due to burning at the end of the current monitoring period",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "MRR.11 Calculations of baseline emissions 𝑬𝐁𝚫[𝒎−𝟏]from prior monitoring periods.",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "3,524,543 tCO2e",
+        "page": null,
+        "quote": "𝐸BΔ[𝑀4] = 56,967,209 −47,656,179 = 9,311,030𝑡𝐶𝑂2𝑒",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "248,956 hectares",
+        "page": null,
+        "quote": "𝐴𝑃𝐴𝐴(𝑐𝑃−𝑐𝐵) = 248,956 ha",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "39,849 tCO2e",
+        "page": null,
+        "quote": "216,792 - 176,943 = 39,849 tCO2e",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "248,956 ha",
+        "page": 111,
+        "quote": "accounting area; 248,956 ha",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "56,851,199 tCO2e",
+        "page": null,
+        "quote": "𝐸𝐵 𝐵𝑀 𝐵𝑀",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "169,741 hectares",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "10,911,915 tCO2e",
+        "page": null,
+        "quote": "Determining Carbon Stored in Long Lived Wood Products MRR.36 Carbon stored in long-lived wood products 𝑪𝑩 𝑾𝑷 [𝒎] after 100 years. Please refer to Annex 17 – MNRP NER Worksheet",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 124,
+        "quote": "Please refer to the VCS PD for more information.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 124,
+        "quote": "Please refer to the VCS PD for more information.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": 124,
+        "quote": "Please refer to the VCS PD for more information.",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "2021",
+        "page": 119,
+        "quote": "For this 4th monitoring period, which extends from 1 January 2021 to 31 December 2021, we measured 55 plots, representing 33.7% of the 163 plots.",
+        "quote_found": true
+      },
+      "area": {
+        "value": "248,956.43 hectares",
+        "page": 121,
+        "quote": "Table 3.8: Summary of current soil carbon stocks within the Project Accounting Area (PAA) PAA Soil accounting area (ha) Mean carbon stock (t CO2e / ha) Standard error (t CO2e / ha) Accounting Area 248,956.43 61.0 N/A",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": 124,
+        "quote": "Please refer to the VCS PD for more information.",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "8,615,284 tCO2e",
+        "page": 129,
+        "quote": "Table 3.11 represents net emission reductions calculated using the current VCS-approved standalone project baseline, which the project must use until the end of the current baseline validity period.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "Market leakage is not applicable to this project when the primary agent is known and there is no possibility for that agent to be awarded a further/replacement concession within the national boundary.",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "34,325 tCO2e",
+        "page": 125,
+        "quote": "For 2021 it was determined that there were emissions from activity-shifting leakage of 34,325 t CO2e.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "10%",
+        "page": 128,
+        "quote": "The buffer account allocation for the MNRP is calculated according to the requirements stated in the VCS Standard Version 4.4, VCS Registration and Issuance Process Version 3.4, and the VCS Non-Permanence Risk Tool Version 4.0.",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "2021",
+        "page": null,
+        "quote": "Leakage was then considered to be any emissions from deforestation within the area of interest above the leakage reference emission level.",
+        "quote_found": false
+      },
+      "area": {
+        "value": "248,956 hectares",
+        "page": 127,
+        "quote": "The calculated standard errors used for the determination of the confidence deduction were: • Uncertainty in carbon stock estimates in the project accounting area, (𝑼𝑷[𝑚4]): 36.73 tCO2e • Uncertainty in carbon stock estimates in the proxy area, (𝑼𝑩[𝑚4]): 15.62 tCO2e • Uncertainty in the baseline emissions model (BEM), (𝑼𝑬𝑴[𝑚4]): 0.009 tCO2e",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "7,753,754 tCO2e",
+        "page": 129,
+        "quote": "Table 3.11 represents net emission reductions calculated using the current VCS-approved standalone project baseline, which the project must use until the end of the current baseline validity period.",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "3,800,000",
+        "page": 130,
+        "quote": "Total",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "538,787",
+        "page": 130,
+        "quote": "538,787",
+        "quote_found": true
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741",
+        "page": null,
+        "quote": "169,741",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "3,226,889",
+        "page": 130,
+        "quote": "3,226,889",
+        "quote_found": true
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 137,
+        "quote": "Please see the CCB PD section 2.2 for a detailed description of the Project’s plan to mitigate negative impacts on stakeholders.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": 137,
+        "quote": "The prospects for these communities in the without project scenario was evident from the condition they were in as of the project start date as further elaborated during the SBIA workshops. According to the community, most of these key social issues would deteriorate in the absence of the REDD+ project, with a few remaining unchanged. This was mostly attributed to minimal external or State investment initiatives in the area, poor or little oversight and law enforcement, lack of alternative sources of income for the communities, and lack of awareness or community sensitization, education and training opportunities.",
+        "quote_found": true
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": 137,
+        "quote": "Please see the CCB PD section 2.2 for a detailed description of the Project’s plan to mitigate negative impacts on stakeholders. The two potential offsite stakeholder impacts, namely reduction in volume of resources that are extracted from the project area and increased competition related to an increase in the quality and/or quantity of agricultural products exported from the project area are only anticipated to occur minimally, if at all. Most of the previously harvested wood was not processed anywhere in the DRC but were exported out of the country, while the supply of bush meat in the baseline scenario was non-sustainable and in severe decline due to overhunting and habitat loss, whereas project agricultural-related activities intend to improve options for protein sources. Nonetheless, our continuous monitoring activities will incorporate measures to address any potential negative offsite impacts should they become apparent.",
+        "quote_found": true
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "The Mai Ndombe REDD+ project expects that outcomes and short-term impacts resulting from these outputs will include increased local knowledge and skills with respect to participatory, democratic decision making and management-oriented processes related to community development. Ultimately, the long-term result will be improved community well-being.",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "4,202,225 tCO2e",
+        "page": null,
+        "quote": "SIA#3: # Net tons CO2e emissions avoided 4,202,225 tCO2e",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 154,
+        "quote": "Deforestation from the previously planned conversion of the MNRP into a logging concession, plus the ensuing forest degradation from slash-and-burn agriculture and population growth from immigration due to the infrastructural development are the major likely activities to happen, all which would affect biodiversity negatively.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "The MNRP Biodiversity Team used desk (secondary) research and used biodiversity-related inputs derived from the community Social Impact Assessment workshops to identify the following priority issues for biodiversity in the project area:",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "complete deforestation of the project area and conversion to agriculture",
+        "page": 156,
+        "quote": "During this monitoring period, there was a significantly lower level of deforestation, and thus habitat loss, within the PAA in comparison to other areas within the Project Zone. This is also seen when comparing the current situation in the PAA with the project baseline, the without-project scenario, which is complete deforestation of the project area and conversion to agriculture. Please refer to Section 3.2 for demonstration of the Project’s monitored avoided emissions, and therefore avoided deforestation, for this monitoring period.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    },
+    {
+      "baseline": {
+        "value": "not stated",
+        "page": 170,
+        "quote": "Please refer to Annex 9 - Standard Operating Procedure - Measuring Trees for Biomass Estimation in the Field MRR.105 Justification that the field protocol for the destructive measurement method conservatively estimates biomass. Please refer to Annex 9 - Standard Operating Procedure - Measuring Trees for Biomass Estimation in the Field.",
+        "quote_found": true
+      },
+      "additionality": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "leakage": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "permanence_buffer": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "crediting_period": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      },
+      "area": {
+        "value": "169,741 hectares",
+        "page": 171,
+        "quote": "APPENDIX A: PROJECT AREA AND PROJECT ACCOUNTING AREA",
+        "quote_found": true
+      },
+      "estimated_reductions": {
+        "value": "not stated",
+        "page": null,
+        "quote": "not stated",
+        "quote_found": false
+      }
+    }
+  ],
+  "merged": {
+    "baseline": {
+      "value": "3.5 million cubic meters of merchantable hardwood",
+      "page": 7,
+      "quote": "The conservation concession now contains over 3.5 million cubic meters of merchantable hardwood, highly valued by logging companies.",
+      "quote_found": true,
+      "pages": [
+        7
+      ],
+      "unsupported": [
+        {
+          "value": "7,753,754",
+          "page": 9,
+          "quote": "Net estimated emission reductions in the project area, measured against the without-project scenario",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "299,645 hectares",
+          "page": 14,
+          "quote": "The conservation concession covers 299,645 hectares (ha) of terra firma forest (upland non-inundated forests), swamp forest (inundated and seasonally inundated forests), savanna, and inundated grassland (see section G1.2 of the MNRP VCS PD for further definition of these land cover types).",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "248,956",
+          "page": null,
+          "quote": "The area of Project Accounting Area",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "1,288,795.4",
+          "page": 50,
+          "quote": "This parameter was measured in accordance of the VCS standard and AFOLU guidance, using the procedures outlined in the VCS methodology VM0009 and the MNRP’s standard operating procedures \"Standard Operating Procedure Lac Mai Ndombe - Forest Inventory\". Wildlife Works was responsible for the measurement. All measurements were made between 2011 and 2021.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "55,244.75",
+          "page": 60,
+          "quote": "Value applied: 55,244.75 Monitoring equipment: Computer with ArcGIS software QA/QC procedures to be applied: QAQC procedures are in line with the requirements of VM0009 v2 and the VCS standard. This includes a review of the GIS products and visual assessments of the accuracy of the shapefiles.",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "-345,761",
+          "page": 64,
+          "quote": "Data unit: tCO2e Description: Carbon not decayed in DW at the end of the current monitoring period Source of data: Proxy area sampling Description of measurement methods and procedures to be applied: This parameter was measured in accordance of the VCS standard and AFOLU guidance, using the procedures outlined in the VCS Methodology VM0009 V2.0 Section 8.1.6. Wildlife Works was responsible for the measurement. All measurements were made between 2011 and 2021.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "266,145,566.3",
+          "page": null,
+          "quote": "Data Unit / Parameter: 𝒄𝑷 𝒃𝒎[𝒎] Data unit: tCO2e/ha Description: Average carbon in biomass in the Project Accounting Area Source of data: Project Accounting Area sampling Description of measurement methods and procedures to be applied: This parameter was measured in accordance of the VCS standard and AFOLU guidance, using the procedures outlined in the VCS Methodology VM0009 V2.0 Appendix B.2 and MNRP’s standard operating procedures \"Standard Operating Procedure Lac Mai Ndombe - Forest Inventory\". Wildlife Works was responsible for the measurement. All measurements were made between 2011 and 2021. Accuracy level achieved is good, and is associated with the quality of the field measurements and calculations.",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "9,188,395",
+          "page": 84,
+          "quote": "Value applied: 9,188,395",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "67,129,083 tCO2e",
+          "page": null,
+          "quote": "Data Unit / Parameter: 𝑬𝑩 𝑫𝑾[𝒎] Data unit: tCO2e Description: Cumulative baseline emissions from dead wood at the end of the current monitoring period Source of data: Measurements in the proxy area",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "1,061,210",
+          "page": 90,
+          "quote": "Value applied: 1,061,210",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "3,581 days",
+          "page": null,
+          "quote": "Value applied: 3,581 days",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "3,524,543 tCO2e",
+          "page": null,
+          "quote": "𝐸BΔ[𝑀4] = 56,967,209 −47,656,179 = 9,311,030𝑡𝐶𝑂2𝑒",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "39,849 tCO2e",
+          "page": null,
+          "quote": "216,792 - 176,943 = 39,849 tCO2e",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "56,851,199 tCO2e",
+          "page": null,
+          "quote": "𝐸𝐵 𝐵𝑀 𝐵𝑀",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "10,911,915 tCO2e",
+          "page": 118,
+          "quote": "Determining Carbon Stored in Long Lived Wood Products MRR.36 Carbon stored in long-lived wood products 𝑪𝑩 𝑾𝑷 [𝒎] after 100 years. Please refer to Annex 17 – MNRP NER Worksheet",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "8,615,284 tCO2e",
+          "page": 129,
+          "quote": "Table 3.11 represents net emission reductions calculated using the current VCS-approved standalone project baseline, which the project must use until the end of the current baseline validity period.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "3,800,000",
+          "page": 130,
+          "quote": "Total",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "complete deforestation of the project area and conversion to agriculture",
+          "page": 156,
+          "quote": "During this monitoring period, there was a significantly lower level of deforestation, and thus habitat loss, within the PAA in comparison to other areas within the Project Zone. This is also seen when comparing the current situation in the PAA with the project baseline, the without-project scenario, which is complete deforestation of the project area and conversion to agriculture. Please refer to Section 3.2 for demonstration of the Project’s monitored avoided emissions, and therefore avoided deforestation, for this monitoring period.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        }
+      ]
+    },
+    "additionality": "not stated",
+    "leakage": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "0",
+          "page": 45,
+          "quote": "Value applied: 0",
+          "quote_found": true,
+          "pages": [
+            45
+          ]
+        },
+        {
+          "value": "34,325 tCO2e",
+          "page": 125,
+          "quote": "For 2021 it was determined that there were emissions from activity-shifting leakage of 34,325 t CO2e.",
+          "quote_found": true,
+          "pages": [
+            125
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "216,792",
+          "page": 92,
+          "quote": "Value applied: 216,792",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        }
+      ]
+    },
+    "permanence_buffer": {
+      "value": "10%",
+      "page": 128,
+      "quote": "The buffer account allocation for the MNRP is calculated according to the requirements stated in the VCS Standard Version 4.4, VCS Registration and Issuance Process Version 3.4, and the VCS Non-Permanence Risk Tool Version 4.0.",
+      "quote_found": true,
+      "pages": [
+        128
+      ],
+      "unsupported": [
+        {
+          "value": "3,985,357",
+          "page": 93,
+          "quote": "Value applied: 3,985,357",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "538,787",
+          "page": 130,
+          "quote": "538,787",
+          "quote_found": false,
+          "reject": "quote not in document"
+        }
+      ]
+    },
+    "crediting_period": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "14 March 2011 – 13 March 2041",
+          "page": 14,
+          "quote": "The Project crediting period is 14 March 2011 – 13 March 2041. The crediting period is 30 years in length.",
+          "quote_found": true,
+          "pages": [
+            14
+          ]
+        },
+        {
+          "value": "2011-2021",
+          "page": 47,
+          "quote": "All measurements were made between 2011 and 2021.",
+          "quote_found": true,
+          "pages": [
+            47
+          ]
+        },
+        {
+          "value": "2021",
+          "page": 119,
+          "quote": "For this 4th monitoring period, which extends from 1 January 2021 to 31 December 2021, we measured 55 plots, representing 33.7% of the 163 plots.",
+          "quote_found": true,
+          "pages": [
+            119
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "14 March 2011 – 13 March 2041",
+          "page": 2,
+          "quote": "30-year crediting period",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "10,957 days",
+          "page": 50,
+          "quote": "This parameter was measured in accordance of the VCS standard and AFOLU guidance, using the procedures outlined in the VCS methodology VM0009 and the MNRP’s standard operating procedures \"Standard Operating Procedure Lac Mai Ndombe - Forest Inventory\". Wildlife Works was responsible for the measurement. All measurements were made between 2011 and 2021.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "2021",
+          "page": 125,
+          "quote": "Leakage was then considered to be any emissions from deforestation within the area of interest above the leakage reference emission level.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        }
+      ]
+    },
+    "area": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "299,645 hectares",
+          "page": 14,
+          "quote": "The conservation concession covers 299,645 hectares (ha) of terra firma forest (upland non-inundated forests), swamp forest (inundated and seasonally inundated forests), savanna, and inundated grassland.",
+          "quote_found": true,
+          "pages": [
+            14
+          ]
+        },
+        {
+          "value": "248,956 ha",
+          "page": 111,
+          "quote": "accounting area; 248,956 ha",
+          "quote_found": true,
+          "pages": [
+            111
+          ]
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "169,741 hectares",
+          "page": 7,
+          "quote": "The conservation concession now contains over 3.5 million cubic meters of merchantable hardwood, highly valued by logging companies.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 23,
+          "quote": "More than 28 villages are located within the project area and some 100,000 people live on the shores of the lake Mai Ndombe.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 31,
+          "quote": "The project has been monitoring any illegal activity in the project area since the project start date. Five attempts for illegal timber logging have been detected in villags within the project area: Kesenge, Bosongo, Nkondi, Mpata Mbalu and Mpi.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 31,
+          "quote": "The project area consists mostly of dense humid and semi-deciduous heterogeneous forests with a very low percentage of resinous trees.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 44,
+          "quote": "The land in the Project Area is owned by the Government of the DRC.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "248,956",
+          "page": null,
+          "quote": "The area of Project Accounting Area",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 50,
+          "quote": "Area of activity-shifting leakage area",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "55,244.75",
+          "page": 60,
+          "quote": "Description: Area of Forest Project Accounting Area stratum 1 prior to first verification event – Semi-deciduous forest, Logged FORESCOM Source of data: GIS analysis prior to sampling Description of measurement methods and procedures to be applied: This parameter was measured in accordance of the VCS standard and AFOLU guidance, using the procedures outlined in the VCS methodology VM0009 section 6.2. Wildlife Works was responsible for the measurement. All measurements were made between 2011 and 2021. Accuracy level achieved is good, and is associated with the limits of ArcGIS software and quality of the shapefiles.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741",
+          "page": 90,
+          "quote": "Description: Cumulative baseline emissions from dead wood at the end of the current monitoring period",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 96,
+          "quote": "Data unit: tCO2e Description: Cumulative project emissions due to burning at the end of the current monitoring period",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "248,956 hectares",
+          "page": null,
+          "quote": "𝐴𝑃𝐴𝐴(𝑐𝑃−𝑐𝐵) = 248,956 ha",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "169,741 hectares",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "248,956.43 hectares",
+          "page": 121,
+          "quote": "Table 3.8: Summary of current soil carbon stocks within the Project Accounting Area (PAA) PAA Soil accounting area (ha) Mean carbon stock (t CO2e / ha) Standard error (t CO2e / ha) Accounting Area 248,956.43 61.0 N/A",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "248,956 hectares",
+          "page": 127,
+          "quote": "The calculated standard errors used for the determination of the confidence deduction were: • Uncertainty in carbon stock estimates in the project accounting area, (𝑼𝑷[𝑚4]): 36.73 tCO2e • Uncertainty in carbon stock estimates in the proxy area, (𝑼𝑩[𝑚4]): 15.62 tCO2e • Uncertainty in the baseline emissions model (BEM), (𝑼𝑬𝑴[𝑚4]): 0.009 tCO2e",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741",
+          "page": null,
+          "quote": "169,741",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 134,
+          "quote": "The Mai Ndombe REDD+ project expects that outcomes and short-term impacts resulting from these outputs will include increased local knowledge and skills with respect to participatory, democratic decision making and management-oriented processes related to community development. Ultimately, the long-term result will be improved community well-being.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 171,
+          "quote": "APPENDIX A: PROJECT AREA AND PROJECT ACCOUNTING AREA",
+          "quote_found": true,
+          "reject": "value not in quote"
+        }
+      ]
+    },
+    "estimated_reductions": {
+      "value": "7,753,754",
+      "page": 13,
+      "quote": "The MNRP reduced 7,753,754 tonnes of CO2e throughout the PAA during M4.",
+      "quote_found": true,
+      "pages": [
+        13
+      ],
+      "unsupported": [
+        {
+          "value": "7,753,754 tCO2e",
+          "page": 7,
+          "quote": "This emission reduction was achieved by stopping the planned legal logging in the Project Area, and additionally, the illegal logging and deforestation through slash and burn agricultural that typically follows logging.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "-8,910,546",
+          "page": 64,
+          "quote": "Value applied: -8,910,546 Monitoring equipment: Equipment list in Annex 20 QA/QC procedures to be applied: QAQC procedures are in line with the requirements of VM0009 v2 section B.4 and are outlined in the document, \"Annex 14-Quality Control Procedure v1.6\" This includes a review of monitoring records for errors and 5% of plots being remeasured and compared to initial sample with a t-test.",
+          "quote_found": true,
+          "reject": "wrong unit or type for field"
+        },
+        {
+          "value": "7,753,754 tCO2e",
+          "page": 129,
+          "quote": "Table 3.11 represents net emission reductions calculated using the current VCS-approved standalone project baseline, which the project must use until the end of the current baseline validity period.",
+          "quote_found": true,
+          "reject": "value not in quote"
+        },
+        {
+          "value": "3,226,889",
+          "page": 130,
+          "quote": "3,226,889",
+          "quote_found": false,
+          "reject": "quote not in document"
+        },
+        {
+          "value": "4,202,225 tCO2e",
+          "page": null,
+          "quote": "SIA#3: # Net tons CO2e emissions avoided 4,202,225 tCO2e",
+          "quote_found": false,
+          "reject": "quote not in document"
+        }
+      ]
+    }
+  },
+  "merged_before": {
+    "baseline": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "3.5 million cubic meters of merchantable hardwood",
+          "page": 7,
+          "quote": "The conservation concession now contains over 3.5 million cubic meters of merchantable hardwood, highly valued by logging companies.",
+          "quote_found": true
+        },
+        {
+          "value": "299,645 hectares",
+          "page": 14,
+          "quote": "The conservation concession covers 299,645 hectares (ha) of terra firma forest (upland non-inundated forests), swamp forest (inundated and seasonally inundated forests), savanna, and inundated grassland (see section G1.2 of the MNRP VCS PD for further definition of these land cover types).",
+          "quote_found": true
+        },
+        {
+          "value": "1,288,795.4",
+          "page": 50,
+          "quote": "This parameter was measured in accordance of the VCS standard and AFOLU guidance, using the procedures outlined in the VCS methodology VM0009 and the MNRP’s standard operating procedures \"Standard Operating Procedure Lac Mai Ndombe - Forest Inventory\". Wildlife Works was responsible for the measurement. All measurements were made between 2011 and 2021.",
+          "quote_found": true
+        },
+        {
+          "value": "8,615,284 tCO2e",
+          "page": 129,
+          "quote": "Table 3.11 represents net emission reductions calculated using the current VCS-approved standalone project baseline, which the project must use until the end of the current baseline validity period.",
+          "quote_found": true
+        },
+        {
+          "value": "3,800,000",
+          "page": 130,
+          "quote": "Total",
+          "quote_found": true
+        },
+        {
+          "value": "complete deforestation of the project area and conversion to agriculture",
+          "page": 156,
+          "quote": "During this monitoring period, there was a significantly lower level of deforestation, and thus habitat loss, within the PAA in comparison to other areas within the Project Zone. This is also seen when comparing the current situation in the PAA with the project baseline, the without-project scenario, which is complete deforestation of the project area and conversion to agriculture. Please refer to Section 3.2 for demonstration of the Project’s monitored avoided emissions, and therefore avoided deforestation, for this monitoring period.",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "7,753,754",
+          "page": null,
+          "quote": "Net estimated emission reductions in the project area, measured against the without-project scenario",
+          "quote_found": false
+        },
+        {
+          "value": "248,956",
+          "page": null,
+          "quote": "The area of Project Accounting Area",
+          "quote_found": false
+        },
+        {
+          "value": "55,244.75",
+          "page": null,
+          "quote": "Value applied: 55,244.75 Monitoring equipment: Computer with ArcGIS software QA/QC procedures to be applied: QAQC procedures are in line with the requirements of VM0009 v2 and the VCS standard. This includes a review of the GIS products and visual assessments of the accuracy of the shapefiles.",
+          "quote_found": false
+        },
+        {
+          "value": "-345,761",
+          "page": null,
+          "quote": "Data unit: tCO2e Description: Carbon not decayed in DW at the end of the current monitoring period Source of data: Proxy area sampling Description of measurement methods and procedures to be applied: This parameter was measured in accordance of the VCS standard and AFOLU guidance, using the procedures outlined in the VCS Methodology VM0009 V2.0 Section 8.1.6. Wildlife Works was responsible for the measurement. All measurements were made between 2011 and 2021.",
+          "quote_found": false
+        },
+        {
+          "value": "266,145,566.3",
+          "page": null,
+          "quote": "Data Unit / Parameter: 𝒄𝑷 𝒃𝒎[𝒎] Data unit: tCO2e/ha Description: Average carbon in biomass in the Project Accounting Area Source of data: Project Accounting Area sampling Description of measurement methods and procedures to be applied: This parameter was measured in accordance of the VCS standard and AFOLU guidance, using the procedures outlined in the VCS Methodology VM0009 V2.0 Appendix B.2 and MNRP’s standard operating procedures \"Standard Operating Procedure Lac Mai Ndombe - Forest Inventory\". Wildlife Works was responsible for the measurement. All measurements were made between 2011 and 2021. Accuracy level achieved is good, and is associated with the quality of the field measurements and calculations.",
+          "quote_found": false
+        },
+        {
+          "value": "9,188,395",
+          "page": null,
+          "quote": "Value applied: 9,188,395",
+          "quote_found": false
+        },
+        {
+          "value": "67,129,083 tCO2e",
+          "page": null,
+          "quote": "Data Unit / Parameter: 𝑬𝑩 𝑫𝑾[𝒎] Data unit: tCO2e Description: Cumulative baseline emissions from dead wood at the end of the current monitoring period Source of data: Measurements in the proxy area",
+          "quote_found": false
+        },
+        {
+          "value": "1,061,210",
+          "page": null,
+          "quote": "Value applied: 1,061,210",
+          "quote_found": false
+        },
+        {
+          "value": "3,581 days",
+          "page": null,
+          "quote": "Value applied: 3,581 days",
+          "quote_found": false
+        },
+        {
+          "value": "3,524,543 tCO2e",
+          "page": null,
+          "quote": "𝐸BΔ[𝑀4] = 56,967,209 −47,656,179 = 9,311,030𝑡𝐶𝑂2𝑒",
+          "quote_found": false
+        },
+        {
+          "value": "39,849 tCO2e",
+          "page": null,
+          "quote": "216,792 - 176,943 = 39,849 tCO2e",
+          "quote_found": false
+        },
+        {
+          "value": "56,851,199 tCO2e",
+          "page": null,
+          "quote": "𝐸𝐵 𝐵𝑀 𝐵𝑀",
+          "quote_found": false
+        },
+        {
+          "value": "10,911,915 tCO2e",
+          "page": null,
+          "quote": "Determining Carbon Stored in Long Lived Wood Products MRR.36 Carbon stored in long-lived wood products 𝑪𝑩 𝑾𝑷 [𝒎] after 100 years. Please refer to Annex 17 – MNRP NER Worksheet",
+          "quote_found": false
+        }
+      ]
+    },
+    "additionality": "not stated",
+    "leakage": {
+      "value": "34,325 tCO2e",
+      "page": 125,
+      "quote": "For 2021 it was determined that there were emissions from activity-shifting leakage of 34,325 t CO2e.",
+      "quote_found": true,
+      "pages": [
+        125
+      ],
+      "unsupported": [
+        {
+          "value": "216,792",
+          "page": null,
+          "quote": "Value applied: 216,792",
+          "quote_found": false
+        },
+        {
+          "value": "0",
+          "page": null,
+          "quote": "Value applied: 0",
+          "quote_found": false
+        }
+      ]
+    },
+    "permanence_buffer": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "10%",
+          "page": 128,
+          "quote": "The buffer account allocation for the MNRP is calculated according to the requirements stated in the VCS Standard Version 4.4, VCS Registration and Issuance Process Version 3.4, and the VCS Non-Permanence Risk Tool Version 4.0.",
+          "quote_found": true
+        },
+        {
+          "value": "538,787",
+          "page": 130,
+          "quote": "538,787",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "3,985,357",
+          "page": null,
+          "quote": "Value applied: 3,985,357",
+          "quote_found": false
+        }
+      ]
+    },
+    "crediting_period": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "14 March 2011 – 13 March 2041",
+          "page": 2,
+          "quote": "30-year crediting period",
+          "quote_found": true
+        },
+        {
+          "value": "14 March 2011 – 13 March 2041",
+          "page": 14,
+          "quote": "The Project crediting period is 14 March 2011 – 13 March 2041. The crediting period is 30 years in length.",
+          "quote_found": true
+        },
+        {
+          "value": "10,957 days",
+          "page": 50,
+          "quote": "This parameter was measured in accordance of the VCS standard and AFOLU guidance, using the procedures outlined in the VCS methodology VM0009 and the MNRP’s standard operating procedures \"Standard Operating Procedure Lac Mai Ndombe - Forest Inventory\". Wildlife Works was responsible for the measurement. All measurements were made between 2011 and 2021.",
+          "quote_found": true
+        },
+        {
+          "value": "2021",
+          "page": 119,
+          "quote": "For this 4th monitoring period, which extends from 1 January 2021 to 31 December 2021, we measured 55 plots, representing 33.7% of the 163 plots.",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "2011-2021",
+          "page": null,
+          "quote": "All measurements were made between 2011 and 2021.",
+          "quote_found": false
+        },
+        {
+          "value": "2021",
+          "page": null,
+          "quote": "Leakage was then considered to be any emissions from deforestation within the area of interest above the leakage reference emission level.",
+          "quote_found": false
+        }
+      ]
+    },
+    "area": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "169,741 hectares",
+          "page": 7,
+          "quote": "The conservation concession now contains over 3.5 million cubic meters of merchantable hardwood, highly valued by logging companies.",
+          "quote_found": true
+        },
+        {
+          "value": "299,645",
+          "page": 14,
+          "quote": "The conservation concession covers 299,645 hectares (ha) of terra firma forest (upland non-inundated forests), swamp forest (inundated and seasonally inundated forests), savanna, and inundated grassland",
+          "quote_found": true
+        },
+        {
+          "value": "299,645 hectares",
+          "page": 14,
+          "quote": "The conservation concession covers 299,645 hectares (ha) of terra firma forest (upland non-inundated forests), swamp forest (inundated and seasonally inundated forests), savanna, and inundated grassland.",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 23,
+          "quote": "More than 28 villages are located within the project area and some 100,000 people live on the shores of the lake Mai Ndombe.",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 31,
+          "quote": "The project has been monitoring any illegal activity in the project area since the project start date. Five attempts for illegal timber logging have been detected in villags within the project area: Kesenge, Bosongo, Nkondi, Mpata Mbalu and Mpi.",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 31,
+          "quote": "The project area consists mostly of dense humid and semi-deciduous heterogeneous forests with a very low percentage of resinous trees.",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 50,
+          "quote": "Area of activity-shifting leakage area",
+          "quote_found": true
+        },
+        {
+          "value": "248,956 ha",
+          "page": 111,
+          "quote": "accounting area; 248,956 ha",
+          "quote_found": true
+        },
+        {
+          "value": "248,956.43 hectares",
+          "page": 121,
+          "quote": "Table 3.8: Summary of current soil carbon stocks within the Project Accounting Area (PAA) PAA Soil accounting area (ha) Mean carbon stock (t CO2e / ha) Standard error (t CO2e / ha) Accounting Area 248,956.43 61.0 N/A",
+          "quote_found": true
+        },
+        {
+          "value": "248,956 hectares",
+          "page": 127,
+          "quote": "The calculated standard errors used for the determination of the confidence deduction were: • Uncertainty in carbon stock estimates in the project accounting area, (𝑼𝑷[𝑚4]): 36.73 tCO2e • Uncertainty in carbon stock estimates in the proxy area, (𝑼𝑩[𝑚4]): 15.62 tCO2e • Uncertainty in the baseline emissions model (BEM), (𝑼𝑬𝑴[𝑚4]): 0.009 tCO2e",
+          "quote_found": true
+        },
+        {
+          "value": "169,741 hectares",
+          "page": 171,
+          "quote": "APPENDIX A: PROJECT AREA AND PROJECT ACCOUNTING AREA",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The land in the Project Area is owned by the Government of the DRC.",
+          "quote_found": false
+        },
+        {
+          "value": "248,956",
+          "page": null,
+          "quote": "The area of Project Accounting Area",
+          "quote_found": false
+        },
+        {
+          "value": "55,244.75",
+          "page": null,
+          "quote": "Description: Area of Forest Project Accounting Area stratum 1 prior to first verification event – Semi-deciduous forest, Logged FORESCOM Source of data: GIS analysis prior to sampling Description of measurement methods and procedures to be applied: This parameter was measured in accordance of the VCS standard and AFOLU guidance, using the procedures outlined in the VCS methodology VM0009 section 6.2. Wildlife Works was responsible for the measurement. All measurements were made between 2011 and 2021. Accuracy level achieved is good, and is associated with the limits of ArcGIS software and quality of the shapefiles.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741",
+          "page": null,
+          "quote": "Description: Cumulative baseline emissions from dead wood at the end of the current monitoring period",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "Data unit: tCO2e Description: Cumulative project emissions due to burning at the end of the current monitoring period",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        },
+        {
+          "value": "248,956 hectares",
+          "page": null,
+          "quote": "𝐴𝑃𝐴𝐴(𝑐𝑃−𝑐𝐵) = 248,956 ha",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "169,741 hectares",
+          "quote_found": false
+        },
+        {
+          "value": "169,741",
+          "page": null,
+          "quote": "169,741",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "The Mai Ndombe REDD+ project expects that outcomes and short-term impacts resulting from these outputs will include increased local knowledge and skills with respect to participatory, democratic decision making and management-oriented processes related to community development. Ultimately, the long-term result will be improved community well-being.",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        },
+        {
+          "value": "169,741 hectares",
+          "page": null,
+          "quote": "not stated",
+          "quote_found": false
+        }
+      ]
+    },
+    "estimated_reductions": {
+      "value": "conflict",
+      "conflicts": [
+        {
+          "value": "7,753,754 tCO2e",
+          "page": 7,
+          "quote": "This emission reduction was achieved by stopping the planned legal logging in the Project Area, and additionally, the illegal logging and deforestation through slash and burn agricultural that typically follows logging.",
+          "quote_found": true
+        },
+        {
+          "value": "7,753,754",
+          "page": 13,
+          "quote": "The MNRP reduced 7,753,754 tonnes of CO2e throughout the PAA during M4.",
+          "quote_found": true
+        },
+        {
+          "value": "7,753,754 tCO2e",
+          "page": 129,
+          "quote": "Table 3.11 represents net emission reductions calculated using the current VCS-approved standalone project baseline, which the project must use until the end of the current baseline validity period.",
+          "quote_found": true
+        },
+        {
+          "value": "3,226,889",
+          "page": 130,
+          "quote": "3,226,889",
+          "quote_found": true
+        }
+      ],
+      "unsupported": [
+        {
+          "value": "-8,910,546",
+          "page": null,
+          "quote": "Value applied: -8,910,546 Monitoring equipment: Equipment list in Annex 20 QA/QC procedures to be applied: QAQC procedures are in line with the requirements of VM0009 v2 section B.4 and are outlined in the document, \"Annex 14-Quality Control Procedure v1.6\" This includes a review of monitoring records for errors and 5% of plots being remeasured and compared to initial sample with a t-test.",
+          "quote_found": false
+        },
+        {
+          "value": "4,202,225 tCO2e",
+          "page": null,
+          "quote": "SIA#3: # Net tons CO2e emissions avoided 4,202,225 tCO2e",
+          "quote_found": false
+        }
+      ]
+    }
+  }
+}

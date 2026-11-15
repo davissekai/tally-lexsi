@@ -12,9 +12,10 @@ Usage:
 Output: per-chunk JSON replies plus a merged document record in the shape that
 scorer/score_extractions.py expects (see schema/output_schema.json).
 
-Note: the reported Tally results use our grounded merge, which is not part of
-this Stage 1 release. The `simple_merge` below is a plain baseline: identical
-values collapse, disagreeing values become a `conflict`.
+Merging uses the same grounded merge as every reported result
+(`src/tally_merge.py::merge_notes`): a chunk's value is kept only if its quote
+is found in the document text, the value appears in the quote and the unit
+fits the field; surviving candidates that still disagree become a `conflict`.
 """
 from __future__ import annotations
 
@@ -23,8 +24,13 @@ import json
 import re
 from pathlib import Path
 
+import sys
+
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
+from tally_merge import merge_notes  # noqa: E402  grounded merge used for all results
 
 BASE_ID = "CohereLabs/tiny-aya-global"
 ADAPTER_ID = "renhuang001/tally-v7-lora"
@@ -65,34 +71,6 @@ def parse_json(text: str):
         return None
 
 
-def is_stated(item) -> bool:
-    if not isinstance(item, dict):
-        return False
-    v = str(item.get("value", "")).strip().lower()
-    return v not in {"", "not stated", "not_stated", "..."}
-
-
-def norm(v: str) -> str:
-    return re.sub(r"[\s,]", "", str(v).lower())
-
-
-def simple_merge(chunk_replies: list[dict | None]) -> dict:
-    merged = {}
-    for f in FIELDS:
-        cands = {}
-        for r in chunk_replies:
-            item = (r or {}).get(f)
-            if is_stated(item):
-                cands.setdefault(norm(item["value"]), item)
-        if not cands:
-            merged[f] = "not stated"
-        elif len(cands) == 1:
-            merged[f] = next(iter(cands.values()))
-        else:
-            merged[f] = {"value": "conflict", "conflicts": list(cands.values())}
-    return merged
-
-
 def load(adapter: str | None):
     tok = AutoTokenizer.from_pretrained(BASE_ID)
     model = AutoModelForCausalLM.from_pretrained(BASE_ID, torch_dtype=torch.float16, device_map="auto")
@@ -121,12 +99,15 @@ def main():
     a = ap.parse_args()
     tok, model = load(None if a.no_adapter else a.adapter)
     chunks = chunk_document(a.doc.read_text(encoding="utf-8", errors="replace"), tok)
-    replies = []
+    replies, texts = [], []
     for i, ch in enumerate(chunks, 1):
         raw = generate(tok, model, f"{PROMPT}\n\n\n{ch}")
-        replies.append(parse_json(raw))
-        print(f"chunk {i}/{len(chunks)} parsed={replies[-1] is not None}", flush=True)
-    result = {"doc": a.doc.stem, "chunks": replies, "merged": simple_merge(replies)}
+        parsed = parse_json(raw)
+        replies.append(parsed if parsed is not None else {"_error": "unparseable", "raw": raw[:2000]})
+        texts.append(ch.split("\n", 1)[1] if "\n" in ch else ch)
+        print(f"chunk {i}/{len(chunks)} parsed={parsed is not None}", flush=True)
+    merged = merge_notes(replies, doc_text="\n\n".join(texts))
+    result = {"doc": a.doc.stem, "chunks": replies, "merged": merged}
     out = a.out or a.doc.with_suffix(".tally.json")
     out.write_text(json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8")
     print("wrote", out)

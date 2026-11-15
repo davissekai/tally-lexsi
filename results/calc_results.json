@@ -1,0 +1,2782 @@
+[
+  {
+    "stem": "1340_Bale-Mountains_MR_2020-2021",
+    "doc": "1340_Bale-Mountains_MR_2020-2021.txt",
+    "project_id": "1340",
+    "title": "Bale Mountains MR 2020 2021",
+    "kind": "monitoring",
+    "area_ha": 261053.0,
+    "area_value": "261,053 ha",
+    "area_status": "resolved",
+    "reductions_tco2e": 3196344.0,
+    "reductions_value": "3,196,344 t CO2 e",
+    "reductions_scope": "period",
+    "reductions_status": "resolved",
+    "annual_tco2e": 1598172.0,
+    "period_years": 2.0,
+    "period_source": "monitoring / verification window",
+    "crediting_value": "January-2012 – 31-December-2031; 20 years total period",
+    "crediting_years": 20.0,
+    "monitoring_value": "2020-2021",
+    "monitoring_years": 2.0,
+    "tco2e_ha_yr": 6.122,
+    "intensity_basis": "period / area / monitoring / verification window",
+    "buffer_pct": 10.0,
+    "buffer_tco2e": 3866463.0,
+    "buffer_value": "10%",
+    "leakage_tco2e": null,
+    "leakage_pct": null,
+    "leakage_share": null,
+    "leakage_value": null,
+    "net_tco2e": 2876709.6,
+    "verdict": "PASS",
+    "flags": [],
+    "notes": [
+      "area: chose 261,053 ha (quote calls it the project area)",
+      "reductions: chose 3,196,344 t CO2 e (quote describes (net) emission reductions; treated as a period figure because this is an MR / verification)",
+      "period: chose January-2012 – 31-December-2031; 20 years total period (quote calls it the crediting period; full date range of a typical crediting length)",
+      "buffer: chose 10% (buffer stated as a percentage (the risk rating); 10% is inside the VCS AFOLU 10-60% range; quote refers to the non-permanence buffer); chose 3,866,463 tCO2e (buffer stated as a tCO2e withholding; quote refers to the non-permanence buffer)",
+      "buffer mass 3,866,463 tCO2e is larger than the chosen reductions, so it is treated as a different (likely lifetime) scope and is not used to imply a rate for this figure",
+      "net = 3,196,344 - leakage not stated - buffer 319,634.4 = 2,876,709.6 tCO2e (buffer mass skipped as a different scope; used the % rate)"
+    ],
+    "key_flag": "",
+    "checks": [
+      {
+        "name": "intensity",
+        "ok": true,
+        "detail": "6.12 tCO2e/ha/yr (period / area / monitoring / verification window); screening band 0.5-30"
+      },
+      {
+        "name": "buffer_range",
+        "ok": true,
+        "detail": "10.0% ; VCS AFOLU non-permanence tool allows 10-60%"
+      }
+    ],
+    "resolution": {
+      "area": {
+        "status": "resolved",
+        "reason": "chose 261,053 ha (quote calls it the project area)",
+        "chosen": {
+          "value": "261,053 ha",
+          "page": 2,
+          "score": 6.0,
+          "tags": [
+            "project_area"
+          ],
+          "reasons": [
+            "quote calls it the project area"
+          ],
+          "number": 261053.0,
+          "unit": "ha",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The size of the project area of 261,053 ha and its location on the slopes of the Bale mountain massif have undoubtedly a severe influence on the hydrological system and thus influence the life of approximately 10 – 12 Million people depending on the water resources."
+        },
+        "candidates": [
+          {
+            "value": "261,053 ha",
+            "page": 2,
+            "score": 6.0,
+            "tags": [
+              "project_area"
+            ],
+            "reasons": [
+              "quote calls it the project area"
+            ],
+            "number": 261053.0,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The size of the project area of 261,053 ha and its location on the slopes of the Bale mountain massif have undoubtedly a severe influence on the hydrological system and thus influence the life of approximately 10 – 12 Million people depending on the water resources."
+          },
+          {
+            "value": "333,924 hectares",
+            "page": 12,
+            "score": 2.0,
+            "tags": [
+              "project_area",
+              "boundary"
+            ],
+            "reasons": [
+              "quote calls it the project area",
+              "project boundary / includes leakage-management land"
+            ],
+            "number": 333924.0,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The Project Boundary of BMERP is 333,924 ha. This project boundary constitutes the Project Area (PA) equal to 261,053 ha of moist and dry forests (238,200 ha of moist and 22,853 ha of dry forests), and 72,924 ha of non-forested land that constitutes the Project’s Leakage Manageme"
+          },
+          {
+            "value": "289,083 hectares",
+            "page": 39,
+            "score": -6.0,
+            "tags": [
+              "predicted"
+            ],
+            "reasons": [
+              "predicted deforestation, not the project area"
+            ],
+            "number": 289083.0,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "A total   289,083 ha of forest predicted to be deforested within 20 years."
+          }
+        ]
+      },
+      "estimated_reductions": {
+        "status": "resolved",
+        "reason": "chose 3,196,344 t CO2 e (quote describes (net) emission reductions; treated as a period figure because this is an MR / verification)",
+        "chosen": {
+          "value": "3,196,344 t CO2 e",
+          "page": 8,
+          "score": 7.0,
+          "tags": [
+            "reductions",
+            "scope:period"
+          ],
+          "reasons": [
+            "quote describes (net) emission reductions",
+            "treated as a period figure because this is an MR / verification"
+          ],
+          "number": 3196344.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "Net estimated emission reductions in the project area, measured against the without-project scenario"
+        },
+        "candidates": [
+          {
+            "value": "3,196,344 t CO2 e",
+            "page": 8,
+            "score": 7.0,
+            "tags": [
+              "reductions",
+              "scope:period"
+            ],
+            "reasons": [
+              "quote describes (net) emission reductions",
+              "treated as a period figure because this is an MR / verification"
+            ],
+            "number": 3196344.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "Net estimated emission reductions in the project area, measured against the without-project scenario"
+          },
+          {
+            "value": "2870 ton/year",
+            "page": 100,
+            "score": -7.0,
+            "tags": [
+              "co_benefit",
+              "scope:annual",
+              "scope_explicit"
+            ],
+            "reasons": [
+              "cookstove fuelwood co-benefit, not the project ER total",
+              "stated as an annual average"
+            ],
+            "number": 2870.0,
+            "unit": "tonne",
+            "per_year": true,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "This value was used to calculate a total amount of fuel woods saved. Accordingly, the total 3280 stoves that were distributed has a contribution to avoid the destruction of forest biomass equivalent to 2870 ton/year in this project period which is enable to reduce high number of "
+          }
+        ]
+      },
+      "crediting_period": {
+        "status": "resolved",
+        "reason": "chose January-2012 – 31-December-2031; 20 years total period (quote calls it the crediting period; full date range of a typical crediting length)",
+        "chosen": {
+          "value": "January-2012 – 31-December-2031; 20 years total period",
+          "page": 2,
+          "score": 11.0,
+          "tags": [
+            "crediting"
+          ],
+          "reasons": [
+            "quote calls it the crediting period",
+            "full date range of a typical crediting length"
+          ],
+          "number": null,
+          "unit": "years",
+          "per_year": false,
+          "years": 20.0,
+          "start": "2012-01-01",
+          "end": "2031-12-31",
+          "quote": "GHG Accounting/ Crediting Period\nJanuary-2012 – 31-December-2031; 20 years total period"
+        },
+        "candidates": [
+          {
+            "value": "January-2012 – 31-December-2031; 20 years total period",
+            "page": 2,
+            "score": 11.0,
+            "tags": [
+              "crediting"
+            ],
+            "reasons": [
+              "quote calls it the crediting period",
+              "full date range of a typical crediting length"
+            ],
+            "number": null,
+            "unit": "years",
+            "per_year": false,
+            "years": 20.0,
+            "start": "2012-01-01",
+            "end": "2031-12-31",
+            "quote": "GHG Accounting/ Crediting Period\nJanuary-2012 – 31-December-2031; 20 years total period"
+          },
+          {
+            "value": "2020-2021",
+            "page": 23,
+            "score": 7.0,
+            "tags": [
+              "monitoring"
+            ],
+            "reasons": [
+              "quote calls it a monitoring / verification window",
+              "short year-year span, treated as a monitoring window"
+            ],
+            "number": null,
+            "unit": "period",
+            "per_year": false,
+            "years": 2.0,
+            "start": "2020-01-01",
+            "end": "2021-12-31",
+            "quote": "In April 2023 the achievement of monitoring for the years 2020-2021 was communicated for stakeholders on the workshop held in Adama with all the stakeholders and REDD+ networks members."
+          },
+          {
+            "value": "20 years",
+            "page": 50,
+            "score": 0.0,
+            "tags": [],
+            "reasons": [],
+            "number": 20.0,
+            "unit": "years",
+            "per_year": false,
+            "years": 20.0,
+            "start": null,
+            "end": null,
+            "quote": "The annual area of forest area expected to be converted into other non-forest land uses within the 20 years project period"
+          }
+        ],
+        "monitoring": {
+          "value": "2020-2021",
+          "page": 23,
+          "score": 7.0,
+          "tags": [
+            "monitoring"
+          ],
+          "reasons": [
+            "quote calls it a monitoring / verification window",
+            "short year-year span, treated as a monitoring window"
+          ],
+          "number": null,
+          "unit": "period",
+          "per_year": false,
+          "years": 2.0,
+          "start": "2020-01-01",
+          "end": "2021-12-31",
+          "quote": "In April 2023 the achievement of monitoring for the years 2020-2021 was communicated for stakeholders on the workshop held in Adama with all the stakeholders and REDD+ networks members."
+        }
+      },
+      "permanence_buffer": {
+        "status": "resolved",
+        "reason": "chose 10% (buffer stated as a percentage (the risk rating); 10% is inside the VCS AFOLU 10-60% range; quote refers to the non-permanence buffer); chose 3,866,463 tCO2e (buffer stated as a tCO2e withholding; quote refers to the non-permanence buffer)",
+        "chosen": {
+          "value": "10%",
+          "page": 71,
+          "score": 11.0,
+          "tags": [
+            "rate"
+          ],
+          "reasons": [
+            "buffer stated as a percentage (the risk rating)",
+            "10% is inside the VCS AFOLU 10-60% range",
+            "quote refers to the non-permanence buffer"
+          ],
+          "number": 10.0,
+          "unit": "percent",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "Avoided cumulative emission data of 2020-2021 multiplied by non-permanence factor (10%)"
+        },
+        "candidates": [
+          {
+            "value": "10%",
+            "page": 71,
+            "score": 11.0,
+            "tags": [
+              "rate"
+            ],
+            "reasons": [
+              "buffer stated as a percentage (the risk rating)",
+              "10% is inside the VCS AFOLU 10-60% range",
+              "quote refers to the non-permanence buffer"
+            ],
+            "number": 10.0,
+            "unit": "percent",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "Avoided cumulative emission data of 2020-2021 multiplied by non-permanence factor (10%)"
+          },
+          {
+            "value": "3,866,463 tCO2e",
+            "page": 12,
+            "score": 6.0,
+            "tags": [
+              "mass"
+            ],
+            "reasons": [
+              "buffer stated as a tCO2e withholding",
+              "quote refers to the non-permanence buffer"
+            ],
+            "number": 3866463.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "With the buffer for risk of 15%, equivalent of buffer credit of 3,866,463 tCO2e estimated for the project, the net ex-ante anthropogenic GHG emission reduction under the project scenario will be 21,909,958 tCO2e."
+          }
+        ],
+        "rate": {
+          "value": "10%",
+          "page": 71,
+          "score": 11.0,
+          "tags": [
+            "rate"
+          ],
+          "reasons": [
+            "buffer stated as a percentage (the risk rating)",
+            "10% is inside the VCS AFOLU 10-60% range",
+            "quote refers to the non-permanence buffer"
+          ],
+          "number": 10.0,
+          "unit": "percent",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "Avoided cumulative emission data of 2020-2021 multiplied by non-permanence factor (10%)"
+        },
+        "mass": {
+          "value": "3,866,463 tCO2e",
+          "page": 12,
+          "score": 6.0,
+          "tags": [
+            "mass"
+          ],
+          "reasons": [
+            "buffer stated as a tCO2e withholding",
+            "quote refers to the non-permanence buffer"
+          ],
+          "number": 3866463.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "With the buffer for risk of 15%, equivalent of buffer credit of 3,866,463 tCO2e estimated for the project, the net ex-ante anthropogenic GHG emission reduction under the project scenario will be 21,909,958 tCO2e."
+        }
+      },
+      "leakage": {
+        "status": "not_stated",
+        "reason": "no supported candidates",
+        "chosen": null,
+        "candidates": []
+      }
+    },
+    "baseline_value": "conflict",
+    "additionality_value": "The project introduced 3280 fuel efficient cookstoves focusing to reduce indoor pollution and reduce firewood collection of 19680 community members."
+  },
+  {
+    "stem": "2410_Miro-Ghana_Verification_2020-2022",
+    "doc": "2410_Miro-Ghana_Verification_2020-2022.txt",
+    "project_id": "2410",
+    "title": "Miro Ghana Verification 2020 2022",
+    "kind": "monitoring",
+    "area_ha": 3871.0,
+    "area_value": "3,871 hectares",
+    "area_status": "resolved",
+    "reductions_tco2e": null,
+    "reductions_value": null,
+    "reductions_scope": null,
+    "reductions_status": "unresolved",
+    "annual_tco2e": null,
+    "period_years": null,
+    "period_source": null,
+    "crediting_value": "30 years",
+    "crediting_years": 30.0,
+    "monitoring_value": "02-11-2020 to 19-09-2022",
+    "monitoring_years": 1.8782,
+    "tco2e_ha_yr": null,
+    "intensity_basis": null,
+    "buffer_pct": 10.0,
+    "buffer_tco2e": null,
+    "buffer_value": "10%",
+    "leakage_tco2e": 15758.0,
+    "leakage_pct": 10.0,
+    "leakage_share": null,
+    "leakage_value": "15,758 tCO2e",
+    "net_tco2e": null,
+    "verdict": "FLAG",
+    "flags": [
+      "reductions unresolved (top candidates tied with different values: 221,205 tCO2e vs 326,399 tCO2e)"
+    ],
+    "notes": [
+      "area: chose 3,871 hectares (quote calls it the project area; area considered for this monitoring period; lease area, not the eligible project area)",
+      "period: chose 30 years (quote calls it the crediting period; stated crediting-period length)",
+      "leakage: chose 15,758 tCO2e (quote describes a leakage deduction; leakage stated as tCO2e)",
+      "if reductions were 221,205 tCO2e: 30.42 tCO2e/ha/yr over 1.8782 monitoring years",
+      "if reductions were 326,399 tCO2e: 44.89 tCO2e/ha/yr over 1.8782 monitoring years",
+      "if reductions were 52,402 tCO2e: 13.54 tCO2e/ha/yr (stated annual / area)",
+      "leakage factor 10% (no tCO2e mass to combine)"
+    ],
+    "key_flag": "reductions unresolved (top candidates tied with different values: 221,205 tCO2e vs 326,399 tCO2e)",
+    "checks": [
+      {
+        "name": "buffer_range",
+        "ok": true,
+        "detail": "10.0% ; VCS AFOLU non-permanence tool allows 10-60%"
+      }
+    ],
+    "resolution": {
+      "area": {
+        "status": "resolved",
+        "reason": "chose 3,871 hectares (quote calls it the project area; area considered for this monitoring period; lease area, not the eligible project area)",
+        "chosen": {
+          "value": "3,871 hectares",
+          "page": 11,
+          "score": 4.0,
+          "tags": [
+            "project_area",
+            "monitoring_area",
+            "lease",
+            "holding"
+          ],
+          "reasons": [
+            "quote calls it the project area",
+            "area considered for this monitoring period",
+            "lease area, not the eligible project area",
+            "broader land holding / area established, not the accounted project"
+          ],
+          "number": 3871.0,
+          "unit": "ha",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "This lease construction is part of the presidential policy to restore degraded forest reserves in Ghana. This afforestation, reforestation project activity crediting period life span is 30 years (from 24th march 2016 to 30th June 2045). The Miro Forestry had occupied the total 10"
+        },
+        "candidates": [
+          {
+            "value": "3,871 hectares",
+            "page": 11,
+            "score": 4.0,
+            "tags": [
+              "project_area",
+              "monitoring_area",
+              "lease",
+              "holding"
+            ],
+            "reasons": [
+              "quote calls it the project area",
+              "area considered for this monitoring period",
+              "lease area, not the eligible project area",
+              "broader land holding / area established, not the accounted project"
+            ],
+            "number": 3871.0,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "This lease construction is part of the presidential policy to restore degraded forest reserves in Ghana. This afforestation, reforestation project activity crediting period life span is 30 years (from 24th march 2016 to 30th June 2045). The Miro Forestry had occupied the total 10"
+          },
+          {
+            "value": "10,495 hectares",
+            "page": 36,
+            "score": -3.0,
+            "tags": [
+              "holding"
+            ],
+            "reasons": [
+              "broader land holding / area established, not the accounted project"
+            ],
+            "number": 10495.0,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The project proponent has established 10,495 hectares in Ghana within the Boumfoum, Chirimfa and Awura forest reserves."
+          }
+        ]
+      },
+      "estimated_reductions": {
+        "status": "unresolved",
+        "reason": "top candidates tied with different values: 221,205 tCO2e vs 326,399 tCO2e",
+        "chosen": null,
+        "candidates": [
+          {
+            "value": "221,205 tCO2e",
+            "page": 11,
+            "score": 10.0,
+            "tags": [
+              "reductions",
+              "scope:period",
+              "scope_explicit"
+            ],
+            "reasons": [
+              "quote describes (net) emission reductions",
+              "figure is for this monitoring period"
+            ],
+            "number": 221205.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The second monitoring period aims to verify the estimated 221205tCO2e net GHG emission reductions (considering 10% buffer credits) achieved during the current defined monitoring period."
+          },
+          {
+            "value": "326,399 tCO2e",
+            "page": 79,
+            "score": 10.0,
+            "tags": [
+              "reductions",
+              "scope:period",
+              "scope_explicit"
+            ],
+            "reasons": [
+              "quote describes (net) emission reductions",
+              "figure is for this monitoring period"
+            ],
+            "number": 326399.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The second monitoring period aims to verify the estimated 326,399 tCO2e net GHG emission reductions achieved from Miro Forestry in West Africa"
+          },
+          {
+            "value": "52,402 tCO2e",
+            "page": 41,
+            "score": 3.0,
+            "tags": [
+              "scope:annual",
+              "scope_explicit"
+            ],
+            "reasons": [
+              "stated as an annual average"
+            ],
+            "number": 52402.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "Revenues from the commercialization of VCUs with an average annual reduction of 52,402 tCO2e were estimated."
+          },
+          {
+            "value": "481,955",
+            "page": 82,
+            "score": -10.0,
+            "tags": [
+              "carbon_stock",
+              "scope:period"
+            ],
+            "reasons": [
+              "bare number, unit assumed tCO2e from the field",
+              "total carbon stock, not emission reductions",
+              "treated as a period figure because this is an MR / verification"
+            ],
+            "number": 481955.0,
+            "unit": null,
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "Total Carbon by 202219: 481955 t CO2 eq"
+          }
+        ],
+        "annual": {
+          "value": "52,402 tCO2e",
+          "page": 41,
+          "score": 3.0,
+          "tags": [
+            "scope:annual",
+            "scope_explicit"
+          ],
+          "reasons": [
+            "stated as an annual average"
+          ],
+          "number": 52402.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "Revenues from the commercialization of VCUs with an average annual reduction of 52,402 tCO2e were estimated."
+        }
+      },
+      "crediting_period": {
+        "status": "resolved",
+        "reason": "chose 30 years (quote calls it the crediting period; stated crediting-period length)",
+        "chosen": {
+          "value": "30 years",
+          "page": 11,
+          "score": 13.0,
+          "tags": [
+            "crediting"
+          ],
+          "reasons": [
+            "quote calls it the crediting period",
+            "stated crediting-period length"
+          ],
+          "number": 30.0,
+          "unit": "years",
+          "per_year": false,
+          "years": 30.0,
+          "start": "2016-03-24",
+          "end": "2045-06-30",
+          "quote": "This afforestation, reforestation project activity crediting period life span is 30 years (from 24th march 2016 to 30th June 2045)."
+        },
+        "candidates": [
+          {
+            "value": "30 years",
+            "page": 11,
+            "score": 13.0,
+            "tags": [
+              "crediting"
+            ],
+            "reasons": [
+              "quote calls it the crediting period",
+              "stated crediting-period length"
+            ],
+            "number": 30.0,
+            "unit": "years",
+            "per_year": false,
+            "years": 30.0,
+            "start": "2016-03-24",
+            "end": "2045-06-30",
+            "quote": "This afforestation, reforestation project activity crediting period life span is 30 years (from 24th march 2016 to 30th June 2045)."
+          },
+          {
+            "value": "02-11-2020 to 19-09-2022",
+            "page": 62,
+            "score": 5.0,
+            "tags": [
+              "monitoring"
+            ],
+            "reasons": [
+              "quote calls it a monitoring / verification window"
+            ],
+            "number": null,
+            "unit": "period",
+            "per_year": false,
+            "years": 1.8782,
+            "start": "2020-11-02",
+            "end": "2022-09-19",
+            "quote": "Verification period: From 02nd November 2020 to 19th September -2022 (Inclusive of both days)"
+          },
+          {
+            "value": "24-March-2016 to 30-June -2045",
+            "page": 3,
+            "score": 3.0,
+            "tags": [],
+            "reasons": [
+              "full date range of a typical crediting length"
+            ],
+            "number": null,
+            "unit": "period",
+            "per_year": false,
+            "years": 29.2676,
+            "start": "2016-03-24",
+            "end": "2045-06-30",
+            "quote": "24-March-2016 to 30-June -2045"
+          }
+        ],
+        "monitoring": {
+          "value": "02-11-2020 to 19-09-2022",
+          "page": 62,
+          "score": 5.0,
+          "tags": [
+            "monitoring"
+          ],
+          "reasons": [
+            "quote calls it a monitoring / verification window"
+          ],
+          "number": null,
+          "unit": "period",
+          "per_year": false,
+          "years": 1.8782,
+          "start": "2020-11-02",
+          "end": "2022-09-19",
+          "quote": "Verification period: From 02nd November 2020 to 19th September -2022 (Inclusive of both days)"
+        }
+      },
+      "permanence_buffer": {
+        "status": "clean",
+        "reason": "chose 10% (buffer stated as a percentage (the risk rating); 10% is inside the VCS AFOLU 10-60% range; quote refers to the non-permanence buffer)",
+        "chosen": {
+          "value": "10%",
+          "page": 11,
+          "score": 11.0,
+          "tags": [
+            "rate"
+          ],
+          "reasons": [
+            "buffer stated as a percentage (the risk rating)",
+            "10% is inside the VCS AFOLU 10-60% range",
+            "quote refers to the non-permanence buffer"
+          ],
+          "number": 10.0,
+          "unit": "percent",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The Miro Forestry had occupied the total 10,495-ha area out of which 3,871-ha area is considered for this monitoring period (02-11-2020 to 19-09-2022) & this second monitoring period aims to verify the estimated 221205  tCO2e (245784 tCO2e Net calculated VCUs for the monitoring p"
+        },
+        "candidates": [
+          {
+            "value": "10%",
+            "page": 11,
+            "score": 11.0,
+            "tags": [
+              "rate"
+            ],
+            "reasons": [
+              "buffer stated as a percentage (the risk rating)",
+              "10% is inside the VCS AFOLU 10-60% range",
+              "quote refers to the non-permanence buffer"
+            ],
+            "number": 10.0,
+            "unit": "percent",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The Miro Forestry had occupied the total 10,495-ha area out of which 3,871-ha area is considered for this monitoring period (02-11-2020 to 19-09-2022) & this second monitoring period aims to verify the estimated 221205  tCO2e (245784 tCO2e Net calculated VCUs for the monitoring p"
+          }
+        ],
+        "rate": {
+          "value": "10%",
+          "page": 11,
+          "score": 11.0,
+          "tags": [
+            "rate"
+          ],
+          "reasons": [
+            "buffer stated as a percentage (the risk rating)",
+            "10% is inside the VCS AFOLU 10-60% range",
+            "quote refers to the non-permanence buffer"
+          ],
+          "number": 10.0,
+          "unit": "percent",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The Miro Forestry had occupied the total 10,495-ha area out of which 3,871-ha area is considered for this monitoring period (02-11-2020 to 19-09-2022) & this second monitoring period aims to verify the estimated 221205  tCO2e (245784 tCO2e Net calculated VCUs for the monitoring p"
+        }
+      },
+      "leakage": {
+        "status": "resolved",
+        "reason": "chose 15,758 tCO2e (quote describes a leakage deduction; leakage stated as tCO2e)",
+        "chosen": {
+          "value": "15,758 tCO2e",
+          "page": 33,
+          "score": 9.0,
+          "tags": [
+            "leakage",
+            "mass"
+          ],
+          "reasons": [
+            "quote describes a leakage deduction",
+            "leakage stated as tCO2e"
+          ],
+          "number": 15758.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The result from the tool is a total leakage of 15,758 tonnes of CO2 equivalent,"
+        },
+        "candidates": [
+          {
+            "value": "15,758 tCO2e",
+            "page": 33,
+            "score": 9.0,
+            "tags": [
+              "leakage",
+              "mass"
+            ],
+            "reasons": [
+              "quote describes a leakage deduction",
+              "leakage stated as tCO2e"
+            ],
+            "number": 15758.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The result from the tool is a total leakage of 15,758 tonnes of CO2 equivalent,"
+          }
+        ],
+        "rate": {
+          "value": "10%",
+          "page": 23,
+          "score": 9.0,
+          "tags": [
+            "leakage",
+            "rate"
+          ],
+          "reasons": [
+            "quote describes a leakage deduction",
+            "leakage stated as a percentage factor"
+          ],
+          "number": 10.0,
+          "unit": "percent",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "NMFC Livelihood Study _ Development Plan (2014.08.06) indicated 100 ha of farming near to the forest reserves. Accounting to this Micro had shared their further analysis of satellite imaging and areal study accounting 300 ha more (7.15% of project activity area). To the conservat"
+        }
+      }
+    },
+    "baseline_value": "0 tCO2e",
+    "additionality_value": "not stated"
+  },
+  {
+    "stem": "2929_Bandai-Hills-Ghana_Validation_2024",
+    "doc": "2929_Bandai-Hills-Ghana_Validation_2024.txt",
+    "project_id": "2929",
+    "title": "Bandai Hills Ghana Validation 2024",
+    "kind": "design",
+    "area_ha": 7372.0,
+    "area_value": "7372 ha",
+    "area_status": "resolved",
+    "reductions_tco2e": 3778511.0,
+    "reductions_value": "3,778,511 tCO2e",
+    "reductions_scope": "lifetime",
+    "reductions_status": "resolved",
+    "annual_tco2e": 188926.0,
+    "period_years": 20.0,
+    "period_source": "crediting period",
+    "crediting_value": "20 years",
+    "crediting_years": 20.0,
+    "monitoring_value": null,
+    "monitoring_years": null,
+    "tco2e_ha_yr": 25.6274,
+    "intensity_basis": "lifetime / area / crediting period",
+    "buffer_pct": null,
+    "buffer_tco2e": null,
+    "buffer_value": null,
+    "leakage_tco2e": 0.0,
+    "leakage_pct": null,
+    "leakage_share": 0.0,
+    "leakage_value": "0 tCO2e",
+    "net_tco2e": 3778511.0,
+    "verdict": "PASS",
+    "flags": [],
+    "notes": [
+      "area: chose 7372 ha (quote calls it the eligible project area)",
+      "reductions: chose 3,778,511 tCO2e (quote describes (net) emission reductions; lifetime or annual figure, fits a design document)",
+      "period: chose 20 years (quote calls it the crediting period; stated crediting-period length)",
+      "stated annual 188,926 tCO2e/yr matches total / 20 years",
+      "25.63 tCO2e/ha/yr is toward the high end of the 0.5-30 screening band",
+      "leakage is stated as 0 tCO2e"
+    ],
+    "key_flag": "",
+    "checks": [
+      {
+        "name": "total_vs_annual",
+        "ok": true,
+        "detail": "3,778,511 / 20 yr = 188,925.5 tCO2e/yr; stated annual is 188,926 tCO2e/yr"
+      },
+      {
+        "name": "intensity",
+        "ok": true,
+        "detail": "25.63 tCO2e/ha/yr (lifetime / area / crediting period); screening band 0.5-30"
+      },
+      {
+        "name": "leakage_share",
+        "ok": true,
+        "detail": "0 tCO2e is 0.0% of chosen reductions"
+      }
+    ],
+    "resolution": {
+      "area": {
+        "status": "resolved",
+        "reason": "chose 7372 ha (quote calls it the eligible project area)",
+        "chosen": {
+          "value": "7372 ha",
+          "page": 2,
+          "score": 8.0,
+          "tags": [
+            "project_area"
+          ],
+          "reasons": [
+            "quote calls it the eligible project area"
+          ],
+          "number": 7372.0,
+          "unit": "ha",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The total eligible project area is 7372 ha."
+        },
+        "candidates": [
+          {
+            "value": "7372 ha",
+            "page": 2,
+            "score": 8.0,
+            "tags": [
+              "project_area"
+            ],
+            "reasons": [
+              "quote calls it the eligible project area"
+            ],
+            "number": 7372.0,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The total eligible project area is 7372 ha."
+          },
+          {
+            "value": "7,804.56 ha",
+            "page": 14,
+            "score": -3.0,
+            "tags": [
+              "lease"
+            ],
+            "reasons": [
+              "lease area, not the eligible project area"
+            ],
+            "number": 7804.56,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The lease covers an area of 7,804.56 ha /05/. Due to some inconsistencies in the original forest cover maps in connection with the lease from the adjacent North Bandai Forest Reserve, this was corrected to 7,818 ha. The corresponding information has been verified by document revi"
+          },
+          {
+            "value": "3500 hectares",
+            "page": 11,
+            "score": -5.0,
+            "tags": [
+              "planted"
+            ],
+            "reasons": [
+              "planted (or to-be-planted) subset, not the project area"
+            ],
+            "number": 3500.0,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "the available area of abt. 7372 ha, a calculated area of 3500 ha will be planted."
+          }
+        ]
+      },
+      "estimated_reductions": {
+        "status": "resolved",
+        "reason": "chose 3,778,511 tCO2e (quote describes (net) emission reductions; lifetime or annual figure, fits a design document)",
+        "chosen": {
+          "value": "3,778,511 tCO2e",
+          "page": 2,
+          "score": 10.0,
+          "tags": [
+            "reductions",
+            "scope:lifetime",
+            "scope_explicit"
+          ],
+          "reasons": [
+            "quote describes (net) emission reductions",
+            "lifetime or annual figure, fits a design document"
+          ],
+          "number": 3778511.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The total eligible project area is 7372 ha. The proposed project activity started with planting activities in June 2021 with the beginning of the rainy season. Planting will continue for 4 years. The project is designed as a group project. The project represents an initial total "
+        },
+        "candidates": [
+          {
+            "value": "3,778,511 tCO2e",
+            "page": 2,
+            "score": 10.0,
+            "tags": [
+              "reductions",
+              "scope:lifetime",
+              "scope_explicit"
+            ],
+            "reasons": [
+              "quote describes (net) emission reductions",
+              "lifetime or annual figure, fits a design document"
+            ],
+            "number": 3778511.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The total eligible project area is 7372 ha. The proposed project activity started with planting activities in June 2021 with the beginning of the rainy season. Planting will continue for 4 years. The project is designed as a group project. The project represents an initial total "
+          },
+          {
+            "value": "188,926 tCO2e",
+            "page": 50,
+            "score": 10.0,
+            "tags": [
+              "reductions",
+              "scope:annual",
+              "scope_explicit"
+            ],
+            "reasons": [
+              "quote describes (net) emission reductions",
+              "lifetime or annual figure, fits a design document"
+            ],
+            "number": 188926.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The calculated long-term average GHG benefits of 3,778,511 tCO2e is most likely to be achieved within the 20 years crediting period from 01-June 2022 to 31-May-2042 resulting in an average annual GHG emission removal of 188,926 tCO2e."
+          },
+          {
+            "value": "0 tCO2e",
+            "page": 31,
+            "score": -14.0,
+            "tags": [
+              "wrong_field",
+              "scope:lifetime"
+            ],
+            "reasons": [
+              "zero fire / land-preparation emissions, not project reductions",
+              "lifetime or annual figure, fits a design document",
+              "zero value"
+            ],
+            "number": 0.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The project activities do not include the use of fire for land preparation activities as highlighted in the relevant tool. GHGE,t = 0"
+          }
+        ],
+        "annual": {
+          "value": "188,926 tCO2e",
+          "page": 50,
+          "score": 10.0,
+          "tags": [
+            "reductions",
+            "scope:annual",
+            "scope_explicit"
+          ],
+          "reasons": [
+            "quote describes (net) emission reductions",
+            "lifetime or annual figure, fits a design document"
+          ],
+          "number": 188926.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The calculated long-term average GHG benefits of 3,778,511 tCO2e is most likely to be achieved within the 20 years crediting period from 01-June 2022 to 31-May-2042 resulting in an average annual GHG emission removal of 188,926 tCO2e."
+        }
+      },
+      "crediting_period": {
+        "status": "resolved",
+        "reason": "chose 20 years (quote calls it the crediting period; stated crediting-period length)",
+        "chosen": {
+          "value": "20 years",
+          "page": 2,
+          "score": 13.0,
+          "tags": [
+            "crediting"
+          ],
+          "reasons": [
+            "quote calls it the crediting period",
+            "stated crediting-period length"
+          ],
+          "number": 20.0,
+          "unit": "years",
+          "per_year": false,
+          "years": 20.0,
+          "start": "2022-06-01",
+          "end": "2042-05-31",
+          "quote": "The total eligible project area is 7372 ha. The proposed project activity started with planting activities in June 2021 with the beginning of the rainy season. Planting will continue for 4 years. The project is designed as a group project. The project represents an initial total "
+        },
+        "candidates": [
+          {
+            "value": "20 years",
+            "page": 2,
+            "score": 13.0,
+            "tags": [
+              "crediting"
+            ],
+            "reasons": [
+              "quote calls it the crediting period",
+              "stated crediting-period length"
+            ],
+            "number": 20.0,
+            "unit": "years",
+            "per_year": false,
+            "years": 20.0,
+            "start": "2022-06-01",
+            "end": "2042-05-31",
+            "quote": "The total eligible project area is 7372 ha. The proposed project activity started with planting activities in June 2021 with the beginning of the rainy season. Planting will continue for 4 years. The project is designed as a group project. The project represents an initial total "
+          },
+          {
+            "value": "01-June 2022 to 31-May-2042",
+            "page": 50,
+            "score": 11.0,
+            "tags": [
+              "crediting"
+            ],
+            "reasons": [
+              "quote calls it the crediting period",
+              "full date range of a typical crediting length"
+            ],
+            "number": null,
+            "unit": "period",
+            "per_year": false,
+            "years": 20.0,
+            "start": "2022-06-01",
+            "end": "2042-05-31",
+            "quote": "The calculated long-term average GHG benefits of 3,778,511 tCO2e is most likely to be achieved within the 20 years crediting period from 01-June 2022 to 31-May-2042 resulting in an average annual GHG emission removal of 188,926 tCO2e."
+          }
+        ]
+      },
+      "permanence_buffer": {
+        "status": "not_stated",
+        "reason": "no buffer figure",
+        "chosen": null,
+        "candidates": []
+      },
+      "leakage": {
+        "status": "clean",
+        "reason": "chose 0 tCO2e (quote describes a leakage deduction; leakage stated as tCO2e)",
+        "chosen": {
+          "value": "0 tCO2e",
+          "page": 35,
+          "score": 9.0,
+          "tags": [
+            "leakage",
+            "mass"
+          ],
+          "reasons": [
+            "quote describes a leakage deduction",
+            "leakage stated as tCO2e"
+          ],
+          "number": 0.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "There is no displacement of agricultural activities, crop cultivation and / or grazing activities, that should result in an increase in GHG emissions. Hence leakage is considered as 0 LKt = 0"
+        },
+        "candidates": [
+          {
+            "value": "0 tCO2e",
+            "page": 35,
+            "score": 9.0,
+            "tags": [
+              "leakage",
+              "mass"
+            ],
+            "reasons": [
+              "quote describes a leakage deduction",
+              "leakage stated as tCO2e"
+            ],
+            "number": 0.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "There is no displacement of agricultural activities, crop cultivation and / or grazing activities, that should result in an increase in GHG emissions. Hence leakage is considered as 0 LKt = 0"
+          }
+        ]
+      }
+    },
+    "baseline_value": "not stated",
+    "additionality_value": "The project activity would not be a common practice in the geographical region of the assessment and is not the baseline scenario."
+  },
+  {
+    "stem": "562_Kasigau-I-Rukinga_PDD_2011-01-31",
+    "doc": "562_Kasigau-I-Rukinga_PDD_2011-01-31.txt",
+    "project_id": "562",
+    "title": "Kasigau I Rukinga PDD 2011 01 31",
+    "kind": "design",
+    "area_ha": 30168.66,
+    "area_value": "30,168.66 ha",
+    "area_status": "resolved",
+    "reductions_tco2e": null,
+    "reductions_value": "1,450,329 tonnes CO2e",
+    "reductions_scope": "period",
+    "reductions_status": "rejected",
+    "annual_tco2e": null,
+    "period_years": null,
+    "period_source": null,
+    "crediting_value": null,
+    "crediting_years": null,
+    "monitoring_value": null,
+    "monitoring_years": null,
+    "tco2e_ha_yr": null,
+    "intensity_basis": null,
+    "buffer_pct": null,
+    "buffer_tco2e": null,
+    "buffer_value": null,
+    "leakage_tco2e": 0.0,
+    "leakage_pct": 20.0,
+    "leakage_share": null,
+    "leakage_value": "0 tCO2e",
+    "net_tco2e": null,
+    "verdict": "FLAG",
+    "flags": [
+      "estimated_reductions value is described in its quote as baseline emissions (1,450,329 tonnes CO2e), not as net emission reductions"
+    ],
+    "notes": [
+      "area: chose 30,168.66 ha",
+      "leakage: chose 0 tCO2e (quote describes a leakage deduction; leakage stated as tCO2e)",
+      "leakage factor 20% (no tCO2e mass to combine)"
+    ],
+    "key_flag": "estimated_reductions value is described in its quote as baseline emissions (1,450,329 tonnes CO2e), not as net emission reductions",
+    "checks": [],
+    "resolution": {
+      "area": {
+        "status": "resolved",
+        "reason": "chose 30,168.66 ha",
+        "chosen": {
+          "value": "30,168.66 ha",
+          "page": 7,
+          "score": 0.0,
+          "tags": [],
+          "reasons": [],
+          "number": 30168.66,
+          "unit": "ha",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "This Phase I Project Document covers 100% of the land known as Rukinga Sanctuary (see map below) which is all that 74,516 acres (30,168.66 ha) of land originally known as Rukinga Ranch, LR 12263, historically reduced by subdivisions 12263/1 and 12263/2 at dates prior to the start"
+        },
+        "candidates": [
+          {
+            "value": "30,169",
+            "page": 65,
+            "score": 5.0,
+            "tags": [
+              "project_area"
+            ],
+            "reasons": [
+              "bare number, no hectare unit",
+              "quote calls it the project area"
+            ],
+            "number": 30169.0,
+            "unit": null,
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "Rukinga Sanctuary is 30,169 hectares of varying density Acacia-Commiphora woodland/forest located in the SE of Kenya."
+          },
+          {
+            "value": "30,168.66 ha",
+            "page": 7,
+            "score": 0.0,
+            "tags": [],
+            "reasons": [],
+            "number": 30168.66,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "This Phase I Project Document covers 100% of the land known as Rukinga Sanctuary (see map below) which is all that 74,516 acres (30,168.66 ha) of land originally known as Rukinga Ranch, LR 12263, historically reduced by subdivisions 12263/1 and 12263/2 at dates prior to the start"
+          }
+        ]
+      },
+      "estimated_reductions": {
+        "status": "rejected",
+        "reason": "quote describes baseline emissions, not reductions",
+        "chosen": {
+          "value": "1,450,329 tonnes CO2e",
+          "page": 52,
+          "score": -15.0,
+          "tags": [
+            "baseline_misfile",
+            "scope:period",
+            "scope_explicit"
+          ],
+          "reasons": [
+            "quote describes baseline emissions, not reductions"
+          ],
+          "number": 1450329.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The total estimated baseline emissions for the first monitoring period are 1,450,329 tonnes CO2e."
+        },
+        "candidates": [
+          {
+            "value": "1,450,329 tonnes CO2e",
+            "page": 52,
+            "score": -15.0,
+            "tags": [
+              "baseline_misfile",
+              "scope:period",
+              "scope_explicit"
+            ],
+            "reasons": [
+              "quote describes baseline emissions, not reductions"
+            ],
+            "number": 1450329.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The total estimated baseline emissions for the first monitoring period are 1,450,329 tonnes CO2e."
+          }
+        ]
+      },
+      "crediting_period": {
+        "status": "not_stated",
+        "reason": "no supported candidates",
+        "chosen": null,
+        "candidates": []
+      },
+      "permanence_buffer": {
+        "status": "not_stated",
+        "reason": "no buffer figure",
+        "chosen": null,
+        "candidates": []
+      },
+      "leakage": {
+        "status": "resolved",
+        "reason": "chose 0 tCO2e (quote describes a leakage deduction; leakage stated as tCO2e)",
+        "chosen": {
+          "value": "0 tCO2e",
+          "page": 62,
+          "score": 9.0,
+          "tags": [
+            "leakage",
+            "mass"
+          ],
+          "reasons": [
+            "quote describes a leakage deduction",
+            "leakage stated as tCO2e"
+          ],
+          "number": 0.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The estimated emissions from leakage are zero."
+        },
+        "candidates": [
+          {
+            "value": "0 tCO2e",
+            "page": 62,
+            "score": 9.0,
+            "tags": [
+              "leakage",
+              "mass"
+            ],
+            "reasons": [
+              "quote describes a leakage deduction",
+              "leakage stated as tCO2e"
+            ],
+            "number": 0.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The estimated emissions from leakage are zero."
+          }
+        ],
+        "rate": {
+          "value": "20",
+          "page": 64,
+          "score": 2.0,
+          "tags": [
+            "rate"
+          ],
+          "reasons": [
+            "bare number used as a leakage factor in the quote"
+          ],
+          "number": 20.0,
+          "unit": "percent",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "Applying this factor to gross NERs yields an estimate of total net NERs over the project lifetime of: Ex Ante NERs = 7,542,945 x 0.20"
+        }
+      }
+    },
+    "baseline_value": "slash and burn agriculture",
+    "additionality_value": "not stated"
+  },
+  {
+    "stem": "562_Kasigau-I-Rukinga_PD_short_2011-01-25",
+    "doc": "562_Kasigau-I-Rukinga_PD_short_2011-01-25.txt",
+    "project_id": "562",
+    "title": "Kasigau I Rukinga PD short 2011 01 25",
+    "kind": "design",
+    "area_ha": 30168.66,
+    "area_value": "30,168.66 ha",
+    "area_status": "clean",
+    "reductions_tco2e": null,
+    "reductions_value": null,
+    "reductions_scope": null,
+    "reductions_status": "not_stated",
+    "annual_tco2e": null,
+    "period_years": null,
+    "period_source": null,
+    "crediting_value": "2005-01-01 to 2034-12-31",
+    "crediting_years": 30.0,
+    "monitoring_value": null,
+    "monitoring_years": null,
+    "tco2e_ha_yr": null,
+    "intensity_basis": null,
+    "buffer_pct": null,
+    "buffer_tco2e": null,
+    "buffer_value": null,
+    "leakage_tco2e": null,
+    "leakage_pct": null,
+    "leakage_share": null,
+    "leakage_value": null,
+    "net_tco2e": null,
+    "verdict": "INSUFFICIENT DATA",
+    "flags": [],
+    "notes": [],
+    "key_flag": "missing estimated reductions",
+    "checks": [],
+    "resolution": {
+      "area": {
+        "status": "clean",
+        "reason": "chose 30,168.66 ha (quote calls it the project area)",
+        "chosen": {
+          "value": "30,168.66 ha",
+          "page": 3,
+          "score": 6.0,
+          "tags": [
+            "project_area"
+          ],
+          "reasons": [
+            "quote calls it the project area"
+          ],
+          "number": 30168.66,
+          "unit": "ha",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "Rukinga Sanctuary (the project area) is 30,168.66 ha."
+        },
+        "candidates": [
+          {
+            "value": "30,168.66 ha",
+            "page": 3,
+            "score": 6.0,
+            "tags": [
+              "project_area"
+            ],
+            "reasons": [
+              "quote calls it the project area"
+            ],
+            "number": 30168.66,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "Rukinga Sanctuary (the project area) is 30,168.66 ha."
+          }
+        ]
+      },
+      "estimated_reductions": {
+        "status": "not_stated",
+        "reason": "no supported candidates",
+        "chosen": null,
+        "candidates": []
+      },
+      "crediting_period": {
+        "status": "clean",
+        "reason": "chose 2005-01-01 to 2034-12-31 (quote calls it the crediting period; full date range of a typical crediting length)",
+        "chosen": {
+          "value": "2005-01-01 to 2034-12-31",
+          "page": 10,
+          "score": 11.0,
+          "tags": [
+            "crediting"
+          ],
+          "reasons": [
+            "quote calls it the crediting period",
+            "full date range of a typical crediting length"
+          ],
+          "number": null,
+          "unit": "period",
+          "per_year": false,
+          "years": 30.0,
+          "start": "2005-01-01",
+          "end": "2034-12-31",
+          "quote": "Project Start Date and Crediting Period Start Date are both January 1st 2005, and Project end Date is December 31st 2034."
+        },
+        "candidates": [
+          {
+            "value": "2005-01-01 to 2034-12-31",
+            "page": 10,
+            "score": 11.0,
+            "tags": [
+              "crediting"
+            ],
+            "reasons": [
+              "quote calls it the crediting period",
+              "full date range of a typical crediting length"
+            ],
+            "number": null,
+            "unit": "period",
+            "per_year": false,
+            "years": 30.0,
+            "start": "2005-01-01",
+            "end": "2034-12-31",
+            "quote": "Project Start Date and Crediting Period Start Date are both January 1st 2005, and Project end Date is December 31st 2034."
+          }
+        ]
+      },
+      "permanence_buffer": {
+        "status": "not_stated",
+        "reason": "no buffer figure",
+        "chosen": null,
+        "candidates": []
+      },
+      "leakage": {
+        "status": "not_stated",
+        "reason": "no supported candidates",
+        "chosen": null,
+        "candidates": []
+      }
+    },
+    "baseline_value": "not stated",
+    "additionality_value": "not stated"
+  },
+  {
+    "stem": "612_Kasigau-II-Community-Ranches_MR-M9_2022",
+    "doc": "612_Kasigau-II-Community-Ranches_MR-M9_2022.txt",
+    "project_id": "612",
+    "title": "Kasigau II Community Ranches MR M9 2022",
+    "kind": "monitoring",
+    "area_ha": 169741.0,
+    "area_value": "169,741 hectares",
+    "area_status": "resolved",
+    "reductions_tco2e": 1642971.0,
+    "reductions_value": "1,642,971 t CO2e",
+    "reductions_scope": "period",
+    "reductions_status": "resolved",
+    "annual_tco2e": 1642971.0,
+    "period_years": 1.0,
+    "period_source": "monitoring / verification window",
+    "crediting_value": "2010-2039",
+    "crediting_years": 30.0,
+    "monitoring_value": "2022",
+    "monitoring_years": 1.0,
+    "tco2e_ha_yr": 9.6793,
+    "intensity_basis": "period / area / monitoring / verification window",
+    "buffer_pct": 13.0,
+    "buffer_tco2e": 245501.0,
+    "buffer_value": "245,501 tCO2e",
+    "leakage_tco2e": null,
+    "leakage_pct": null,
+    "leakage_share": null,
+    "leakage_value": null,
+    "net_tco2e": 1642971.0,
+    "verdict": "PASS",
+    "flags": [],
+    "notes": [
+      "area: chose 169,741 hectares (quote calls it the project area)",
+      "reductions: chose 1,642,971 t CO2e (quote describes (net) emission reductions; figure is for this monitoring period)",
+      "period: chose 2010-2039 (quote calls it the crediting period; year-year span of a typical crediting length)",
+      "implied buffer rate 13.0% (buffer / (buffer + reductions))",
+      "chosen reductions look like they are already net of the buffer (rate fits buffer / (buffer + reductions))",
+      "chosen reductions already look like a net/issuance figure after the buffer; not subtracting the buffer again"
+    ],
+    "key_flag": "",
+    "checks": [
+      {
+        "name": "intensity",
+        "ok": true,
+        "detail": "9.68 tCO2e/ha/yr (period / area / monitoring / verification window); screening band 0.5-30"
+      },
+      {
+        "name": "buffer_range",
+        "ok": true,
+        "detail": "13.0% ; VCS AFOLU non-permanence tool allows 10-60%"
+      }
+    ],
+    "resolution": {
+      "area": {
+        "status": "resolved",
+        "reason": "chose 169,741 hectares (quote calls it the project area)",
+        "chosen": {
+          "value": "169,741 hectares",
+          "page": 58,
+          "score": 6.0,
+          "tags": [
+            "project_area"
+          ],
+          "reasons": [
+            "quote calls it the project area"
+          ],
+          "number": 169741.0,
+          "unit": "ha",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "Area of Project Area"
+        },
+        "candidates": [
+          {
+            "value": "169,741 hectares",
+            "page": 58,
+            "score": 6.0,
+            "tags": [
+              "project_area"
+            ],
+            "reasons": [
+              "quote calls it the project area"
+            ],
+            "number": 169741.0,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "Area of Project Area"
+          },
+          {
+            "value": "5076 ha, 5076 ha, 1,030 ha",
+            "page": 20,
+            "score": -8.0,
+            "tags": [
+              "composite"
+            ],
+            "reasons": [
+              "lists several component parcels, not a single project area"
+            ],
+            "number": 5076.0,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "Choke Ranch, which is 5076 ha known as L.R. 12199/3 and owned by Raymond Joel Mwangola a local shareholder • Kutima Ranch, which is 5076 ha known as L.R. 12199/4 and owned by Kutima Investments Limited, a collection of indigenous local shareholders • Marungu Hills Conservancy Are"
+          }
+        ]
+      },
+      "estimated_reductions": {
+        "status": "resolved",
+        "reason": "chose 1,642,971 t CO2e (quote describes (net) emission reductions; figure is for this monitoring period)",
+        "chosen": {
+          "value": "1,642,971 t CO2e",
+          "page": 18,
+          "score": 10.0,
+          "tags": [
+            "reductions",
+            "scope:period",
+            "scope_explicit"
+          ],
+          "reasons": [
+            "quote describes (net) emission reductions",
+            "figure is for this monitoring period"
+          ],
+          "number": 1642971.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The total GHG emission reductions for this (M9) monitoring period are 1,642,971 t CO2e."
+        },
+        "candidates": [
+          {
+            "value": "1,642,971 t CO2e",
+            "page": 18,
+            "score": 10.0,
+            "tags": [
+              "reductions",
+              "scope:period",
+              "scope_explicit"
+            ],
+            "reasons": [
+              "quote describes (net) emission reductions",
+              "figure is for this monitoring period"
+            ],
+            "number": 1642971.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The total GHG emission reductions for this (M9) monitoring period are 1,642,971 t CO2e."
+          },
+          {
+            "value": "18,163,638 tCO2e",
+            "page": 26,
+            "score": 7.0,
+            "tags": [
+              "reductions",
+              "scope:cumulative",
+              "scope_explicit"
+            ],
+            "reasons": [
+              "quote describes (net) emission reductions",
+              "cumulative / to-date figure (kept as context)"
+            ],
+            "number": 18163638.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "To date the KCRPII project has led to 18,163,638 tCO2e of net estimated emission reductions in the Project Area, measured against the without-project scenario."
+          },
+          {
+            "value": "20,948,108 t CO2e",
+            "page": 133,
+            "score": 1.0,
+            "tags": [
+              "scope:period"
+            ],
+            "reasons": [
+              "treated as a period figure because this is an MR / verification"
+            ],
+            "number": 20948108.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "20,948,108 t CO2e"
+          }
+        ],
+        "cumulative": {
+          "value": "18,163,638 tCO2e",
+          "page": 26,
+          "score": 7.0,
+          "tags": [
+            "reductions",
+            "scope:cumulative",
+            "scope_explicit"
+          ],
+          "reasons": [
+            "quote describes (net) emission reductions",
+            "cumulative / to-date figure (kept as context)"
+          ],
+          "number": 18163638.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "To date the KCRPII project has led to 18,163,638 tCO2e of net estimated emission reductions in the Project Area, measured against the without-project scenario."
+        }
+      },
+      "crediting_period": {
+        "status": "resolved",
+        "reason": "chose 2010-2039 (quote calls it the crediting period; year-year span of a typical crediting length)",
+        "chosen": {
+          "value": "2010-2039",
+          "page": 19,
+          "score": 11.0,
+          "tags": [
+            "crediting"
+          ],
+          "reasons": [
+            "quote calls it the crediting period",
+            "year-year span of a typical crediting length"
+          ],
+          "number": null,
+          "unit": "period",
+          "per_year": false,
+          "years": 30.0,
+          "start": "2010-01-01",
+          "end": "2039-12-31",
+          "quote": "The Project crediting period started on January 1st, 2010 and will end on December 31st, 2039 (30 years)."
+        },
+        "candidates": [
+          {
+            "value": "2010-2039",
+            "page": 19,
+            "score": 11.0,
+            "tags": [
+              "crediting"
+            ],
+            "reasons": [
+              "quote calls it the crediting period",
+              "year-year span of a typical crediting length"
+            ],
+            "number": null,
+            "unit": "period",
+            "per_year": false,
+            "years": 30.0,
+            "start": "2010-01-01",
+            "end": "2039-12-31",
+            "quote": "The Project crediting period started on January 1st, 2010 and will end on December 31st, 2039 (30 years)."
+          },
+          {
+            "value": "2022",
+            "page": 164,
+            "score": -2.0,
+            "tags": [
+              "monitoring"
+            ],
+            "reasons": [
+              "a single reporting year, not a crediting period"
+            ],
+            "number": null,
+            "unit": "period",
+            "per_year": false,
+            "years": 1.0,
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "quote": "The reporting period 2022 for the KCRPII Project Zone."
+          }
+        ],
+        "monitoring": {
+          "value": "2022",
+          "page": 164,
+          "score": -2.0,
+          "tags": [
+            "monitoring"
+          ],
+          "reasons": [
+            "a single reporting year, not a crediting period"
+          ],
+          "number": null,
+          "unit": "period",
+          "per_year": false,
+          "years": 1.0,
+          "start": "2022-01-01",
+          "end": "2022-12-31",
+          "quote": "The reporting period 2022 for the KCRPII Project Zone."
+        }
+      },
+      "permanence_buffer": {
+        "status": "clean",
+        "reason": "chose 245,501 tCO2e (buffer stated as a tCO2e withholding)",
+        "chosen": {
+          "value": "245,501 tCO2e",
+          "page": 140,
+          "score": 3.0,
+          "tags": [
+            "mass"
+          ],
+          "reasons": [
+            "buffer stated as a tCO2e withholding"
+          ],
+          "number": 245501.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "Buffer = 245,501 t CO2e"
+        },
+        "candidates": [
+          {
+            "value": "245,501 tCO2e",
+            "page": 140,
+            "score": 3.0,
+            "tags": [
+              "mass"
+            ],
+            "reasons": [
+              "buffer stated as a tCO2e withholding"
+            ],
+            "number": 245501.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "Buffer = 245,501 t CO2e"
+          }
+        ],
+        "mass": {
+          "value": "245,501 tCO2e",
+          "page": 140,
+          "score": 3.0,
+          "tags": [
+            "mass"
+          ],
+          "reasons": [
+            "buffer stated as a tCO2e withholding"
+          ],
+          "number": 245501.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "Buffer = 245,501 t CO2e"
+        }
+      },
+      "leakage": {
+        "status": "not_stated",
+        "reason": "no supported candidates",
+        "chosen": null,
+        "candidates": []
+      }
+    },
+    "baseline_value": "deforestation due to unplanned agricultural expansion by subsistence farmers",
+    "additionality_value": "not stated"
+  },
+  {
+    "stem": "612_Kasigau-II-Community-Ranches_PD_excerpt",
+    "doc": "612_Kasigau-II-Community-Ranches_PD_excerpt.txt",
+    "project_id": "612",
+    "title": "Kasigau II Community Ranches PD excerpt",
+    "kind": "design",
+    "area_ha": 169741.0,
+    "area_value": "169,741 hectares",
+    "area_status": "clean",
+    "reductions_tco2e": 14883342.0,
+    "reductions_value": "14,883,342 tCO2e",
+    "reductions_scope": "period",
+    "reductions_status": "clean",
+    "annual_tco2e": null,
+    "period_years": null,
+    "period_source": null,
+    "crediting_value": null,
+    "crediting_years": null,
+    "monitoring_value": null,
+    "monitoring_years": null,
+    "tco2e_ha_yr": null,
+    "intensity_basis": null,
+    "buffer_pct": null,
+    "buffer_tco2e": null,
+    "buffer_value": null,
+    "leakage_tco2e": null,
+    "leakage_pct": null,
+    "leakage_share": null,
+    "leakage_value": null,
+    "net_tco2e": null,
+    "verdict": "INSUFFICIENT DATA",
+    "flags": [],
+    "notes": [],
+    "key_flag": "missing period length (cannot form tCO2e/ha/yr)",
+    "checks": [],
+    "resolution": {
+      "area": {
+        "status": "clean",
+        "reason": "chose 169,741 hectares (quote gives the Phase II project total)",
+        "chosen": {
+          "value": "169,741 hectares",
+          "page": 2,
+          "score": 5.0,
+          "tags": [
+            "project_area"
+          ],
+          "reasons": [
+            "quote gives the Phase II project total"
+          ],
+          "number": 169741.0,
+          "unit": "ha",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The 13 blocks of land covered under this Phase II of the Kasigau Corridor REDD Project total 169,741 hectares and are;"
+        },
+        "candidates": [
+          {
+            "value": "169,741 hectares",
+            "page": 2,
+            "score": 5.0,
+            "tags": [
+              "project_area"
+            ],
+            "reasons": [
+              "quote gives the Phase II project total"
+            ],
+            "number": 169741.0,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The 13 blocks of land covered under this Phase II of the Kasigau Corridor REDD Project total 169,741 hectares and are;"
+          }
+        ]
+      },
+      "estimated_reductions": {
+        "status": "clean",
+        "reason": "chose 14,883,342 tCO2e (quote describes (net) emission reductions)",
+        "chosen": {
+          "value": "14,883,342 tCO2e",
+          "page": 4,
+          "score": 6.0,
+          "tags": [
+            "reductions",
+            "scope:period",
+            "scope_explicit"
+          ],
+          "reasons": [
+            "quote describes (net) emission reductions"
+          ],
+          "number": 14883342.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The Project’s climate benefits include the avoided emission of 14,883,342 tCO2e during this first monitoring period."
+        },
+        "candidates": [
+          {
+            "value": "14,883,342 tCO2e",
+            "page": 4,
+            "score": 6.0,
+            "tags": [
+              "reductions",
+              "scope:period",
+              "scope_explicit"
+            ],
+            "reasons": [
+              "quote describes (net) emission reductions"
+            ],
+            "number": 14883342.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The Project’s climate benefits include the avoided emission of 14,883,342 tCO2e during this first monitoring period."
+          }
+        ]
+      },
+      "crediting_period": {
+        "status": "not_stated",
+        "reason": "no supported candidates",
+        "chosen": null,
+        "candidates": []
+      },
+      "permanence_buffer": {
+        "status": "not_stated",
+        "reason": "no buffer figure",
+        "chosen": null,
+        "candidates": []
+      },
+      "leakage": {
+        "status": "not_stated",
+        "reason": "no supported candidates",
+        "chosen": null,
+        "candidates": []
+      }
+    },
+    "baseline_value": "not stated",
+    "additionality_value": "not stated"
+  },
+  {
+    "stem": "612_Kasigau-II-Community-Ranches_Verification_2024",
+    "doc": "612_Kasigau-II-Community-Ranches_Verification_2024.txt",
+    "project_id": "612",
+    "title": "Kasigau II Community Ranches Verification 2024",
+    "kind": "monitoring",
+    "area_ha": 169741.0,
+    "area_value": "169,741 hectares",
+    "area_status": "clean",
+    "reductions_tco2e": 1642971.0,
+    "reductions_value": "1,642,971 tCO2e",
+    "reductions_scope": "period",
+    "reductions_status": "resolved",
+    "annual_tco2e": 1642971.0,
+    "period_years": 1.0,
+    "period_source": "monitoring / verification window",
+    "crediting_value": null,
+    "crediting_years": null,
+    "monitoring_value": "1 year",
+    "monitoring_years": 1.0,
+    "tco2e_ha_yr": 9.6793,
+    "intensity_basis": "period / area / monitoring / verification window",
+    "buffer_pct": 13.0,
+    "buffer_tco2e": null,
+    "buffer_value": "13%",
+    "leakage_tco2e": null,
+    "leakage_pct": null,
+    "leakage_share": null,
+    "leakage_value": null,
+    "net_tco2e": 1642971.0,
+    "verdict": "PASS",
+    "flags": [],
+    "notes": [
+      "reductions: chose 1,642,971 tCO2e (issuance figure after the buffer withholding; treated as a period figure because this is an MR / verification)",
+      "chosen reductions already look like a net/issuance figure after the buffer; not subtracting the buffer again"
+    ],
+    "key_flag": "",
+    "checks": [
+      {
+        "name": "intensity",
+        "ok": true,
+        "detail": "9.68 tCO2e/ha/yr (period / area / monitoring / verification window); screening band 0.5-30"
+      },
+      {
+        "name": "buffer_range",
+        "ok": true,
+        "detail": "13.0% ; VCS AFOLU non-permanence tool allows 10-60%"
+      }
+    ],
+    "resolution": {
+      "area": {
+        "status": "clean",
+        "reason": "chose 169,741 hectares (quote gives the Phase II project total)",
+        "chosen": {
+          "value": "169,741 hectares",
+          "page": 6,
+          "score": 5.0,
+          "tags": [
+            "project_area"
+          ],
+          "reasons": [
+            "quote gives the Phase II project total"
+          ],
+          "number": 169741.0,
+          "unit": "ha",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The 13 blocks of land covered under this Phase II of the Kasigau Corridor REDD Project total 169,741 hectares and are; Taita Ranch, which is 35,612 ha known as LR 12264 owned by Taita Ranching Company Ltd a collection of indigenous local shareholders."
+        },
+        "candidates": [
+          {
+            "value": "169,741 hectares",
+            "page": 6,
+            "score": 5.0,
+            "tags": [
+              "project_area"
+            ],
+            "reasons": [
+              "quote gives the Phase II project total"
+            ],
+            "number": 169741.0,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The 13 blocks of land covered under this Phase II of the Kasigau Corridor REDD Project total 169,741 hectares and are; Taita Ranch, which is 35,612 ha known as LR 12264 owned by Taita Ranching Company Ltd a collection of indigenous local shareholders."
+          }
+        ]
+      },
+      "estimated_reductions": {
+        "status": "resolved",
+        "reason": "chose 1,642,971 tCO2e (issuance figure after the buffer withholding; treated as a period figure because this is an MR / verification)",
+        "chosen": {
+          "value": "1,642,971 tCO2e",
+          "page": 3,
+          "score": 3.0,
+          "tags": [
+            "issuance_net",
+            "scope:period"
+          ],
+          "reasons": [
+            "issuance figure after the buffer withholding",
+            "treated as a period figure because this is an MR / verification"
+          ],
+          "number": 1642971.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The GHG assertion provided by Wildlife Works and verified by AENOR has resulted in the gross GHG emissions reductions of 1,888,472 tCO2e over this second monitoring period (01 January 2022 – 31 December 2022 - 1 year) and 18,163,638 tCO2e since the project start date. Considering"
+        },
+        "candidates": [
+          {
+            "value": "1,642,971 tCO2e",
+            "page": 3,
+            "score": 3.0,
+            "tags": [
+              "issuance_net",
+              "scope:period"
+            ],
+            "reasons": [
+              "issuance figure after the buffer withholding",
+              "treated as a period figure because this is an MR / verification"
+            ],
+            "number": 1642971.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The GHG assertion provided by Wildlife Works and verified by AENOR has resulted in the gross GHG emissions reductions of 1,888,472 tCO2e over this second monitoring period (01 January 2022 – 31 December 2022 - 1 year) and 18,163,638 tCO2e since the project start date. Considering"
+          },
+          {
+            "value": "18,163,638 tCO2e",
+            "page": 46,
+            "score": 1.0,
+            "tags": [
+              "scope:period"
+            ],
+            "reasons": [
+              "treated as a period figure because this is an MR / verification"
+            ],
+            "number": 18163638.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The Project has produced 18,163,638 tCO2e of net emission reductions from avoided deforestation compared to the reference level (cumulative value)"
+          }
+        ]
+      },
+      "crediting_period": {
+        "status": "not_stated",
+        "reason": "no crediting-period candidate",
+        "chosen": null,
+        "candidates": [
+          {
+            "value": "1 year",
+            "page": 3,
+            "score": 6.0,
+            "tags": [
+              "monitoring"
+            ],
+            "reasons": [
+              "quote calls it a monitoring / verification window",
+              "1-year duration on a verification/MR, treated as monitoring"
+            ],
+            "number": 1.0,
+            "unit": "years",
+            "per_year": false,
+            "years": 1.0,
+            "start": null,
+            "end": null,
+            "quote": "The GHG assertion provided by Wildlife Works and verified by AENOR has resulted in the gross GHG emissions reductions of 1,888,472 tCO2e over this second monitoring period (01 January 2022 – 31 December 2022 - 1 year) and 18,163,638 tCO2e since the project start date."
+          }
+        ],
+        "monitoring": {
+          "value": "1 year",
+          "page": 3,
+          "score": 6.0,
+          "tags": [
+            "monitoring"
+          ],
+          "reasons": [
+            "quote calls it a monitoring / verification window",
+            "1-year duration on a verification/MR, treated as monitoring"
+          ],
+          "number": 1.0,
+          "unit": "years",
+          "per_year": false,
+          "years": 1.0,
+          "start": null,
+          "end": null,
+          "quote": "The GHG assertion provided by Wildlife Works and verified by AENOR has resulted in the gross GHG emissions reductions of 1,888,472 tCO2e over this second monitoring period (01 January 2022 – 31 December 2022 - 1 year) and 18,163,638 tCO2e since the project start date."
+        }
+      },
+      "permanence_buffer": {
+        "status": "clean",
+        "reason": "chose 13% (buffer stated as a percentage (the risk rating); 13% is inside the VCS AFOLU 10-60% range; quote refers to the non-permanence buffer)",
+        "chosen": {
+          "value": "13%",
+          "page": 3,
+          "score": 11.0,
+          "tags": [
+            "rate"
+          ],
+          "reasons": [
+            "buffer stated as a percentage (the risk rating)",
+            "13% is inside the VCS AFOLU 10-60% range",
+            "quote refers to the non-permanence buffer"
+          ],
+          "number": 13.0,
+          "unit": "percent",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "Considering a 13% buffer withholding, based on the non-permanence risk assessment tool, and associated leakage allocation, this results in 1,642,971 tCO2e of credits eligible for issuance as VCUs."
+        },
+        "candidates": [
+          {
+            "value": "13%",
+            "page": 3,
+            "score": 11.0,
+            "tags": [
+              "rate"
+            ],
+            "reasons": [
+              "buffer stated as a percentage (the risk rating)",
+              "13% is inside the VCS AFOLU 10-60% range",
+              "quote refers to the non-permanence buffer"
+            ],
+            "number": 13.0,
+            "unit": "percent",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "Considering a 13% buffer withholding, based on the non-permanence risk assessment tool, and associated leakage allocation, this results in 1,642,971 tCO2e of credits eligible for issuance as VCUs."
+          }
+        ],
+        "rate": {
+          "value": "13%",
+          "page": 3,
+          "score": 11.0,
+          "tags": [
+            "rate"
+          ],
+          "reasons": [
+            "buffer stated as a percentage (the risk rating)",
+            "13% is inside the VCS AFOLU 10-60% range",
+            "quote refers to the non-permanence buffer"
+          ],
+          "number": 13.0,
+          "unit": "percent",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "Considering a 13% buffer withholding, based on the non-permanence risk assessment tool, and associated leakage allocation, this results in 1,642,971 tCO2e of credits eligible for issuance as VCUs."
+        }
+      },
+      "leakage": {
+        "status": "not_stated",
+        "reason": "no supported candidates",
+        "chosen": null,
+        "candidates": []
+      }
+    },
+    "baseline_value": "not stated",
+    "additionality_value": "not stated"
+  },
+  {
+    "stem": "934_Mai-Ndombe_MR-M4_2021",
+    "doc": "934_Mai-Ndombe_MR-M4_2021.txt",
+    "project_id": "934",
+    "title": "Mai Ndombe MR M4 2021",
+    "kind": "monitoring",
+    "area_ha": 248956.0,
+    "area_value": "248,956 ha",
+    "area_status": "resolved",
+    "reductions_tco2e": 7753754.0,
+    "reductions_value": "7,753,754",
+    "reductions_scope": "period",
+    "reductions_status": "clean",
+    "annual_tco2e": 7753754.0,
+    "period_years": 1.0,
+    "period_source": "monitoring / verification window",
+    "crediting_value": "14 March 2011 – 13 March 2041",
+    "crediting_years": 30.0,
+    "monitoring_value": "2021",
+    "monitoring_years": 1.0,
+    "tco2e_ha_yr": 31.1451,
+    "intensity_basis": "period / area / monitoring / verification window",
+    "buffer_pct": 10.0,
+    "buffer_tco2e": null,
+    "buffer_value": "10%",
+    "leakage_tco2e": 34325.0,
+    "leakage_pct": null,
+    "leakage_share": 0.0044,
+    "leakage_value": "34,325 tCO2e",
+    "net_tco2e": 6944053.6,
+    "verdict": "FLAG",
+    "flags": [
+      "31.15 tCO2e/ha/yr is outside the screening band 0.5-30 tCO2e/ha/yr"
+    ],
+    "notes": [
+      "area: chose 248,956 ha (quote calls it the project accounting area)",
+      "period: chose 14 March 2011 – 13 March 2041 (quote calls it the crediting period; full date range of a typical crediting length)",
+      "leakage: chose 34,325 tCO2e (quote describes a leakage deduction; leakage stated as tCO2e)",
+      "leakage is 0.4% of chosen reductions",
+      "net = 7,753,754 - leakage 34,325.0 - buffer 775,375.4 = 6,944,053.6 tCO2e"
+    ],
+    "key_flag": "31.15 tCO2e/ha/yr is outside the screening band 0.5-30 tCO2e/ha/yr",
+    "checks": [
+      {
+        "name": "intensity",
+        "ok": false,
+        "detail": "31.15 tCO2e/ha/yr (period / area / monitoring / verification window); screening band 0.5-30"
+      },
+      {
+        "name": "buffer_range",
+        "ok": true,
+        "detail": "10.0% ; VCS AFOLU non-permanence tool allows 10-60%"
+      },
+      {
+        "name": "leakage_share",
+        "ok": true,
+        "detail": "34,325 tCO2e is 0.4% of chosen reductions"
+      }
+    ],
+    "resolution": {
+      "area": {
+        "status": "resolved",
+        "reason": "chose 248,956 ha (quote calls it the project accounting area)",
+        "chosen": {
+          "value": "248,956 ha",
+          "page": 111,
+          "score": 7.0,
+          "tags": [
+            "accounting_area"
+          ],
+          "reasons": [
+            "quote calls it the project accounting area"
+          ],
+          "number": 248956.0,
+          "unit": "ha",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "accounting area; 248,956 ha"
+        },
+        "candidates": [
+          {
+            "value": "248,956 ha",
+            "page": 111,
+            "score": 7.0,
+            "tags": [
+              "accounting_area"
+            ],
+            "reasons": [
+              "quote calls it the project accounting area"
+            ],
+            "number": 248956.0,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "accounting area; 248,956 ha"
+          },
+          {
+            "value": "299,645 hectares",
+            "page": 14,
+            "score": 0.0,
+            "tags": [],
+            "reasons": [],
+            "number": 299645.0,
+            "unit": "ha",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The conservation concession covers 299,645 hectares (ha) of terra firma forest (upland non-inundated forests), swamp forest (inundated and seasonally inundated forests), savanna, and inundated grassland."
+          }
+        ]
+      },
+      "estimated_reductions": {
+        "status": "clean",
+        "reason": "chose 7,753,754 (bare number, unit assumed tCO2e from the field; quote describes (net) emission reductions; figure is for this monitoring period)",
+        "chosen": {
+          "value": "7,753,754",
+          "page": 13,
+          "score": 9.0,
+          "tags": [
+            "reductions",
+            "scope:period",
+            "scope_explicit"
+          ],
+          "reasons": [
+            "bare number, unit assumed tCO2e from the field",
+            "quote describes (net) emission reductions",
+            "figure is for this monitoring period"
+          ],
+          "number": 7753754.0,
+          "unit": null,
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The MNRP reduced 7,753,754 tonnes of CO2e throughout the PAA during M4."
+        },
+        "candidates": [
+          {
+            "value": "7,753,754",
+            "page": 13,
+            "score": 9.0,
+            "tags": [
+              "reductions",
+              "scope:period",
+              "scope_explicit"
+            ],
+            "reasons": [
+              "bare number, unit assumed tCO2e from the field",
+              "quote describes (net) emission reductions",
+              "figure is for this monitoring period"
+            ],
+            "number": 7753754.0,
+            "unit": null,
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The MNRP reduced 7,753,754 tonnes of CO2e throughout the PAA during M4."
+          }
+        ]
+      },
+      "crediting_period": {
+        "status": "resolved",
+        "reason": "chose 14 March 2011 – 13 March 2041 (quote calls it the crediting period; full date range of a typical crediting length)",
+        "chosen": {
+          "value": "14 March 2011 – 13 March 2041",
+          "page": 14,
+          "score": 11.0,
+          "tags": [
+            "crediting"
+          ],
+          "reasons": [
+            "quote calls it the crediting period",
+            "full date range of a typical crediting length"
+          ],
+          "number": null,
+          "unit": "period",
+          "per_year": false,
+          "years": 30.0,
+          "start": "2011-03-14",
+          "end": "2041-03-13",
+          "quote": "The Project crediting period is 14 March 2011 – 13 March 2041. The crediting period is 30 years in length."
+        },
+        "candidates": [
+          {
+            "value": "14 March 2011 – 13 March 2041",
+            "page": 14,
+            "score": 11.0,
+            "tags": [
+              "crediting"
+            ],
+            "reasons": [
+              "quote calls it the crediting period",
+              "full date range of a typical crediting length"
+            ],
+            "number": null,
+            "unit": "period",
+            "per_year": false,
+            "years": 30.0,
+            "start": "2011-03-14",
+            "end": "2041-03-13",
+            "quote": "The Project crediting period is 14 March 2011 – 13 March 2041. The crediting period is 30 years in length."
+          },
+          {
+            "value": "2021",
+            "page": 119,
+            "score": 3.0,
+            "tags": [
+              "monitoring"
+            ],
+            "reasons": [
+              "quote calls it a monitoring / verification window",
+              "a single reporting year, not a crediting period"
+            ],
+            "number": null,
+            "unit": "period",
+            "per_year": false,
+            "years": 1.0,
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "quote": "For this 4th monitoring period, which extends from 1 January 2021 to 31 December 2021, we measured 55 plots, representing 33.7% of the 163 plots."
+          },
+          {
+            "value": "2011-2021",
+            "page": 47,
+            "score": 0.0,
+            "tags": [],
+            "reasons": [],
+            "number": null,
+            "unit": "period",
+            "per_year": false,
+            "years": 11.0,
+            "start": "2011-01-01",
+            "end": "2021-12-31",
+            "quote": "All measurements were made between 2011 and 2021."
+          }
+        ],
+        "monitoring": {
+          "value": "2021",
+          "page": 119,
+          "score": 3.0,
+          "tags": [
+            "monitoring"
+          ],
+          "reasons": [
+            "quote calls it a monitoring / verification window",
+            "a single reporting year, not a crediting period"
+          ],
+          "number": null,
+          "unit": "period",
+          "per_year": false,
+          "years": 1.0,
+          "start": "2021-01-01",
+          "end": "2021-12-31",
+          "quote": "For this 4th monitoring period, which extends from 1 January 2021 to 31 December 2021, we measured 55 plots, representing 33.7% of the 163 plots."
+        }
+      },
+      "permanence_buffer": {
+        "status": "clean",
+        "reason": "chose 10% (buffer stated as a percentage (the risk rating); 10% is inside the VCS AFOLU 10-60% range; quote refers to the non-permanence buffer)",
+        "chosen": {
+          "value": "10%",
+          "page": 128,
+          "score": 11.0,
+          "tags": [
+            "rate"
+          ],
+          "reasons": [
+            "buffer stated as a percentage (the risk rating)",
+            "10% is inside the VCS AFOLU 10-60% range",
+            "quote refers to the non-permanence buffer"
+          ],
+          "number": 10.0,
+          "unit": "percent",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The buffer account allocation for the MNRP is calculated according to the requirements stated in the VCS Standard Version 4.4, VCS Registration and Issuance Process Version 3.4, and the VCS Non-Permanence Risk Tool Version 4.0."
+        },
+        "candidates": [
+          {
+            "value": "10%",
+            "page": 128,
+            "score": 11.0,
+            "tags": [
+              "rate"
+            ],
+            "reasons": [
+              "buffer stated as a percentage (the risk rating)",
+              "10% is inside the VCS AFOLU 10-60% range",
+              "quote refers to the non-permanence buffer"
+            ],
+            "number": 10.0,
+            "unit": "percent",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "The buffer account allocation for the MNRP is calculated according to the requirements stated in the VCS Standard Version 4.4, VCS Registration and Issuance Process Version 3.4, and the VCS Non-Permanence Risk Tool Version 4.0."
+          }
+        ],
+        "rate": {
+          "value": "10%",
+          "page": 128,
+          "score": 11.0,
+          "tags": [
+            "rate"
+          ],
+          "reasons": [
+            "buffer stated as a percentage (the risk rating)",
+            "10% is inside the VCS AFOLU 10-60% range",
+            "quote refers to the non-permanence buffer"
+          ],
+          "number": 10.0,
+          "unit": "percent",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "The buffer account allocation for the MNRP is calculated according to the requirements stated in the VCS Standard Version 4.4, VCS Registration and Issuance Process Version 3.4, and the VCS Non-Permanence Risk Tool Version 4.0."
+        }
+      },
+      "leakage": {
+        "status": "resolved",
+        "reason": "chose 34,325 tCO2e (quote describes a leakage deduction; leakage stated as tCO2e)",
+        "chosen": {
+          "value": "34,325 tCO2e",
+          "page": 125,
+          "score": 9.0,
+          "tags": [
+            "leakage",
+            "mass"
+          ],
+          "reasons": [
+            "quote describes a leakage deduction",
+            "leakage stated as tCO2e"
+          ],
+          "number": 34325.0,
+          "unit": "tco2e",
+          "per_year": false,
+          "years": null,
+          "start": null,
+          "end": null,
+          "quote": "For 2021 it was determined that there were emissions from activity-shifting leakage of 34,325 t CO2e."
+        },
+        "candidates": [
+          {
+            "value": "34,325 tCO2e",
+            "page": 125,
+            "score": 9.0,
+            "tags": [
+              "leakage",
+              "mass"
+            ],
+            "reasons": [
+              "quote describes a leakage deduction",
+              "leakage stated as tCO2e"
+            ],
+            "number": 34325.0,
+            "unit": "tco2e",
+            "per_year": false,
+            "years": null,
+            "start": null,
+            "end": null,
+            "quote": "For 2021 it was determined that there were emissions from activity-shifting leakage of 34,325 t CO2e."
+          }
+        ]
+      }
+    },
+    "baseline_value": "3.5 million cubic meters of merchantable hardwood",
+    "additionality_value": "not stated"
+  }
+]

@@ -1,0 +1,265 @@
+{
+  "seed": 42,
+  "n_train": 158,
+  "n_pos_examples": 130,
+  "n_neg_sampled": 28,
+  "n_additionality_dups": 4,
+  "empty_share": 0.177,
+  "v4_examples": 62,
+  "new_chunks_total": 359,
+  "new_chunks_passed_curatorkit": 359,
+  "new_positive_chunks": 78,
+  "new_negative_pool": 281,
+  "new_negatives_sampled": 18,
+  "field_positive_counts": {
+    "crediting_period": 31,
+    "area": 57,
+    "baseline": 28,
+    "leakage": 14,
+    "permanence_buffer": 18,
+    "estimated_reductions": 43,
+    "additionality": 21
+  },
+  "field_positive_counts_new_only": {
+    "baseline": 13,
+    "leakage": 9,
+    "estimated_reductions": 26,
+    "area": 32,
+    "permanence_buffer": 8,
+    "additionality": 13,
+    "crediting_period": 17
+  },
+  "per_project": {
+    "1168": {
+      "examples": 12,
+      "positive": 8,
+      "empty": 4
+    },
+    "v4:1340_Bale-Mountains_MR_2020-2021": {
+      "examples": 12,
+      "positive": 8,
+      "empty": 4
+    },
+    "v4:612_Kasigau-II-Community-Ranches_MR-M9_2022": {
+      "examples": 12,
+      "positive": 12,
+      "empty": 0
+    },
+    "v4:562_Kasigau-I-Rukinga_PDD_2011-01-31": {
+      "examples": 9,
+      "positive": 6,
+      "empty": 3
+    },
+    "v4:934_Mai-Ndombe_MR-M4_2021": {
+      "examples": 15,
+      "positive": 13,
+      "empty": 2
+    },
+    "2510": {
+      "examples": 5,
+      "positive": 4,
+      "empty": 1
+    },
+    "v4:612_Kasigau-II-Community-Ranches_Verification_2024": {
+      "examples": 10,
+      "positive": 9,
+      "empty": 1
+    },
+    "1900": {
+      "examples": 7,
+      "positive": 7,
+      "empty": 0
+    },
+    "673": {
+      "examples": 7,
+      "positive": 6,
+      "empty": 1
+    },
+    "1311": {
+      "examples": 6,
+      "positive": 6,
+      "empty": 0
+    },
+    "1408": {
+      "examples": 10,
+      "positive": 5,
+      "empty": 5
+    },
+    "1201": {
+      "examples": 7,
+      "positive": 7,
+      "empty": 0
+    },
+    "1775": {
+      "examples": 4,
+      "positive": 3,
+      "empty": 1
+    },
+    "1215": {
+      "examples": 15,
+      "positive": 11,
+      "empty": 4
+    },
+    "v4:562_Kasigau-I-Rukinga_PD_short_2011-01-25": {
+      "examples": 3,
+      "positive": 3,
+      "empty": 0
+    },
+    "1202": {
+      "examples": 7,
+      "positive": 6,
+      "empty": 1
+    },
+    "993": {
+      "examples": 7,
+      "positive": 6,
+      "empty": 1
+    },
+    "987": {
+      "examples": 4,
+      "positive": 4,
+      "empty": 0
+    },
+    "1897": {
+      "examples": 5,
+      "positive": 5,
+      "empty": 0
+    },
+    "v4:612_Kasigau-II-Community-Ranches_PD_excerpt": {
+      "examples": 1,
+      "positive": 1,
+      "empty": 0
+    }
+  },
+  "quote_checks": {
+    "positive_targets": 118,
+    "quote_in_cleaned_chunk": 118
+  },
+  "max_tokens_after_trim": 5297,
+  "n_val": 23,
+  "curatorkit_rejected": [],
+  "v4_rows_rejected_by_curatorkit": [],
+  "leak_shingle_overlap_12gram": {
+    "2410_Miro-Ghana_Verification_2020-2022": {
+      "2510_PD::chunk-030": 1,
+      "2510_PD::chunk-006": 9,
+      "987_PD::chunk-002": 18,
+      "673_PD::chunk-008": 8,
+      "987_PD::chunk-000": 14,
+      "1408_PD::chunk-000": 1
+    },
+    "4329_CRCF_PD_2024-08-29": {
+      "2510_PD::chunk-030": 1,
+      "2510_PD::chunk-008": 1,
+      "673_PD::chunk-005": 4,
+      "1900_PD::chunk-025": 4,
+      "2510_PD::chunk-006": 1,
+      "1201_PD::chunk-007": 3,
+      "1775_PD::chunk-010": 1,
+      "1775_PD::chunk-001": 266,
+      "1311_PD::chunk-020": 3,
+      "1900_PD::chunk-007": 46,
+      "987_PD::chunk-002": 19,
+      "2510_PD::chunk-023": 4,
+      "1202_PD::chunk-008": 8,
+      "1897_PD::chunk-023": 2,
+      "673_PD::chunk-008": 8,
+      "2510_PD::chunk-001": 113,
+      "1900_PD::chunk-000": 437,
+      "1897_PD::chunk-014": 3,
+      "1215_PD::chunk-008": 5,
+      "1775_PD::chunk-007": 1,
+      "1897_PD::chunk-008": 1,
+      "1897_PD::chunk-003": 240,
+      "1311_PD::chunk-012": 10,
+      "1201_PD::chunk-010": 14,
+      "1168_PD::chunk-010": 7,
+      "1215_PD::chunk-009": 1,
+      "1897_PD::chunk-000": 426,
+      "1775_PD::chunk-017": 9
+    },
+    "2929_Bandai-Hills-Ghana_Validation_2024": {
+      "673_PD::chunk-005": 8,
+      "673_PD::chunk-004": 4,
+      "987_PD::chunk-002": 55,
+      "673_PD::chunk-008": 2,
+      "1408_PD::chunk-023": 6,
+      "1408_PD::chunk-000": 1,
+      "987_PD::chunk-003": 5,
+      "1311_PD::chunk-012": 2,
+      "1168_PD::chunk-010": 1
+    },
+    "5172_Akwaaba_PD_2026-01-30": {
+      "1775_PD::chunk-001": 203,
+      "1900_PD::chunk-007": 1,
+      "2510_PD::chunk-001": 93,
+      "1900_PD::chunk-000": 298,
+      "1897_PD::chunk-014": 3,
+      "1897_PD::chunk-000": 271
+    },
+    "5432_Kwahu_PD_2025-05-22": {
+      "1775_PD::chunk-001": 226,
+      "987_PD::chunk-010": 2,
+      "987_PD::chunk-000": 1,
+      "2510_PD::chunk-001": 82,
+      "1900_PD::chunk-000": 409,
+      "1897_PD::chunk-014": 3,
+      "1202_PD::chunk-000": 7,
+      "1897_PD::chunk-000": 284
+    },
+    "5172_Akwaaba_Validation_2026-01-29": {
+      "987_PD::chunk-000": 1,
+      "1202_PD::chunk-000": 7
+    }
+  },
+  "name_mentions": [],
+  "banned_doc_rows": [],
+  "new_pool_match_reasons": {
+    "baseline:gold_not_stated": 142,
+    "additionality:quote_not_in_chunk": 346,
+    "leakage:gold_not_stated": 119,
+    "permanence_buffer:gold_not_stated": 146,
+    "crediting_period:quote_not_in_chunk": 342,
+    "area:quote_not_in_chunk": 276,
+    "estimated_reductions:quote_not_in_chunk": 302,
+    "crediting_period:primary_quote": 15,
+    "area:primary_quote": 14,
+    "estimated_reductions:primary_quote": 13,
+    "area:alt_quote": 18,
+    "additionality:primary_quote": 13,
+    "crediting_period:alt_quote": 2,
+    "estimated_reductions:alt_quote": 13,
+    "permanence_buffer:quote_not_in_chunk": 205,
+    "permanence_buffer:alt_quote": 1,
+    "permanence_buffer:primary_quote": 7,
+    "baseline:quote_not_in_chunk": 204,
+    "leakage:quote_not_in_chunk": 231,
+    "baseline:primary_quote": 9,
+    "leakage:primary_quote": 8,
+    "baseline:alt_quote": 4,
+    "leakage:alt_quote": 1,
+    "estimated_reductions:gold_not_stated": 31,
+    "area:gold_not_stated": 51
+  },
+  "tokenizer": "tiny-aya tokenizer.json",
+  "neg_ids_new": [
+    "1215_PD::chunk-015",
+    "1168_PD::chunk-019",
+    "1775_PD::chunk-010",
+    "1408_PD::chunk-034",
+    "1408_PD::chunk-021",
+    "1215_PD::chunk-035",
+    "1215_PD::chunk-007",
+    "993_PD::chunk-012",
+    "1202_PD::chunk-015",
+    "2510_PD::chunk-008",
+    "1168_PD::chunk-024",
+    "1168_PD::chunk-023",
+    "1215_PD::chunk-000",
+    "1408_PD::chunk-018",
+    "1408_PD::chunk-028",
+    "673_PD::chunk-004",
+    "1168_PD::chunk-020",
+    "1408_PD::chunk-008"
+  ]
+}

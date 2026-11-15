@@ -1,0 +1,3587 @@
+{
+"1168_PD::chunk-000": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-001": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-002": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": {
+"value": "1 October 2009 – 30 September 2039 (30 years)",
+"quote": "The project crediting period is 30 years, starting 1 October 2009 and ending 30 September 2039."
+},
+"area": {
+"value": "169,136 hectares",
+"quote": "The Kulera REDD+ project is targeting 169,136 hectares of forest located in a 5km band inside of three critical protected areas in Malawi"
+},
+"estimated_reductions": {
+"value": "6,312,632 tCO2e",
+"quote": "Average Annual VCUs 210,421 Total VCUs 6,312,632"
+}
+},
+"1168_PD::chunk-003": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "169,136 hectares",
+"quote": "The Kulera REDD+ project is targeting 169,136 hectares of forest located in a 5km band inside of three critical protected areas in Malawi"
+},
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-004": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "169,136 hectares",
+"quote": "includes the Project Areas (169,136 ha in size)"
+},
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-005": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-006": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "169,136 hectares",
+"quote": "1.10.5 Forest Cover, Deforestation and Degradation in the Project Zone 4 Forest cover in the total Project Area is 169,136 hectares and this is declining rapidly as a result of deforestation caused by population pressure and poverty."
+},
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-007": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-008": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "169,136 hectares",
+"quote": "2.2 Applicability of Methodology 2.2.1 Criteria Related to Eligible Land Conditions The Project Area is multiple parcels totalling 169,136 hectares."
+},
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-009": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-010": {
+"baseline": "not_stated",
+"additionality": {
+"value": "Additional under VT0001 Tool for the Demonstration and Assessment of Additionality in VCS AFOLU Project Activities, Version 3",
+"quote": "The most current version of the VCS Additionality Tool (“VT0001 Tool for the Demonstration and Assessment of Additionality in VCS Agriculture, Forestry and Other Land Use (AFOLU) Project Activities, Version 3”) was used to determine additionality."
+},
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-011": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": {
+"value": "1 October 2009 – 30 September 2039 (30 years)",
+"quote": "Project crediting period: 30 years (2009 – 2039)"
+},
+"area": {
+"value": "169,136 hectares",
+"quote": "Project Area Name Hectares Longitude Latitude Nyika 76,804 33.8475 -10.5676 Vwaza 22,140 33.4475 -11.0106 Nkhotakota 70,192 34.0348 -12.8740 Total 169,136 3.1.1.2 Select a Valid Reference Region A regional or national baseline is not available for the Project Area, therefore a"
+},
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-012": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-013": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-014": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-015": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-016": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-017": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-018": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-019": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-020": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-021": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": {
+"value": "6,312,632 tCO2e",
+"quote": "[%] [tCO2e] [tCO2e] 2038 426,877 -201,205 111,341 0 337,013 10.00 -42,688 294,325 Total 11,563,031 -7,155,981 3,061,886 0 7,468,935 0 -1,156,303 6,312,632 4 MONITORING 4.1 Data and Parameters Available at Validation The following data and parameters are defined for standalone projects."
+}
+},
+"1168_PD::chunk-022": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-023": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-024": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-025": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-026": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1168_PD::chunk-027": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-000": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "68,340 ha",
+"quote": "Conservation actions as a direct result of the Gola REDD project will protect these species, preserve the 68,340 ha of tropical forest and has conserve over 3.9 million tonnes of CO2-e since its inception in 20121, as well as provide"
+},
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-001": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": {
+"value": "10%",
+"quote": "does not include the 10% buffer deduction"
+},
+"crediting_period": {
+"value": "1 August 2012 – 1 August 2042",
+"quote": "the project crediting period begins on the 1st August 2012 and ends on the 1st August 2042"
+},
+"area": "not_stated",
+"estimated_reductions": {
+"value": "9,267,387 tCO2e",
+"quote": "Total estimated Ers 9,267,387 (2018-2028)"
+}
+},
+"1201_PD::chunk-002": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-003": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "68,340 ha",
+"quote": "As of 2018 the forest area within the GRNP was 68,340ha."
+},
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-004": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-005": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-006": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "68,340 ha",
+"quote": "the GRNP Project Area boundaries as of 2018 is 68,340ha"
+},
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-007": {
+"baseline": "not_stated",
+"additionality": {
+"value": "Additional under VT0001 Tool for the Demonstration and Assessment of Additionality in AFOLU project activities",
+"quote": "Additionality is demonstrated following the Verified Carbon Standards (VCS) tool ‘VT0001 Tool for the Demonstration and Assessment of Additionality in Agriculture, Forestry and Other Land Use (AFOLU) project activities’ which applies a stepwise approach."
+},
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-008": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-009": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-010": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "68,340 ha",
+"quote": "Forest area Forest area Forest area Forest area 2007 2011 2015 2018 ha Project Area 69,683 68,498 68,445 68,340 Leakage Belt 73,365 62,882 55,658 48,452 RRL (PA+LB) 143,048 131,380 124,103 116,792 RRD 148,668 118,402 * 84,022"
+},
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-011": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-012": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-013": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-014": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-015": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-016": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": {
+"value": "10%",
+"quote": "According to the calculations, it has a total percentage of 10% buffer (See VCS Risk Report)."
+},
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-017": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-018": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-019": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-020": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1201_PD::chunk-021": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-000": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": {
+"value": "1 October 2009 – 1 October 2039",
+"quote": "The project crediting period starts on the project start date - 1 October 2009 and ends on 1 October 2039"
+},
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-001": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": {
+"value": "5,673,506 tCO2e",
+"quote": "Total estimated ERs 5,673,506 Total number of crediting years 30"
+}
+},
+"1202_PD::chunk-002": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-003": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-004": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-005": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-006": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-007": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-008": {
+"baseline": "not_stated",
+"additionality": {
+"value": "Additional under VCS Tool VT0001 (Version 3)",
+"quote": "As required by VM0009 v3.0, The VCS Tool VT0001 (Version 3) Tool for the Assessment of Additionality in VCS Agriculture, Forestry and Other Land Use (AFOLU) Project Activities” was used to demonstrate project additionality."
+},
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-009": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "33,338 ha",
+"quote": "The accounting area comprises 33,338 ha of the total project area of 40,126 ha."
+},
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-010": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "33,338 ha",
+"quote": "The accounting area comprises 33,338 ha of the total project area of 40,126 ha."
+},
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-011": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-012": {
+"baseline": {
+"value": "5,691,696 tCO2e",
+"quote": "Total 5,691,696 21,395 0 5,670,301"
+},
+"additionality": "not_stated",
+"leakage": {
+"value": "0 tCO2e",
+"quote": "Total 5,691,696 21,395 0 5,670,301"
+},
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "33,338 ha",
+"quote": "Lower Zambezi REDD+ Project conservancy contains 33 338.43 ha"
+},
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-013": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-014": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-015": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-016": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1202_PD::chunk-017": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-000": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-001": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-002": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": {
+"value": "1 January 2005 – 31 December 2034",
+"quote": "The VCS project crediting period for the Makira project will be of thirty years, stretching from January st st 1 2005 to December 31 2034."
+},
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-003": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": {
+"value": "13%",
+"quote": "in accordance with the VCS permanence risk assessment tool, 13% of the estimated net change in the project’s carbon stocks"
+},
+"crediting_period": {
+"value": "1 January 2005 – 31 December 2034",
+"quote": "The VCS project crediting period for the Makira project will be of thirty years, stretching from January st st 1 2005 to December 31 2034."
+},
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-004": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-005": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-006": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-007": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-008": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "360,060 hectares",
+"quote": "Forest (savannah, agricul- Forest Zone ture, villages, etc.) cover [ha] [ha] [ha] Project area (2005) (forests in protected area 360,060 360,060 0 100% including in the 5 ZOC and 15 ZUC) Leakage Belt (2005) (10-km buffer around PA, 606,847 341,469"
+},
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-009": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "360,060 hectares",
+"quote": "The total area of the Makira project area at project start in 2005 was 360,060 hectares"
+},
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-010": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": {
+"value": "1 January 2005 – 31 December 2034",
+"quote": "The total crediting period for the Makira project is 30 years, defined by the project start date mentioned above and the project end date of December 31 2034"
+},
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-011": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-012": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-013": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-014": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-015": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-016": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-017": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-018": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-019": {
+"baseline": "not_stated",
+"additionality": {
+"value": "Additional under VCS-Tool-VT0001: Tool for Demonstration and Assessment of Additionality in AFOLU Project Activities",
+"quote": "the additionality analysis was conducted following the different steps described in the AFOLU additionality assessment tool “VCS-Tool-VT0001: Tool for Demonstration and Assessment of Additionality in AFOLU Project Activities”."
+},
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-020": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-021": {
+"baseline": {
+"value": "44,661,894 t CO2-e",
+"quote": "2017 1,018,074 2,459,365 2032 3,082,914 2,818,055 2018 1,057,413 2,554,396 2033 3,158,329 2,886,991 2019 1,096,752 2,649,427 2034 3,233,743 2,955,926 Total 44,661,894 72,856,946 3.1.2 Estimation of the sum of baseline greenhouse gas emissions The GHG emissions in the baseline within the project"
+},
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-022": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": {
+"value": "4,428,832 t CO2-e",
+"quote": "2030 293,209 0 2016 97,874 0 2031 300,750 0 2017 101,807 0 2032 308,291 0 2018 105,741 0 2033 315,833 0 2019 109,675 0 2034 323,374 0 Total 4,428,832 0 Makira Forest Protected Area Project; Project Description; version 9.0 112"
+},
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-023": {
+"baseline": {
+"value": "44,661,894 t CO2-e",
+"quote": "Total 44,661,894 2,216,142 4,428,832 38,016,930"
+},
+"additionality": "not_stated",
+"leakage": {
+"value": "4,428,832 t CO2-e",
+"quote": "Total 44,661,894 2,216,142 4,428,832 38,016,930"
+},
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-024": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": {
+"value": "31'212'644 tCO2e",
+"quote": "Total 38,016,930 5'517'948 1'286'338 31'212'644"
+}
+},
+"1215_PD::chunk-025": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "360,060 hectares",
+"quote": "historic high-resolution data available for ground- truthing • RRD: 651,230 ha • RRL: 701,545 ha Value applied: • PA: 360,060 ha • LB: 341,469 ha Landsat images were the most readily available Justification of choice of data or description sources"
+},
+"estimated_reductions": {
+"value": "31'212'644 tCO2e",
+"quote": "Total 38,016,930 5'517'948 1'286'338 31'212'644"
+}
+},
+"1215_PD::chunk-026": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-027": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-028": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-029": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-030": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-031": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-032": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-033": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-034": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-035": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-036": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-037": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-038": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1215_PD::chunk-039": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-000": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "370,032 hectares",
+"quote": "The CAZ carbon project covers 370,032 hectares of Madagascar’s eastern humid rainforest and provides important ecosystem services to both the surrounding area and greater region."
+},
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-001": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": {
+"value": "30 December 2007 – 29 December 2037 (30 years)",
+"quote": "The crediting period described in this document begins on the 30 December of 2007, and ends on December 29, 2037, representing a length of 30 years."
+},
+"area": "not_stated",
+"estimated_reductions": {
+"value": "10,119,729 tCO2e",
+"quote": "The implementation of the project will bring about an estimated 10,119,729 tonnes of CO2 equivalent in emission reductions (tCO2e) over the first 10 year fixed baseline period."
+}
+},
+"1311_PD::chunk-002": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-003": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "370,032 hectares",
+"quote": "The project area covers 370,032 hectares and is entirely owned by the Government of Madagascar."
+},
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-004": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-005": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-006": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "370,032 hectares",
+"quote": "boundaries of the CAZ RED project VCS Spatial boundary Area (ha) Reference region (forest and non-forest) 4,966,685 Project area 370,032 Project area (Category A) 234,165 Project area (Category B) 135,868 Leakage belt (forest) 89,155 Leakage management areas (non-forest) 178,428 v3.1"
+},
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-007": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-008": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-009": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-010": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-011": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-012": {
+"baseline": "not_stated",
+"additionality": {
+"value": "Additional under VCS Tool VT0001 (version 3.0)",
+"quote": "the project uses the most recent version (3.0) of the VCS Tool VT0001 “Tool for the Demonstration and Assessment of Additionality in VCS Agriculture, Forestry and Other Land Use (AFOLU) Project Activities”"
+},
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-013": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-014": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-015": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-016": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-017": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-018": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-019": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-020": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": {
+"value": "10%",
+"quote": "The Risk Factor (RFt) applied is 10% based on the Non-Permanence Risk Assessment."
+},
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-021": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-022": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-023": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-024": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1311_PD::chunk-025": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-000": {
+"baseline": {
+"value": "37,765,494 tCO2e",
+"quote": "Its specific climate related goals are to prevent the emission of 37,765,494 t CO2e over the project’s 30 year crediting period by stopping deforestation, forest degradation and grassland conversion."
+},
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": {
+"value": "19 September 2013 – 19 September 2043",
+"quote": "GHG accounting period: 19 September 2013 – 19 September, 2043"
+},
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-001": {
+"baseline": {
+"value": "37,765,494 tCO2e",
+"quote": "Its specific climate related goals are to prevent the emission of 37,765,494 t CO2e over the project’s 30 year crediting period by stopping deforestation, forest degradation and grassland conversion."
+},
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-002": {
+"baseline": {
+"value": "37,765,494 tCO2e",
+"quote": "Its specific climate related goals are to prevent the emission of 37,765,494 t CO2e over the project’s 30 year crediting period by stopping deforestation, forest degradation and grassland conversion."
+},
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "374,677.64 ha",
+"quote": "while the Project Accounting Area covers a total of 374,677.64 ha"
+},
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-003": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-004": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-005": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-006": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-007": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-008": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-009": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-010": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-011": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-012": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-013": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-014": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-015": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-016": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-017": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-018": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-019": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-020": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-021": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-022": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-023": {
+"baseline": "not_stated",
+"additionality": {
+"value": "Additional: simple cost analysis, no income other than VCS carbon credit sales",
+"quote": "The VCS AFOLU project generates no financial or economic benefits other than VCS-related income derived from the sale of carbon credits. Therefore, simple cost analysis applies."
+},
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": {
+"value": "33,028,286 tCO2e",
+"quote": "2032 1,067,120 2033 1,355,646 2034 990,403 2035 960,814 2036 937,763 2037 890,728 2038 1,217,146 2039 840,433 2040 810,277 2041 778,692 2042 753,599 2043 1,111,482 Total 33,028,286 estimated ERs Total number of crediting 30 years Average 1,100,943 annual ERs v3.0 125"
+}
+},
+"1408_PD::chunk-024": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-025": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-026": {
+"baseline": {
+"value": "37,765,494 tCO2e",
+"quote": "Total 37,765,494 0 -2,583,245 33,028,286"
+},
+"additionality": "not_stated",
+"leakage": {
+"value": "2,583,245 tCO2e",
+"quote": "Total 37,765,494 0 -2,583,245 33,028,286"
+},
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": {
+"value": "33,028,286 tCO2e",
+"quote": "Total 37,765,494 0 -2,583,245 33,028,286"
+}
+},
+"1408_PD::chunk-027": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-028": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-029": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-030": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-031": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-032": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-033": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-034": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-035": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-036": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-037": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-038": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-039": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1408_PD::chunk-040": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-000": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-001": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "943,676 ha",
+"quote": "with an initial project area of 943,676 ha"
+},
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-002": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-003": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-004": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-005": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-006": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-007": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": {
+"value": "May 1st, 2015 to April 30th, 2045 (30 years)",
+"quote": "May 1st, 2015 to April 30th, 2015 a total of 30 years."
+},
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-008": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-009": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-010": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-011": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-012": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-013": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-014": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-015": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-016": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-017": {
+"baseline": "not_stated",
+"additionality": {
+"value": "Additional under VCS Tool VT0001 (Version 3)",
+"quote": "As required by VM0009 v3.0, The VCS Tool VT0001 (Version 3) Tool for the Assessment of Additionality in VCS Agriculture, Forestry and Other Land Use (AFOLU) Project Activities” was used to demonstrate project additionality."
+},
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-018": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-019": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-020": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-021": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-022": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-023": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-024": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-025": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-026": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-027": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-028": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-029": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1775_PD::chunk-030": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-000": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "204,807 ha",
+"quote": "is expected to 20,000 4.2.1 improve as a result of project activities Expected change in the number of hectares 204,807 ha 5.2.1 managed significantly better by the project for conservation Biodiversity biodiversity conservation,10 measured against the without-project scenario Expected number"
+},
+"estimated_reductions": {
+"value": "5,727,542 tCO2e",
+"quote": "Reference Section Estimated by the End Category Metric of Project Lifetime Net estimated emission removals in the project area, 5,727,542 tCO2-e 3.2 or removals reductions emission measured against the without-project scenario1 GHG Net estimated emission reductions in the project 5,727,542"
+}
+},
+"1897_PD::chunk-001": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-002": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-003": {
+"baseline": "not_stated",
+"additionality": {
+"value": "Additional under VT0001 Tool for the Demonstration and Assessment of Additionality in VCS AFOLU Project Activities, Version 3.0",
+"quote": "using the T- ADD, “VT0001 Tool for the Demonstration and Assessment of Additionality in VCS Agriculture, Forestry and Other Land Use (AFOLU) Project Activities,” Version 3.0"
+},
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": {
+"value": "19 May 2017 – 18 May 2047 (30 years)",
+"quote": "The Ntakata REDD Project has an initial project crediting period of 30 years, starting on 19th May 2017. The initial project crediting period is set to end on 18th May 2047."
+},
+"area": "not_stated",
+"estimated_reductions": {
+"value": "5,727,542 tCO2e",
+"quote": "Total estimated ERs 5,727,542"
+}
+},
+"1897_PD::chunk-004": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-005": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-006": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-007": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-008": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "204,807 ha",
+"quote": "The total project area is 204,807 ha and was 100% forested at the start of the project."
+},
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-009": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-010": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-011": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-012": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-013": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-014": {
+"baseline": {
+"value": "8,953,829 tCO2e",
+"quote": "Total 8,953,829 2,008,032 6,945,797 1,180,149 13% 902,954 5,727,542"
+},
+"additionality": "not_stated",
+"leakage": {
+"value": "1,180,149 t CO2e",
+"quote": "a total expected emission reduction of 5,727,542 t CO2e after accounting for leakage (1,180,149 t CO2e)."
+},
+"permanence_buffer": {
+"value": "13%",
+"quote": "Total 8,953,829 2,008,032 6,945,797 1,180,149 13% 902,954 5,727,542"
+},
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": {
+"value": "5,727,542 tCO2e",
+"quote": "a total expected emission reduction of 5,727,542 t CO2e after accounting for leakage (1,180,149 t CO2e)."
+}
+},
+"1897_PD::chunk-015": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-016": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-017": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-018": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-019": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-020": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-021": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-022": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-023": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "204,807 ha",
+"quote": "forest Change in areal Carbon project area, Assessment of forest Initial forest cover Carbon Tanzania cover coverage of forest 204,807 ha cover change via assessment 2017, time series of subsequently every classified satellite five years or less imagery Detailed protocol"
+},
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-024": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-025": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1897_PD::chunk-026": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-000": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "104,065 hectares",
+"quote": "This project area covers 104,065 hectares of Acacia-Commiphora scrub and Woodland"
+},
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-001": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "104,065 hectares",
+"quote": "This project area covers 104,065 hectares of Acacia-Commiphora scrub and Woodland"
+},
+"estimated_reductions": {
+"value": "1,364,112 tCO2e",
+"quote": "The cumulative net GHG emission reduction over this same time period is estimated to be 1,364,112 tCO2e."
+}
+},
+"1900_PD::chunk-002": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-003": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": {
+"value": "27 April 2016 – 26 April 2046 (30 years)",
+"quote": "The Makame Savannah REDD Project has an initial project crediting period of 30 years, starting on April 27th, 2016. The initial project crediting period is set to end on April 26, 2046."
+},
+"area": "not_stated",
+"estimated_reductions": {
+"value": "1,364,112 tCO2e",
+"quote": "Total estimated ERs 1,364,112"
+}
+},
+"1900_PD::chunk-004": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-005": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-006": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-007": {
+"baseline": "not_stated",
+"additionality": {
+"value": "Additional under VT0001 Tool for the Demonstration and Assessment of Additionality in VCS AFOLU Project Activities, Version 3.0",
+"quote": "T-ADD, “VT0001 Tool for the Demonstration and Assessment of Additionality in VCS Agriculture, Forestry and Other Land Use (AFOLU) Project Activities,” Version 3.0"
+},
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-008": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-009": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "104,065 hectares",
+"quote": "The total project area is 104,065 hectares and was 100% forested at the start of the project."
+},
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-010": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-011": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-012": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-013": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-014": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": {
+"value": "408,772 t CO2e",
+"quote": "a total expected emission reduction of 1,364,112 t CO2e after account for leakage (408,772 t CO2e)."
+},
+"permanence_buffer": {
+"value": "19%",
+"quote": "REDD buffer ed (tCO2e) (tCO2e) (tCO2e) (tCO2e) (tCO2e) (%) 2017 8,283 2,454 5,385 1,019 19%"
+},
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": {
+"value": "1,364,112 tCO2e",
+"quote": "a total expected emission reduction of 1,364,112 t CO2e after account for leakage (408,772 t CO2e)."
+}
+},
+"1900_PD::chunk-015": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-016": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-017": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-018": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-019": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-020": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-021": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-022": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-023": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-024": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-025": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "104,065 hectares",
+"quote": "of Reduction of Carbon project Assessment of forest 2005, 2010, 2015 Carbon Acacia- ation of the ecosystem deforestation area, 104,065 cover change via Tanzania commiphora Makame diversity, habitat within the ha time series of Subsequently woodland RMP connectivity project area,"
+},
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-026": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-027": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-028": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-029": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-030": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-031": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-032": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-033": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"1900_PD::chunk-034": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-000": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-001": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": {
+"value": "10%",
+"quote": "the buffer discount obtained was 6.5% but the minimum assumed is 10%"
+},
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": {
+"value": "4,102,366 tCO2e",
+"quote": "the buffer discount obtained was 6.5% but the minimum assumed is 10%, therefore, after applying the buffer the average amount of tradable VCUs per year during this period is 398,553 and totalling 4,102,366 for Sep 2016 – Dec 2026 period."
+}
+},
+"2510_PD::chunk-002": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-003": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-004": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-005": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-006": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": {
+"value": "15 September 2016 – 14 April 2045",
+"quote": "The crediting period is from 15 September 2016 to 14 April 2045."
+},
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-007": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-008": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-009": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-010": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-011": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-012": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-013": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-014": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-015": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-016": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-017": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-018": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-019": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-020": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-021": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-022": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-023": {
+"baseline": "not_stated",
+"additionality": {
+"value": "Additional under VT0001 Tool for the Demonstration and Assessment of Additionality in VCS AFOLU Project Activities, Version 3.0",
+"quote": "The additionality of the project was performed using the tool “VT0001 Tool for Demonstration and Assessment of Additionality in VCS Agriculture, Forestry and Other Land Use (AFOLU) project Activities”, Version 3.0."
+},
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-024": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-025": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-026": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-027": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-028": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-029": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-030": {
+"baseline": {
+"value": "5,121,660 tCO2e",
+"quote": "Total 5,121,660 75,238 488,214 4,558,205 455,830 4,102,366"
+},
+"additionality": "not_stated",
+"leakage": {
+"value": "488,214 tCO2e",
+"quote": "Total 5,121,660 75,238 488,214 4,558,205 455,830 4,102,366"
+},
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": {
+"value": "4,102,366 tCO2e",
+"quote": "Total 5,121,660 75,238 488,214 4,558,205 455,830 4,102,366"
+}
+},
+"2510_PD::chunk-031": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-032": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-033": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-034": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-035": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-036": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-037": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-038": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-039": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-040": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-041": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-042": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-043": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-044": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-045": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-046": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-047": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-048": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-049": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"2510_PD::chunk-050": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"673_PD::chunk-000": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": {
+"value": "1 January 2009, fixed 60-year crediting period",
+"quote": "The crediting period start date under VCS is 1st January 2009. The proposed project activity will use a fixed crediting period of 60 years."
+},
+"area": {
+"value": "6,213 ha",
+"quote": "Rehabilitation of 6,213 ha of degraded forest inside Kibale National Park"
+},
+"estimated_reductions": {
+"value": "4.450.862 tonnes of CO2 e",
+"quote": "1.3 Estimated amount of emission reductions over the crediting period including project size: The project is expected to sequester 4,450,862 of tCO2-e during its 60 year crediting period."
+}
+},
+"673_PD::chunk-001": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": {
+"value": "1 January 2009, fixed 60-year crediting period",
+"quote": "The crediting period start date under VCS is 1st January 2009. The proposed project activity will use a fixed crediting period of 60 years."
+},
+"area": {
+"value": "6,213 ha",
+"quote": "Rehabilitation of 6,212 ha of degraded forest inside Kibale National Park"
+},
+"estimated_reductions": "not_stated"
+},
+"673_PD::chunk-002": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"673_PD::chunk-003": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": {
+"value": "10%",
+"quote": "Additionally, the project will hold a 10% VCS buffer in reserve for use in case of any loss of permanence."
+},
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"673_PD::chunk-004": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"673_PD::chunk-005": {
+"baseline": "not_stated",
+"additionality": {
+"value": "Additional under the CDM Combined tool to identify the baseline scenario and demonstrate additionality in ARR CDM project activities",
+"quote": "The “Combined tool to identify the baseline scenario and demonstrate additionality in ARR CDM project activities” is used to both identify the baseline scenario."
+},
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"673_PD::chunk-006": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"673_PD::chunk-007": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"673_PD::chunk-008": {
+"baseline": {
+"value": "164.175 tonnes of CO2 e",
+"quote": "Total estimated baseline net GHG 164.175 removals by sinks (tonnes of CO2 e)"
+},
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"673_PD::chunk-009": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": {
+"value": "4.450.862 tonnes of CO2 e",
+"quote": "Total 4.450.862 (tonnes of CO2 e)"
+}
+},
+"673_PD::chunk-010": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"673_PD::chunk-011": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"987_PD::chunk-000": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": {
+"value": "01 March 2008 – 01 March 2048 (40 years)",
+"quote": "Start date: 01 - March – 2008 End date: 01 - March - 2048 Total number of years: 40"
+},
+"area": "not_stated",
+"estimated_reductions": {
+"value": "551 338 tCO2e",
+"quote": "3 2044 1 395 2045 1 357 2046 1 321 2047 1 286 2048 1 254 Total estimated ERs 551 338 Total number of crediting years 40 Average annual ERs 13 447 1.8 Description of the Project Activity GHG emission"
+}
+},
+"987_PD::chunk-001": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"987_PD::chunk-002": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": {
+"value": "3214 ha",
+"quote": "The first two project instances for validation cover an area of 3214 ha of degraded forest"
+},
+"estimated_reductions": "not_stated"
+},
+"987_PD::chunk-003": {
+"baseline": "not_stated",
+"additionality": {
+"value": "Additional under the CDM Combined tool to identify the baseline scenario and demonstrate additionality in A/R CDM project activities",
+"quote": "the “Combined tool to identify the baseline scenario and demonstrate additionality in A/R CDM project activities” is used to demonstrate the additionality of the proposed VCS project"
+},
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"987_PD::chunk-004": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"987_PD::chunk-005": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"987_PD::chunk-006": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"987_PD::chunk-007": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"987_PD::chunk-008": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"987_PD::chunk-009": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"987_PD::chunk-010": {
+"baseline": {
+"value": "0 tCO2e",
+"quote": "Total 0 551 338 0 551 338"
+},
+"additionality": "not_stated",
+"leakage": {
+"value": "0 tCO2e",
+"quote": "The total project leakage is set to zero as it is considered to be insignificant"
+},
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": {
+"value": "551 338 tCO2e",
+"quote": "Total 0 551 338 0 551 338"
+}
+},
+"987_PD::chunk-011": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"987_PD::chunk-012": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"987_PD::chunk-013": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"993_PD::chunk-000": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": {
+"value": "01 January 2003 – 31 December 2032 (30 years)",
+"quote": "30 years starting 01-January-2003 and ending to 31-December-2032"
+},
+"area": {
+"value": "722.6 ha",
+"quote": "initially applies to 301 of the Small Groups, 1,799 members, 953 project areas and 722.6 ha."
+},
+"estimated_reductions": {
+"value": "580,246 tCO2e",
+"quote": "Total estimated ERs 580,246"
+}
+},
+"993_PD::chunk-001": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"993_PD::chunk-002": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"993_PD::chunk-003": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"993_PD::chunk-004": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"993_PD::chunk-005": {
+"baseline": "not_stated",
+"additionality": {
+"value": "Additional under the Assessment of Additionality in Appendix B of AR-AMS0001",
+"quote": "Additionality of the proposed project activity is proven, using the “Assessment of Additionality” contained in Appendix B of AR-AMS0001"
+},
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"993_PD::chunk-006": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": {
+"value": "580,246 tCO2e",
+"quote": "0.1% 2032 0.8 0.8 16.5 555.2 333.7 0.1% Notes: (1) AG = Above Ground, BG = Below Ground (2) Biomass for all project areas (3) Project ex ante tonnes = 580,246 Assumptions: • Carbon stocks in non-woody vegetation are constant."
+}
+},
+"993_PD::chunk-007": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": {
+"value": "580,246 tCO2e",
+"quote": "0.1% 2032 0.8 0.8 16.5 555.2 333.7 0.1% Notes: (1) AG = Above Ground, BG = Below Ground (2) Biomass for all project areas (3) Project ex ante tonnes = 580,246 Assumptions: • Carbon stocks in non-woody vegetation are constant."
+}
+},
+"993_PD::chunk-008": {
+"baseline": {
+"value": "0 tCO2e",
+"quote": "subtract the net baseline removals which per Section 3.1 are zero"
+},
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": {
+"value": "580,246 tCO2e",
+"quote": "24,095 2028 137,918 505,699 23,467 2029 143,425 525,891 20,192 2030 148,290 543,731 17,840 2031 153,644 563,360 19,629 2032 158,249 580,246 16,886 3.2.5 Project emissions In accordance with the conditions of the approved baseline and monitoring methodology AR- 68 AMS0001, \"project"
+}
+},
+"993_PD::chunk-009": {
+"baseline": {
+"value": "0 tCO2e",
+"quote": "subtract the net baseline removals which per Section 3.1 are zero"
+},
+"additionality": "not_stated",
+"leakage": {
+"value": "0 tCO2e",
+"quote": "Total t CO2e 0 580,246 0 580,246"
+},
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": {
+"value": "580,246 tCO2e",
+"quote": "Total t CO2e 0 580,246 0 580,246"
+}
+},
+"993_PD::chunk-010": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"993_PD::chunk-011": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"993_PD::chunk-012": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+},
+"993_PD::chunk-013": {
+"baseline": "not_stated",
+"additionality": "not_stated",
+"leakage": "not_stated",
+"permanence_buffer": "not_stated",
+"crediting_period": "not_stated",
+"area": "not_stated",
+"estimated_reductions": "not_stated"
+}
+}

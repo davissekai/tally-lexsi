@@ -1,0 +1,468 @@
+{
+  "1340_Bale-Mountains_MR_2020-2021": {
+    "baseline": {
+      "gold_value": "4,138,321 tCO2e",
+      "page": 80,
+      "quote": "Table 12 Baseline emissions or removals (tCO2e): 2020 2,086,604; 2021 2,051,717. Table 13 Total 4,138,321.",
+      "rule": "baseline = tCO2e for the relevant scope; this MR uses the 2020-2021 monitoring period (sum of the two years in Table 12). The 38,321,332 tCO2e figure is a lifetime/eco-region baseline, not this period.",
+      "decision_note": "default"
+    },
+    "additionality": {
+      "gold_value": "NOT_STATED",
+      "page": null,
+      "quote": null,
+      "rule": "additionality = short text of the additionality conclusion/tool used. This MR only says deviations do not affect additionality; it does not restate a tool or conclusion.",
+      "decision_note": "default"
+    },
+    "leakage": {
+      "gold_value": "0 tCO2e",
+      "page": 80,
+      "quote": "In this calculation emission in the leakage belt was considered as zero because the project designed in a way not to claim the credit generated from the leakage belt area (Annex 2).",
+      "rule": "leakage = tCO2e amount for the period (0 if explicitly zero). Table 12 also lists leakage as 0 for 2020 and 2021.",
+      "decision_note": "default"
+    },
+    "permanence_buffer": {
+      "gold_value": "10%",
+      "page": 80,
+      "quote": "Using the result of the non-permeance risk assessment which is 10%, 319,635 tCO2e will be reserved for buffer credit so that the bet vintage will be 2,876,709 tCO2e.",
+      "rule": "permanence_buffer = percentage rate for this period. 15% is the earlier ex-ante/PDD risk rating, not the rate applied in 2020-2021.",
+      "decision_note": "default"
+    },
+    "crediting_period": {
+      "gold_value": "January 2012 – 31 December 2031",
+      "page": 2,
+      "quote": "GHG Accounting/ Crediting Period January-2012 – 31-December-2031; 20 years total period",
+      "rule": "crediting_period = full start–end date range (not just length, not the 2020-2021 monitoring window).",
+      "decision_note": "default"
+    },
+    "area": {
+      "gold_value": "261,053 ha",
+      "page": 2,
+      "quote": "The size of the project area of 261,053 ha and its location on the slopes of the Bale mountain massif have undoubtedly a severe influence on the hydrological system",
+      "rule": "area = Verra credited project area (exclude leakage belt). 333,924 ha is PA + leakage management area and is recorded separately as area_incl_leakage_belt.",
+      "decision_note": "Rule set 2026-11-12: credited project area; leakage-belt figure 333,924 ha goes in area_incl_leakage_belt",
+      "area_incl_leakage_belt": "333,924 ha"
+    },
+    "estimated_reductions": {
+      "gold_value": "2,876,709 tCO2e",
+      "page": 80,
+      "quote": "Using the result of the non-permeance risk assessment which is 10%, 319,635 tCO2e will be reserved for buffer credit so that the bet vintage will be 2,876,709 tCO2e. Table 12: Net GHG 3,196,344; Buffer credit 10% 319,634; Credit for vintage 2,876,709.",
+      "rule": "estimated_reductions = credits issued after buffer, for THIS monitoring period. 3,196,344 tCO2e is net before the 10% buffer.",
+      "decision_note": "Renhuang: credits issued after buffer. default: this monitoring period, not cumulative/lifetime."
+    },
+    "area_incl_leakage_belt": {
+      "gold_value": "333,924 ha",
+      "page": 12,
+      "quote": "The Project Boundary of BMERP is 333,924 ha. This project boundary constitutes the Project Area (PA) equal to 261,053 ha of moist and dry forests (238,200 ha of moist and 22,853 ha of dry forests), and 72,924 ha of non-forested land that constitutes the Project’s Leakage Management Area (LMA).",
+      "rule": "Supplementary field: project area inclusive of the leakage belt / LMA. Not used as `area`."
+    }
+  },
+  "2410_Miro-Ghana_Verification_2020-2022": {
+    "baseline": {
+      "gold_value": "0 tCO2e",
+      "page": 34,
+      "quote": "Since baseline removals as stated in the Baseline Emissions sections, considering the characteristics of the baseline vegetation, is equal to zero; and emissions due to leakage were considered zero",
+      "rule": "baseline = tCO2e figure for this monitoring period. The verification table also lists baseline as 0.",
+      "decision_note": "default"
+    },
+    "additionality": {
+      "gold_value": "NOT_STATED",
+      "page": null,
+      "quote": null,
+      "rule": "additionality = conclusion/tool used. This verification report only notes that deviations do not affect additionality; it does not restate the tool or conclusion.",
+      "decision_note": "default"
+    },
+    "leakage": {
+      "gold_value": "0 tCO2e",
+      "page": 80,
+      "quote": "As such, no displacement of agricultural activities has occurred in this outlined project activities and therefore, leakage can be counted as zero and does need to be monitored or managed.",
+      "rule": "leakage = tCO2e for THIS monitoring period (0 if explicitly zero). 15,758 tCO2e is the AR-TOOL15 result and appears on the prior (2016-2020) verification row, not this period. Flagged as ambiguous.",
+      "decision_note": "default; ambiguous vs 15,758 tCO2e (prior period / tool total)"
+    },
+    "permanence_buffer": {
+      "gold_value": "10%",
+      "page": 11,
+      "quote": "245784 tCO2e Net calculated VCUs for the monitoring period and 24579 tCO2e with consideration of 10% buffer credits",
+      "rule": "permanence_buffer = percentage rate.",
+      "decision_note": "default"
+    },
+    "crediting_period": {
+      "gold_value": "24 March 2016 – 30 June 2045",
+      "page": 61,
+      "quote": "for the monitoring period 02-11-2020 to 19-09-2022 (Inclusive of both days) under the crediting period 24th March 2016 to 30th June 2045",
+      "rule": "crediting_period = full start–end date range (not '30 years', not the 02-11-2020 to 19-09-2022 verification window).",
+      "decision_note": "default"
+    },
+    "area": {
+      "gold_value": "3,871 ha",
+      "page": 11,
+      "quote": "The Miro Forestry had occupied the total 10,495-ha area out of which 3,871-ha area is considered for this monitoring period (02-11-2020 to 19-09-2022)",
+      "rule": "area = Verra credited / eligible project area considered for this period, not the 10,495 ha occupied lease holding.",
+      "decision_note": "Renhuang: credited project area (Miro 3,871; exclude leases/holdings)."
+    },
+    "estimated_reductions": {
+      "gold_value": "221,205 tCO2e",
+      "page": 11,
+      "quote": "The second monitoring period aims to verify the estimated 221205 tCO2e net GHG emission reductions (considering 10% buffer credits) achieved during the current defined monitoring period.",
+      "rule": "estimated_reductions = credits issued after buffer, for THIS monitoring period. 245,784 is net before the 10% buffer; 326,399 is a superseded draft figure.",
+      "decision_note": "Rule: credits issued after buffer (Renhuang, Nov 12)"
+    }
+  },
+  "2929_Bandai-Hills-Ghana_Validation_2024": {
+    "baseline": {
+      "gold_value": "0 tCO2e",
+      "page": 30,
+      "quote": "Hence in the absence of the project, changes in tree biomass are rather expected to decrease in above ground and below ground carbon stock due to biomass loss and therefore may be conservatively assumed to be zero. ΔCTREE_BSL,t = 0 Therefore the baseline net GHG removal by sinks is zero: ΔCBSL,t = 0",
+      "rule": "baseline = tCO2e figure for the relevant scope (crediting period / project). Conservatively assumed zero under AR-ACM0003.",
+      "decision_note": "default"
+    },
+    "additionality": {
+      "gold_value": "Additional under the CDM Combined tool to identify the baseline scenario and demonstrate additionality in A/R CDM project activities v1",
+      "page": 29,
+      "quote": "TÜV NORD JI/CDM CP confirms, that the proposed project activity is additional in compliance with the CDM methodological tool “Combined tool to identify the baseline scenario and demonstrate additionality in A/R CDM project activities v1”",
+      "rule": "additionality = short text of the additionality conclusion/tool used.",
+      "decision_note": "default"
+    },
+    "leakage": {
+      "gold_value": "0 tCO2e",
+      "page": 35,
+      "quote": "There is no displacement of agricultural activities, crop cultivation and / or grazing activities, that should result in an increase in GHG emissions. Hence leakage is considered as 0 LKt = 0",
+      "rule": "leakage = tCO2e amount (0 if explicitly zero).",
+      "decision_note": "default"
+    },
+    "permanence_buffer": {
+      "gold_value": "10%",
+      "page": 48,
+      "quote": "Thus, the audit team concludes that the applied risk score of 10% is adequate for the project activity. These results in the following: • Estimated Net GHG emission removals: 3,778,511 • Estimated Buffer credits (10% of Net GHG Benefits): 377,851 • Estimated Total GHG credits / VCUs: 3,400,660",
+      "rule": "permanence_buffer = percentage rate. Present in the validation report; extraction had missed it.",
+      "decision_note": "default"
+    },
+    "crediting_period": {
+      "gold_value": "1 June 2022 – 31 May 2042",
+      "page": 14,
+      "quote": "3.1.6 Project Crediting Period The proposed project crediting period is 20 years and is a fixed crediting period. Project start date: 01/06/2022 Project end date: 31/05/2042",
+      "rule": "crediting_period = full start–end date range (not just '20 years'). A scope-section typo of 01/06/2021–31/05/2041 is discarded in favour of the official crediting-period section and the conclusion (01-June 2022 to 31-May-2042).",
+      "decision_note": "default"
+    },
+    "area": {
+      "gold_value": "7,372 ha",
+      "page": 2,
+      "quote": "The total eligible project area is 7372 ha.",
+      "rule": "area = Verra credited / eligible project area. 7,804.56 ha is the lease; 3,500 ha is the planted subset.",
+      "decision_note": "Renhuang: credited project area (Bandai 7,372; exclude leases and planted subsets)."
+    },
+    "estimated_reductions": {
+      "gold_value": "3,400,660 tCO2e",
+      "page": 49,
+      "quote": "Estimated Net GHG emission removals: 3,778,511 • Estimated Buffer credits (10% of Net GHG Benefits): 377,851 • Estimated Total GHG credits / VCUs: 3,400,660",
+      "rule": "estimated_reductions = credits issued after buffer, total over the crediting period (validation/PD). 3,778,511 is net before the 10% buffer; 188,926 tCO2e is the annual average.",
+      "decision_note": "Renhuang: credits issued after buffer. default: validation/PD uses total over crediting period, not annual."
+    }
+  },
+  "562_Kasigau-I-Rukinga_PDD_2011-01-31": {
+    "baseline": {
+      "gold_value": "1,450,329 tCO2e",
+      "page": 52,
+      "quote": "The total estimated baseline emissions for the first monitoring period are 1,450,329 tonnes CO2e.",
+      "rule": "baseline = tCO2e figure for the relevant scope. This PDD was validated together with the first verification, and 1,450,329 is the only explicitly totaled baseline figure. A lifetime baseline is not totaled in the text.",
+      "decision_note": "default"
+    },
+    "additionality": {
+      "gold_value": "Additional under VT0001 Tool for the Demonstration of Additionality in VCS AFOLU Project Activities",
+      "page": 51,
+      "quote": "therefore it is additional under the rules of VT0001 Tool for the Demonstration of Additionality in VCS AFOLU Project Activities.",
+      "rule": "additionality = short text of the additionality conclusion/tool used.",
+      "decision_note": "default"
+    },
+    "leakage": {
+      "gold_value": "0 tCO2e",
+      "page": 62,
+      "quote": "Likewise, for this monitoring period, the estimated emissions from leakage are zero.",
+      "rule": "leakage = tCO2e amount for the period (0 if explicitly zero). The 20% figure is an ex-ante lifetime leakage factor, not a measured tCO2e amount.",
+      "decision_note": "default"
+    },
+    "permanence_buffer": {
+      "gold_value": "20%",
+      "page": 63,
+      "quote": "NERs to Buffer Pool (20%) 290,066  Net Total NERs 1,160,263",
+      "rule": "permanence_buffer = percentage rate. Present in Table 7; extraction had missed it.",
+      "decision_note": "default"
+    },
+    "crediting_period": {
+      "gold_value": "1 January 2005 – 31 December 2035",
+      "page": 9,
+      "quote": "The project was commenced on January 1, 2005. … The Phase I Project is 30 years in length. The project will therefore end on December 31, 2035.",
+      "rule": "crediting_period = full start–end date range as written in THIS document. The companion short PD and the timeline figure use 31 December 2034 (30 years inclusive from 1 January 2005). Flagged as ambiguous (off-by-one).",
+      "decision_note": "default; ambiguous vs 31 December 2034 in the short PD / timeline figure"
+    },
+    "area": {
+      "gold_value": "30,168.66 ha",
+      "page": 7,
+      "quote": "This Phase I Project Document covers 100% of the land known as Rukinga Sanctuary … which is all that 74,516 acres (30,168.66 ha) of land originally known as Rukinga Ranch",
+      "rule": "area = Verra credited project area. 30,169 ha is a rounding of the same figure.",
+      "decision_note": "Renhuang: credited project area (Kasigau I 30,168.66)."
+    },
+    "estimated_reductions": {
+      "gold_value": "6,034,356 tCO2e",
+      "page": 64,
+      "quote": "Applying this factor to gross NERs yields an estimate of total net NERs over the project lifetime of: Ex-Ante NERs = 7,542,945 − (7,542,945 ∗ 0.20) Ex-Ante NERs = 6,034,356",
+      "rule": "estimated_reductions = total over the crediting period (PD). 7,542,945 is lifetime gross NERs; 6,034,356 is lifetime net after a 20% leakage factor. A lifetime figure after the 20% permanence buffer is not stated. 1,450,329 is baseline (not reductions); first-period issuance after buffer is 1,160,263. Flagged as ambiguous.",
+      "decision_note": "Renhuang / default: PD uses total over crediting period. Ambiguous: 6,034,356 (lifetime net after leakage) vs 7,542,945 (lifetime gross). After-buffer lifetime not stated."
+    }
+  },
+  "562_Kasigau-I-Rukinga_PD_short_2011-01-25": {
+    "baseline": {
+      "gold_value": "NOT_STATED",
+      "page": null,
+      "quote": null,
+      "rule": "baseline = tCO2e figure. This short PD only describes the qualitative baseline scenario (slash-and-burn agricultural expansion); it contains no baseline tCO2e total.",
+      "decision_note": "default"
+    },
+    "additionality": {
+      "gold_value": "Clearly additional under the project financial additionality tool",
+      "page": 3,
+      "quote": "The project is clearly additional (under the project financial additionality tool ) and the Baseline far from being hypothetical is an extension of actual deforestation",
+      "rule": "additionality = short text of the additionality conclusion/tool used. Present in the short PD; extraction had missed it.",
+      "decision_note": "default"
+    },
+    "leakage": {
+      "gold_value": "NOT_STATED",
+      "page": null,
+      "quote": null,
+      "rule": "leakage = tCO2e amount. This short PD mentions a Leakage Area but does not state a leakage tCO2e amount or an explicit zero.",
+      "decision_note": "default"
+    },
+    "permanence_buffer": {
+      "gold_value": "NOT_STATED",
+      "page": null,
+      "quote": null,
+      "rule": "permanence_buffer = percentage rate. No buffer rate appears in this short PD.",
+      "decision_note": "default"
+    },
+    "crediting_period": {
+      "gold_value": "1 January 2005 – 31 December 2034",
+      "page": 4,
+      "quote": "The VCS Project Crediting Period is January 1st 2005 thru December 31st 2034.",
+      "rule": "crediting_period = full start–end date range.",
+      "decision_note": "default"
+    },
+    "area": {
+      "gold_value": "30,168.66 ha",
+      "page": 3,
+      "quote": "Rukinga Sanctuary (the project area) is 30,168.66 ha.",
+      "rule": "area = Verra credited project area.",
+      "decision_note": "Renhuang: credited project area (Kasigau I 30,168.66)."
+    },
+    "estimated_reductions": {
+      "gold_value": "7,542,945 tCO2e",
+      "page": 3,
+      "quote": "the estimated gross emissions reductions over the 30 year crediting period are 7,542,945 m.t. GHG or on average, 251,432 m.t. GHG per year.",
+      "rule": "estimated_reductions = total over the crediting period (PD). This short PD only states the gross lifetime figure; an after-buffer total is not in this document. 251,432 is the annual average.",
+      "decision_note": "Renhuang / default: PD uses total over crediting period. This document only states the gross figure (after-buffer not present)."
+    }
+  },
+  "612_Kasigau-II-Community-Ranches_MR-M9_2022": {
+    "baseline": {
+      "gold_value": "1,888,472 tCO2e",
+      "page": 139,
+      "quote": "Emissions from Leakage, M9 0  Baseline emissions, M9 1,888,472  ERs to Buffer Pool, (13%), M0 245,501  …  Total emission reductions (ERs), M9 1,642,971",
+      "rule": "baseline = tCO2e for this monitoring period (M9 / 2022). CBE[m9] = 1,888,472 tCO2e.",
+      "decision_note": "default"
+    },
+    "additionality": {
+      "gold_value": "NOT_STATED",
+      "page": null,
+      "quote": null,
+      "rule": "additionality = conclusion/tool used. This MR only says deviations do not affect additionality; it does not restate a tool or conclusion.",
+      "decision_note": "default"
+    },
+    "leakage": {
+      "gold_value": "0 tCO2e",
+      "page": 139,
+      "quote": "Emissions from Leakage, M9 0",
+      "rule": "leakage = tCO2e amount for the period (0 if explicitly zero).",
+      "decision_note": "default"
+    },
+    "permanence_buffer": {
+      "gold_value": "13%",
+      "page": 138,
+      "quote": "Overall risk rating was calculated at 13% and buffer account allocation for KCRPII is summarized below. 13% ∗ 1,880,235.23 = 244,431",
+      "rule": "permanence_buffer = percentage rate (not the 245,501 tCO2e mass).",
+      "decision_note": "default"
+    },
+    "crediting_period": {
+      "gold_value": "1 January 2010 – 31 December 2039",
+      "page": 19,
+      "quote": "The Project crediting period started on January 1st, 2010 and will end on December 31st, 2039 (30 years).",
+      "rule": "crediting_period = full start–end date range (not the 2022 reporting period).",
+      "decision_note": "default"
+    },
+    "area": {
+      "gold_value": "169,741 ha",
+      "page": 58,
+      "quote": "Area of Project Area  [169,741 hectares]. The 13 blocks of land covered under this Phase II of the Kasigau Corridor REDD Project total 169,741 hectares",
+      "rule": "area = Verra credited project area (total of the 13 ranches), not individual ranch areas.",
+      "decision_note": "Renhuang: credited project area (Kasigau II 169,741)."
+    },
+    "estimated_reductions": {
+      "gold_value": "1,642,971 tCO2e",
+      "page": 18,
+      "quote": "The total GHG emission reductions for this (M9) monitoring period are 1,642,971 t CO2e.",
+      "rule": "estimated_reductions = credits issued after buffer, for THIS monitoring period. 1,888,472 is gross; 18,163,638 is cumulative to date; 20,948,108 is cumulative gross.",
+      "decision_note": "Renhuang: credits issued after buffer. default: this monitoring period, not cumulative."
+    }
+  },
+  "612_Kasigau-II-Community-Ranches_PD_excerpt": {
+    "baseline": {
+      "gold_value": "NOT_STATED",
+      "page": null,
+      "quote": null,
+      "rule": "baseline = tCO2e figure. This short excerpt does not state a baseline emissions total.",
+      "decision_note": "default"
+    },
+    "additionality": {
+      "gold_value": "NOT_STATED",
+      "page": null,
+      "quote": null,
+      "rule": "additionality = conclusion/tool used. Not present in this excerpt.",
+      "decision_note": "default"
+    },
+    "leakage": {
+      "gold_value": "NOT_STATED",
+      "page": null,
+      "quote": null,
+      "rule": "leakage = tCO2e amount. Not present in this excerpt.",
+      "decision_note": "default"
+    },
+    "permanence_buffer": {
+      "gold_value": "NOT_STATED",
+      "page": null,
+      "quote": null,
+      "rule": "permanence_buffer = percentage rate. Not present in this excerpt.",
+      "decision_note": "default"
+    },
+    "crediting_period": {
+      "gold_value": "NOT_STATED",
+      "page": null,
+      "quote": null,
+      "rule": "crediting_period = full start–end date range. The excerpt gives a project start date of 01 January 2010 but no crediting-period end date.",
+      "decision_note": "default"
+    },
+    "area": {
+      "gold_value": "169,741 ha",
+      "page": 2,
+      "quote": "The 13 blocks of land covered under this Phase II of the Kasigau Corridor REDD Project total 169,741 hectares and are;",
+      "rule": "area = Verra credited project area.",
+      "decision_note": "Renhuang: credited project area (Kasigau II 169,741)."
+    },
+    "estimated_reductions": {
+      "gold_value": "14,883,342 tCO2e",
+      "page": 4,
+      "quote": "The Project’s climate benefits include the avoided emission of 14,883,342 tCO2e during this first monitoring period.",
+      "rule": "This excerpt only states a first-monitoring-period total (not a crediting-period lifetime total, and not labelled after-buffer). Used as the only reductions figure present in the document.",
+      "decision_note": "default: only reductions figure in this excerpt (first monitoring period, after-buffer not stated)."
+    }
+  },
+  "612_Kasigau-II-Community-Ranches_Verification_2024": {
+    "baseline": {
+      "gold_value": "NOT_STATED",
+      "page": null,
+      "quote": null,
+      "rule": "baseline = tCO2e figure labelled as baseline. This verification report states gross GHG emission reductions of 1,888,472 tCO2e (equal to baseline when PE and leakage are 0) but does not itself label that number as baseline emissions.",
+      "decision_note": "default"
+    },
+    "additionality": {
+      "gold_value": "NOT_STATED",
+      "page": null,
+      "quote": null,
+      "rule": "additionality = conclusion/tool used. Additionality is listed as a topic assessed, but this report does not restate the tool or conclusion.",
+      "decision_note": "default"
+    },
+    "leakage": {
+      "gold_value": "NOT_STATED",
+      "page": null,
+      "quote": null,
+      "rule": "leakage = tCO2e amount. The report mentions 'associated leakage allocation' in the issuance sentence but does not state a leakage tCO2e figure (the companion MR states 0).",
+      "decision_note": "default"
+    },
+    "permanence_buffer": {
+      "gold_value": "13%",
+      "page": 3,
+      "quote": "Considering a 13% buffer withholding, based on the non-permanence risk assessment tool, and associated leakage allocation, this results in 1,642,971 tCO2e of credits eligible for issuance as VCUs.",
+      "rule": "permanence_buffer = percentage rate.",
+      "decision_note": "default"
+    },
+    "crediting_period": {
+      "gold_value": "NOT_STATED",
+      "page": null,
+      "quote": null,
+      "rule": "crediting_period = full start–end date range. This report states the project was initiated on 01 January 2010 and that the monitoring period is 01 January 2022 – 31 December 2022 (1 year), but it never states the crediting-period end date. The extracted '1 year' is the monitoring-period length, not the crediting period.",
+      "decision_note": "default"
+    },
+    "area": {
+      "gold_value": "169,741 ha",
+      "page": 6,
+      "quote": "The 13 blocks of land covered under this Phase II of the Kasigau Corridor REDD Project total 169,741 hectares and are; Taita Ranch, which is 35,612 ha",
+      "rule": "area = Verra credited project area.",
+      "decision_note": "Renhuang: credited project area (Kasigau II 169,741)."
+    },
+    "estimated_reductions": {
+      "gold_value": "1,642,971 tCO2e",
+      "page": 3,
+      "quote": "Considering a 13% buffer withholding, based on the non-permanence risk assessment tool, and associated leakage allocation, this results in 1,642,971 tCO2e of credits eligible for issuance as VCUs.",
+      "rule": "estimated_reductions = credits issued after buffer, for THIS monitoring period. 1,888,472 is gross; 18,163,638 is cumulative since the start date.",
+      "decision_note": "Renhuang: credits issued after buffer. default: this monitoring period, not cumulative."
+    }
+  },
+  "934_Mai-Ndombe_MR-M4_2021": {
+    "baseline": {
+      "gold_value": "9,188,395 tCO2e",
+      "page": 129,
+      "quote": "Table 3.11: Year 2021 Baseline emissions or removals (tCO2e) 9,188,395  Project emissions 538,787  Leakage 34,325  Project Gross Emission Reductions 8,615,284  Net GHG emission reductions or removals 7,753,754",
+      "rule": "baseline = tCO2e for this monitoring period under the validated VCS standalone project baseline (Table 3.11). 9,311,030 tCO2e is EBΔ[M4] from the cumulative-baseline equation; 3,800,000 tCO2e is the nested FCPF FREL in Table 3.12 (flagged with the issuance question).",
+      "decision_note": "default"
+    },
+    "additionality": {
+      "gold_value": "Additionality assessed with VT0001 Tool for the Demonstration and Assessment of Additionality in VCS AFOLU Project Activities, Version 3.0",
+      "page": 21,
+      "quote": "For the assessment of additionality, the Project utilized the VCS “Tool for the Demonstration and Assessment of Additionality in VCS Agriculture, Forestry and Other Land Use (AFOLU) Project Activities,” VT0001 Version 3.0.",
+      "rule": "additionality = short text of the additionality conclusion/tool used. This MR states the tool; it does not re-argue the conclusion.",
+      "decision_note": "default"
+    },
+    "leakage": {
+      "gold_value": "34,325 tCO2e",
+      "page": 125,
+      "quote": "For 2021 it was determined that there were emissions from activity-shifting leakage of 34,325 t CO2e.",
+      "rule": "leakage = tCO2e amount for this period. The extracted '0' is a different parameter (value applied: 0), not the 2021 leakage total.",
+      "decision_note": "default"
+    },
+    "permanence_buffer": {
+      "gold_value": "10%",
+      "page": 128,
+      "quote": "For m4, the non-permanence risk score is 10%, as it was in M3 and M2. … the overall buffer credits were calculated to be 10% of gross emission reductions, 8,615,284 tCO2e",
+      "rule": "permanence_buffer = percentage rate.",
+      "decision_note": "default"
+    },
+    "crediting_period": {
+      "gold_value": "14 March 2011 – 13 March 2041",
+      "page": 14,
+      "quote": "The Project crediting period is 14 March 2011 – 13 March 2041. The crediting period is 30 years in length.",
+      "rule": "crediting_period = full start–end date range (not the 2021 monitoring window).",
+      "decision_note": "default"
+    },
+    "area": {
+      "gold_value": "248,956 ha",
+      "page": 111,
+      "quote": "accounting area; 248,956 ha",
+      "rule": "area = Verra credited project accounting area, not the 299,645 ha conservation concession.",
+      "decision_note": "Renhuang: credited project area (Mai-Ndombe 248,956; exclude concession)."
+    },
+    "estimated_reductions": {
+      "gold_value": "2,904,200 tCO2e",
+      "page": 130,
+      "quote": "Wildlife Works has voluntarily agreed to cap VCU issuance at the nested ER Program level. Table 3.12 indicates NER calculations per this decision. The Project will issue VCUs in accordance with Table 3.12. … Net GHG emission reductions or removals (tCO2e) 2021 … 2,904,200",
+      "rule": "estimated_reductions = credits issued after buffer, for THIS monitoring period. Table 3.11 net after the 10% buffer under the standalone VCS baseline is 7,753,754 tCO2e (also the headline figure). Table 3.12 is the nested FCPF cap they say they will actually issue (2,904,200 after a 322,689 buffer). Flagged as ambiguous; gold follows the issuance rule used for Miro.",
+      "decision_note": "Renhuang: credits issued after buffer. default: this monitoring period. AMBIGUOUS vs 7,753,754 (Table 3.11 standalone net after buffer)."
+    }
+  }
+}
