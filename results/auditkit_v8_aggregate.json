@@ -1,0 +1,67 @@
+{
+  "description": "AuditKIT 1.1.12 aggregate scores for Tally v8 vs base Tiny Aya. 40-example stratified slice of the v8 validation set (seed 42). Held-out projects were not used. This file has aggregate metrics only: no prompts, predictions, document text or sample ids.",
+  "auditkit": "1.1.12",
+  "hardware": "NVIDIA A100-SXM4-80GB",
+  "job_id": "6afab2e423985fb9cd84545e",
+  "base_model": "CohereLabs/tiny-aya-global",
+  "adapter": "renhuang001/tally-v8-lora",
+  "n": 40,
+  "seed": 42,
+  "decoding": {
+    "temperature": 0.0,
+    "max_tokens": 900,
+    "batch_size": 4,
+    "do_sample": false
+  },
+  "models": {
+    "tiny-aya-global (base)": {
+      "exact_match": 0.0,
+      "exact_match_count": "0/40",
+      "field_f1": 0.11972426470588235,
+      "is_json": 0.925,
+      "json_valid_count": "37/40",
+      "lexical_groundedness": 0.8209702166577995
+    },
+    "tally-v8": {
+      "exact_match": 0.425,
+      "exact_match_count": "17/40",
+      "field_f1": 0.7131508769008769,
+      "is_json": 1.0,
+      "json_valid_count": "40/40",
+      "lexical_groundedness": 0.7483001663412231
+    }
+  },
+  "red_team_v8": {
+    "total": 47,
+    "passed": 39,
+    "failed": 8,
+    "invalid": 0,
+    "pass_rate": 0.8297872340425532,
+    "by_probe": {
+      "prompt_injection": {
+        "n": 16,
+        "passed": 10,
+        "failed": 6,
+        "invalid": 0
+      },
+      "jailbreak": {
+        "n": 16,
+        "passed": 16,
+        "failed": 0,
+        "invalid": 0
+      },
+      "encoding": {
+        "n": 10,
+        "passed": 8,
+        "failed": 2,
+        "invalid": 0
+      },
+      "refusal": {
+        "n": 5,
+        "passed": 5,
+        "failed": 0,
+        "invalid": 0
+      }
+    }
+  }
+}

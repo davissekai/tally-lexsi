@@ -1,0 +1,211 @@
+{
+  "description": "Tally held-out benchmark on one A100, all bf16. Aggregate scores only. 3 unseen Verra project descriptions (126 chunks, 21 field-pairs, 20 with a stated gold value). Gold values and per-pair outputs are kept private so the test set stays clean.",
+  "hardware": "Hugging Face Jobs a100-large",
+  "dtype": "bfloat16",
+  "n_chunks": 126,
+  "batch_size": 16,
+  "decoding": {
+    "do_sample": false,
+    "max_new_tokens": 900,
+    "prompt": "inference/prompt.txt"
+  },
+  "merge": {
+    "merge_v1": "src/tally_merge.py: quote must appear in the document, value must appear in the quote, unit must fit the field; disagreeing candidates become a conflict.",
+    "merge_v2": "src/tally_merge_v2.py: merge v1 plus general Verra preference rules (dated crediting period over a bare duration or monitoring window; credited area over project zone or leakage belt; project total over annual or single-year rows; number-format collapse; tCO2e table totals allowed as baseline). Rules were written after error analysis on the held-out set, then checked on validation documents. Same saved model outputs; only the merge step differs."
+  },
+  "models": {
+    "tally-v8": {
+      "adapter": "renhuang001/tally-v8-lora",
+      "base": "CohereLabs/tiny-aya-global",
+      "merge_v1": {
+        "stated_correct": 6,
+        "stated_n": 20,
+        "stated_accuracy": 0.3,
+        "correct": 6,
+        "wrong": 10,
+        "conflict-unresolved": 4,
+        "correctly-abstained": 1,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.3333,
+        "parse_errors": 0
+      },
+      "merge_v2": {
+        "stated_correct": 8,
+        "stated_n": 20,
+        "stated_accuracy": 0.4,
+        "correct": 8,
+        "wrong": 10,
+        "conflict-unresolved": 2,
+        "correctly-abstained": 1,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.4286
+      },
+      "gen_sec_126_chunks": 155.2
+    },
+    "tally-v7": {
+      "adapter": "renhuang001/tally-v7-lora",
+      "base": "CohereLabs/tiny-aya-global",
+      "merge_v1": {
+        "stated_correct": 3,
+        "stated_n": 20,
+        "stated_accuracy": 0.15,
+        "correct": 3,
+        "wrong": 8,
+        "conflict-unresolved": 9,
+        "correctly-abstained": 1,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.1905,
+        "parse_errors": 0
+      },
+      "merge_v2": {
+        "stated_correct": 5,
+        "stated_n": 20,
+        "stated_accuracy": 0.25,
+        "correct": 5,
+        "wrong": 9,
+        "conflict-unresolved": 6,
+        "correctly-abstained": 1,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.2857
+      },
+      "gen_sec_126_chunks": 173.7
+    },
+    "tiny-aya-global (base)": {
+      "model_id": "CohereLabs/tiny-aya-global",
+      "merge_v1": {
+        "stated_correct": 2,
+        "stated_n": 20,
+        "stated_accuracy": 0.1,
+        "correct": 2,
+        "wrong": 8,
+        "conflict-unresolved": 11,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.0952,
+        "parse_errors": 2
+      },
+      "merge_v2": {
+        "stated_correct": 3,
+        "stated_n": 20,
+        "stated_accuracy": 0.15,
+        "correct": 3,
+        "wrong": 9,
+        "conflict-unresolved": 9,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.1429
+      },
+      "gen_sec_126_chunks": 376.9
+    },
+    "Qwen/Qwen3-8B": {
+      "merge_v1": {
+        "stated_correct": 4,
+        "stated_n": 20,
+        "stated_accuracy": 0.2,
+        "correct": 4,
+        "wrong": 5,
+        "conflict-unresolved": 12,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.1905,
+        "parse_errors": 0
+      },
+      "merge_v2": {
+        "stated_correct": 6,
+        "stated_n": 20,
+        "stated_accuracy": 0.3,
+        "correct": 6,
+        "wrong": 5,
+        "conflict-unresolved": 10,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.2857
+      },
+      "gen_sec_126_chunks": 485.5
+    },
+    "google/gemma-3-12b-it": {
+      "merge_v1": {
+        "stated_correct": 3,
+        "stated_n": 20,
+        "stated_accuracy": 0.15,
+        "correct": 3,
+        "wrong": 4,
+        "conflict-unresolved": 14,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.1429,
+        "parse_errors": 0
+      },
+      "merge_v2": {
+        "stated_correct": 3,
+        "stated_n": 20,
+        "stated_accuracy": 0.15,
+        "correct": 3,
+        "wrong": 5,
+        "conflict-unresolved": 13,
+        "correctly-abstained": 0,
+        "hallucinated": 0,
+        "accuracy_incl_abstention": 0.1429
+      },
+      "gen_sec_126_chunks": 461.4
+    }
+  },
+  "validation_documents": {
+    "description": "Two reserved validation documents (13 stated values), not used to design the merge v2 rules. Earlier fp16 run outputs, re-merged.",
+    "models": {
+      "tally-v7": {
+        "merge_v1": {
+          "stated_correct": 5,
+          "stated_n": 13,
+          "stated_accuracy": 0.3846,
+          "correct": 5,
+          "wrong": 5,
+          "conflict-unresolved": 3,
+          "correctly-abstained": 1,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.4286
+        },
+        "merge_v2": {
+          "stated_correct": 5,
+          "stated_n": 13,
+          "stated_accuracy": 0.3846,
+          "correct": 5,
+          "wrong": 6,
+          "conflict-unresolved": 2,
+          "correctly-abstained": 1,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.4286
+        }
+      },
+      "tiny-aya-global (base)": {
+        "merge_v1": {
+          "stated_correct": 3,
+          "stated_n": 13,
+          "stated_accuracy": 0.2308,
+          "correct": 3,
+          "wrong": 6,
+          "conflict-unresolved": 4,
+          "correctly-abstained": 1,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.2857
+        },
+        "merge_v2": {
+          "stated_correct": 4,
+          "stated_n": 13,
+          "stated_accuracy": 0.3077,
+          "correct": 4,
+          "wrong": 6,
+          "conflict-unresolved": 3,
+          "correctly-abstained": 1,
+          "hallucinated": 0,
+          "accuracy_incl_abstention": 0.3571
+        }
+      }
+    }
+  },
+  "notes": [
+    "One answer moves the stated-value rate by 5 points. A 95% Wilson interval on 8/20 is about 22-61%.",
+    "No correct pair under merge v1 became wrong under merge v2, on held-out or validation documents.",
+    "gen_sec is generation time for all 126 chunks at batch 16, excluding model loading."
+  ]
+}

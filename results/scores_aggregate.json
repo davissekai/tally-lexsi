@@ -301,8 +301,8 @@
       "runtime_sec": 5105.983825445175,
       "load_and_run_sec": 5230.178250789642
     },
-    "google/gemma-3-12b-it (4-bit NF4)": "pending",
-    "tally-v8": "pending"
+    "google/gemma-3-12b-it (4-bit NF4)": "not run in this earlier setup; see results/scores_a100_bf16_aggregate.json",
+    "tally-v8": "not run in this earlier setup; see results/scores_a100_bf16_aggregate.json"
   },
   "validation_docs_miro_bandai": {
     "description": "Two reserved validation documents (Miro 2410, Bandai Hills 2929), 14 pairs, 13 stated; same run.",
